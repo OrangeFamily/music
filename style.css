@@ -1,0 +1,55 @@
+@charset "UTF-8";
+.search-page {
+  font-family: Arial, sans-serif;
+  max-width: 600px;
+  margin: 50px auto;
+  text-align: center;
+}
+
+.search-bar {
+  margin: 20px 0;
+}
+
+#searchInput {
+  width: 70%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.results ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: left;
+}
+
+.results li {
+  margin: 5px 0;
+  font-size: 18px;
+}
+
+.results li strong {
+  font-size: 20px;
+  display: block;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.results li ul {
+  padding-left: 20px;
+  overflow: hidden; /* Переховуємо елементи за межами */
+  max-height: 0; /* Початково приховуємо список */
+  transition: max-height 0.5s ease-out; /* Плавне розкриття */
+}
+
+.results li ul.show {
+  max-height: 500px; /* Встановлюємо висоту для відкритого списку */
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
+
+/*# sourceMappingURL=style.css.map */
