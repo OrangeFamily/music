@@ -63,3 +63,23 @@ body {
   background-color: yellow;
   font-weight: bold;
 }
+.back-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
+.back-button button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #ff4aed;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.back-button button:hover {
+  background-color: #f81ee2;
+}
