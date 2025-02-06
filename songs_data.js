@@ -368,6 +368,18 @@ const data = [
     "artist": "3OH!3 & Kesha"
   },
   {
+    "title": "Starstrukk",
+    "artist": "3OH!3 &. Katy Perry"
+  },
+  {
+    "title": "Starstrukk",
+    "artist": "3Oh!3 Feat Katy Perry"
+  },
+  {
+    "title": "Starstrukk",
+    "artist": "3Oh!3 Ft. Katy Perry"
+  },
+  {
     "title": "Take It Easy",
     "artist": "3SL"
   },
@@ -416,10 +428,6 @@ const data = [
     "artist": "5 Seconds Of Summer"
   },
   {
-    "title": "Amnesia",
-    "artist": "5 Seconds of Summer"
-  },
-  {
     "title": "Don`t Stop",
     "artist": "5 Seconds Of Summer"
   },
@@ -430,10 +438,6 @@ const data = [
   {
     "title": "Girls Talk Boys",
     "artist": "5 Seconds Of Summer"
-  },
-  {
-    "title": "Girls Talk Boys",
-    "artist": "5 Seconds of Summer"
   },
   {
     "title": "Good Girls",
@@ -450,10 +454,6 @@ const data = [
   {
     "title": "She's Kinda Hot",
     "artist": "5 Seconds Of Summer"
-  },
-  {
-    "title": "She's Kinda Hot",
-    "artist": "5 Seconds of Summer"
   },
   {
     "title": "Teeth",
@@ -1020,10 +1020,6 @@ const data = [
     "artist": "Abba"
   },
   {
-    "title": "Fernando",
-    "artist": "ABBA"
-  },
-  {
     "title": "Gimme Gimme Gimme (A Man After Midnight)",
     "artist": "ABBA"
   },
@@ -1072,20 +1068,12 @@ const data = [
     "artist": "Abba"
   },
   {
-    "title": "Knowing Me, Knowing You",
-    "artist": "ABBA"
-  },
-  {
     "title": "Lay All Your Love On Me",
     "artist": "ABBA"
   },
   {
     "title": "Mamma Mia",
     "artist": "Abba"
-  },
-  {
-    "title": "Mamma Mia",
-    "artist": "ABBA"
   },
   {
     "title": "Money Money Money",
@@ -1152,16 +1140,8 @@ const data = [
     "artist": "Abba"
   },
   {
-    "title": "The Name Of The Game",
-    "artist": "ABBA"
-  },
-  {
     "title": "The Winner Takes It All",
     "artist": "Abba"
-  },
-  {
-    "title": "The Winner Takes It All",
-    "artist": "ABBA"
   },
   {
     "title": "Voulez Vous",
@@ -1174,10 +1154,6 @@ const data = [
   {
     "title": "Waterloo",
     "artist": "Abba"
-  },
-  {
-    "title": "Waterloo",
-    "artist": "ABBA"
   },
   {
     "title": "Winner Takes It All",
@@ -1284,10 +1260,6 @@ const data = [
     "artist": "Acdc"
   },
   {
-    "title": "Hell's Bells",
-    "artist": "ACDC"
-  },
-  {
     "title": "Highway To Hell",
     "artist": "ACDC"
   },
@@ -1368,15 +1340,7 @@ const data = [
     "artist": "Acdc"
   },
   {
-    "title": "Thunderstruck",
-    "artist": "ACDC"
-  },
-  {
     "title": "TNT",
-    "artist": "ACDC"
-  },
-  {
-    "title": "Tnt",
     "artist": "ACDC"
   },
   {
@@ -1749,10 +1713,6 @@ const data = [
   },
   {
     "title": "Set Fire To The Rain",
-    "artist": "Adele"
-  },
-  {
-    "title": "Set Fire to the Rain",
     "artist": "Adele"
   },
   {
@@ -2188,15 +2148,7 @@ const data = [
     "artist": "Air Supply"
   },
   {
-    "title": "Even the Nights are Better",
-    "artist": "Air Supply"
-  },
-  {
     "title": "Every Woman In The World",
-    "artist": "Air Supply"
-  },
-  {
-    "title": "Every Woman in the World",
     "artist": "Air Supply"
   },
   {
@@ -2213,10 +2165,6 @@ const data = [
   },
   {
     "title": "Lost In Love",
-    "artist": "Air Supply"
-  },
-  {
-    "title": "Lost in Love",
     "artist": "Air Supply"
   },
   {
@@ -3221,10 +3169,6 @@ const data = [
   },
   {
     "title": "You learn",
-    "artist": "Alanis Morissette"
-  },
-  {
-    "title": "You Learn",
     "artist": "Alanis Morissette"
   },
   {
@@ -4432,10 +4376,6 @@ const data = [
     "artist": "Alicia Villarreal"
   },
   {
-    "title": "Te QuedO Grande La Yegua",
-    "artist": "Alicia Villarreal"
-  },
-  {
     "title": "Movies",
     "artist": "Alien Ant Farm"
   },
@@ -5472,10 +5412,6 @@ const data = [
     "artist": "Amy Winehouse"
   },
   {
-    "title": "You Know I'M No Good",
-    "artist": "Amy Winehouse"
-  },
-  {
     "title": "Valerie",
     "artist": "Amy Winehouse & Mark Ronson"
   },
@@ -6381,10 +6317,6 @@ const data = [
   },
   {
     "title": "Giving You The Best That I Got",
-    "artist": "Anita Baker"
-  },
-  {
-    "title": "Giving You the Best That I Got",
     "artist": "Anita Baker"
   },
   {
@@ -7348,10 +7280,6 @@ const data = [
     "artist": "Ariana Grande & Nicki Minaj"
   },
   {
-    "title": "Side to Side",
-    "artist": "Ariana Grande & Nicki Minaj"
-  },
-  {
     "title": "Boyfriend",
     "artist": "Ariana Grande & Social House"
   },
@@ -7884,10 +7812,6 @@ const data = [
     "artist": "Atomic Kitten"
   },
   {
-    "title": "It's OK",
-    "artist": "Atomic Kitten"
-  },
-  {
     "title": "It's Okay",
     "artist": "Atomic Kitten"
   },
@@ -7973,10 +7897,6 @@ const data = [
   },
   {
     "title": "Half The World Away",
-    "artist": "Aurora"
-  },
-  {
-    "title": "Half the World Away",
     "artist": "Aurora"
   },
   {
@@ -8476,10 +8396,6 @@ const data = [
     "artist": "B 52's"
   },
   {
-    "title": "Love Shack",
-    "artist": "B 52'S"
-  },
-  {
     "title": "Private Idaho",
     "artist": "B 52's"
   },
@@ -8678,10 +8594,6 @@ const data = [
   {
     "title": "Love Shack",
     "artist": "B-52'S"
-  },
-  {
-    "title": "Love Shack",
-    "artist": "B-52's"
   },
   {
     "title": "Private Idaho",
@@ -9264,10 +9176,6 @@ const data = [
     "artist": "Banda El Recodo"
   },
   {
-    "title": "Y Llegaste TU",
-    "artist": "Banda El Recodo"
-  },
-  {
     "title": "Yo Se Que Te Acordaras",
     "artist": "Banda El Recodo"
   },
@@ -9756,10 +9664,6 @@ const data = [
     "artist": "Barry McGuire"
   },
   {
-    "title": "Eve Of Destruction",
-    "artist": "Barry Mcguire"
-  },
-  {
     "title": "Eloise",
     "artist": "Barry Ryan"
   },
@@ -10152,10 +10056,6 @@ const data = [
     "artist": "Beach Boys"
   },
   {
-    "title": "Surfin' Usa",
-    "artist": "Beach Boys"
-  },
-  {
     "title": "Then I Kissed Her",
     "artist": "Beach Boys"
   },
@@ -10404,10 +10304,6 @@ const data = [
     "artist": "Beatles"
   },
   {
-    "title": "Drive My Car",
-    "artist": "Beatles"
-  },
-  {
     "title": "Eight Days A Week",
     "artist": "Beatles"
   },
@@ -10533,10 +10429,6 @@ const data = [
   },
   {
     "title": "I will",
-    "artist": "Beatles"
-  },
-  {
-    "title": "I Will",
     "artist": "Beatles"
   },
   {
@@ -10925,10 +10817,6 @@ const data = [
   },
   {
     "title": "Harmonie D'un Soir a Chateauguay",
-    "artist": "Beau Dommage"
-  },
-  {
-    "title": "Harmonie D'un Soir A Chateauguay",
     "artist": "Beau Dommage"
   },
   {
@@ -11912,10 +11800,6 @@ const data = [
     "artist": "Beyonce"
   },
   {
-    "title": "Die with You",
-    "artist": "Beyonce"
-  },
-  {
     "title": "Diva",
     "artist": "Beyonce"
   },
@@ -12032,23 +11916,11 @@ const data = [
     "artist": "Beyonce"
   },
   {
-    "title": "Work it Out",
-    "artist": "Beyonce"
-  },
-  {
     "title": "Xo",
     "artist": "Beyonce"
   },
   {
-    "title": "XO",
-    "artist": "Beyonce"
-  },
-  {
     "title": "Crazy In Love",
-    "artist": "Beyonce & Jay Z"
-  },
-  {
-    "title": "Crazy in Love",
     "artist": "Beyonce & Jay Z"
   },
   {
@@ -14012,10 +13884,6 @@ const data = [
     "artist": "Blonde feat. Alex Newell"
   },
   {
-    "title": "All Cried Out",
-    "artist": "Blonde Feat. Alex Newell"
-  },
-  {
     "title": "Atomic",
     "artist": "Blondie"
   },
@@ -14672,10 +14540,6 @@ const data = [
     "artist": "Bob Marley"
   },
   {
-    "title": "Could You be Loved",
-    "artist": "Bob Marley"
-  },
-  {
     "title": "Get Up Stand Up",
     "artist": "Bob Marley"
   },
@@ -15136,14 +15000,6 @@ const data = [
     "artist": "Bobby Mcferrin"
   },
   {
-    "title": "Don't Worry Be Happy",
-    "artist": "Bobby McFerrin"
-  },
-  {
-    "title": "Don't Worry be Happy",
-    "artist": "Bobby McFerrin"
-  },
-  {
     "title": "Don't Worry, Be Happy",
     "artist": "Bobby McFerrin"
   },
@@ -15348,10 +15204,6 @@ const data = [
     "artist": "Bon Jovi"
   },
   {
-    "title": "Born to Be My Baby",
-    "artist": "Bon Jovi"
-  },
-  {
     "title": "Everday",
     "artist": "Bon Jovi"
   },
@@ -15365,10 +15217,6 @@ const data = [
   },
   {
     "title": "I'll Be There For You",
-    "artist": "Bon Jovi"
-  },
-  {
-    "title": "I'll be There for You",
     "artist": "Bon Jovi"
   },
   {
@@ -15409,10 +15257,6 @@ const data = [
   },
   {
     "title": "Livin' on a Prayer",
-    "artist": "Bon Jovi"
-  },
-  {
-    "title": "Livin' On A Prayer",
     "artist": "Bon Jovi"
   },
   {
@@ -15505,10 +15349,6 @@ const data = [
   },
   {
     "title": "We Weren't Born To Follow",
-    "artist": "Bon Jovi"
-  },
-  {
-    "title": "We Weren't Born to Follow",
     "artist": "Bon Jovi"
   },
   {
@@ -15877,10 +15717,6 @@ const data = [
   },
   {
     "title": "I Want To Wake Up With You",
-    "artist": "Boris Gardiner"
-  },
-  {
-    "title": "I Want to Wake Up With You",
     "artist": "Boris Gardiner"
   },
   {
@@ -17116,10 +16952,6 @@ const data = [
     "artist": "Britney Spears feat. G-Eazy"
   },
   {
-    "title": "Make Me",
-    "artist": "Britney Spears Feat. G-Eazy"
-  },
-  {
     "title": "It Should Be Easy",
     "artist": "Britney Spears Feat. will.i.am"
   },
@@ -17524,15 +17356,7 @@ const data = [
     "artist": "Bruce Springsteen"
   },
   {
-    "title": "Born In The Usa",
-    "artist": "Bruce Springsteen"
-  },
-  {
     "title": "Born To Run",
-    "artist": "Bruce Springsteen"
-  },
-  {
-    "title": "Born to Run",
     "artist": "Bruce Springsteen"
   },
   {
@@ -17616,10 +17440,6 @@ const data = [
     "artist": "Bruce Springsteen"
   },
   {
-    "title": "Streets Of Philadelphia",
-    "artist": "Bruce Springsteen"
-  },
-  {
     "title": "Tenth Avenue Freeze Out",
     "artist": "Bruce Springsteen"
   },
@@ -17689,10 +17509,6 @@ const data = [
   },
   {
     "title": "24K Magic",
-    "artist": "Bruno Mars"
-  },
-  {
-    "title": "24k Magic",
     "artist": "Bruno Mars"
   },
   {
@@ -18548,10 +18364,6 @@ const data = [
     "artist": "Busted"
   },
   {
-    "title": "3Am",
-    "artist": "Busted"
-  },
-  {
     "title": "Air Hostess",
     "artist": "Busted"
   },
@@ -18936,10 +18748,6 @@ const data = [
     "artist": "Calvin Harris & Disciples"
   },
   {
-    "title": "How Deep is Your Love",
-    "artist": "Calvin Harris & Disciples"
-  },
-  {
     "title": "One Kiss",
     "artist": "Calvin Harris & Dua Lipa"
   },
@@ -18993,10 +18801,6 @@ const data = [
   },
   {
     "title": "How Deep Is Your Love",
-    "artist": "Calvin Harris + Disciples"
-  },
-  {
-    "title": "How Deep is Your Love",
     "artist": "Calvin Harris + Disciples"
   },
   {
@@ -19118,10 +18922,6 @@ const data = [
   {
     "title": "Under Control",
     "artist": "Calvin Harris  &  Alesso"
-  },
-  {
-    "title": "I Need Your Love",
-    "artist": "Calvin Harris feat Ellie Goulding"
   },
   {
     "title": "Dance Wiv Me",
@@ -20564,19 +20364,11 @@ const data = [
     "artist": "Celia Cruz"
   },
   {
-    "title": "Usted Abuso",
-    "artist": "Celia Cruz"
-  },
-  {
     "title": "Yerbero Moderno",
     "artist": "Celia Cruz"
   },
   {
     "title": "Yo VivirE (I Will Survive)",
-    "artist": "Celia Cruz"
-  },
-  {
-    "title": "Yo Vivire (I Will Survive)",
     "artist": "Celia Cruz"
   },
   {
@@ -21008,10 +20800,6 @@ const data = [
     "artist": "Chainsmokers feat. Halsey"
   },
   {
-    "title": "Closer",
-    "artist": "Chainsmokers Feat. Halsey"
-  },
-  {
     "title": "Roses",
     "artist": "Chainsmokers Feat. Rozes"
   },
@@ -21114,10 +20902,6 @@ const data = [
   {
     "title": "Manhattan Transfer",
     "artist": "Chanson D'amour"
-  },
-  {
-    "title": "Manhattan Transfer",
-    "artist": "Chanson D'Amour"
   },
   {
     "title": "L'hotel Et La Boisson",
@@ -21352,10 +21136,6 @@ const data = [
     "artist": "Charli Xcx"
   },
   {
-    "title": "Boom Clap",
-    "artist": "Charli XCX"
-  },
-  {
     "title": "Boys",
     "artist": "Charli XCX"
   },
@@ -21522,10 +21302,6 @@ const data = [
   {
     "title": "Marvin Gaye",
     "artist": "Charlie Puth Ft Meghan Trainor"
-  },
-  {
-    "title": "Marvin Gaye",
-    "artist": "Charlie Puth ft Meghan Trainor"
   },
   {
     "title": "A Very Special Love Song",
@@ -21902,10 +21678,6 @@ const data = [
   {
     "title": "Sex",
     "artist": "Cheat Codes x Kris Kross Amsterdam"
-  },
-  {
-    "title": "Sex",
-    "artist": "Cheat Codes X Kris Kross Amsterdam"
   },
   {
     "title": "Non Me Lo So Spiegare (Seghe Nere)",
@@ -22724,10 +22496,6 @@ const data = [
     "artist": "Chris Brown & Justin Bieber"
   },
   {
-    "title": "Next to You",
-    "artist": "Chris Brown & Justin Bieber"
-  },
-  {
     "title": "Superhuman",
     "artist": "Chris Brown & Keri Hilson"
   },
@@ -22816,10 +22584,6 @@ const data = [
     "artist": "Chris De burgh"
   },
   {
-    "title": "Lady In Red",
-    "artist": "Chris De Burgh"
-  },
-  {
     "title": "Patricia The Stripper",
     "artist": "Chris De Burgh"
   },
@@ -22838,10 +22602,6 @@ const data = [
   {
     "title": "Lady In Red",
     "artist": "Chris Deburgh"
-  },
-  {
-    "title": "Lady In Red",
-    "artist": "Chris DeBurgh"
   },
   {
     "title": "Out Of Time",
@@ -23386,10 +23146,6 @@ const data = [
   {
     "title": "Tilted",
     "artist": "Christine & The Queens"
-  },
-  {
-    "title": "Tilted",
-    "artist": "Christine & the Queens"
   },
   {
     "title": "Girlfriend",
@@ -26101,10 +25857,6 @@ const data = [
   },
   {
     "title": "Gangsta's Paradise",
-    "artist": "Coolio & LV"
-  },
-  {
-    "title": "Gangsta's Paradise",
     "artist": "Coolio Featuring LV"
   },
   {
@@ -26517,10 +26269,6 @@ const data = [
   },
   {
     "title": "When the Bassline Drops",
-    "artist": "Craig David & Big Narstie"
-  },
-  {
-    "title": "When The Bassline Drops",
     "artist": "Craig David & Big Narstie"
   },
   {
@@ -28760,10 +28508,6 @@ const data = [
     "artist": "David Bisbal"
   },
   {
-    "title": "Llorare Las Penas",
-    "artist": "David Bisbal"
-  },
-  {
     "title": "Mienteme",
     "artist": "David Bisbal"
   },
@@ -29576,10 +29320,6 @@ const data = [
     "artist": "D'banj"
   },
   {
-    "title": "Oliver Twist",
-    "artist": "D'Banj"
-  },
-  {
     "title": "Rhythm Of The Night",
     "artist": "Dbarge"
   },
@@ -30164,10 +29904,6 @@ const data = [
     "artist": "Del Amitri"
   },
   {
-    "title": "Roll To Me",
-    "artist": "Del Amitri"
-  },
-  {
     "title": "Spit In The Rain",
     "artist": "Del Amitri"
   },
@@ -30381,10 +30117,6 @@ const data = [
   },
   {
     "title": "Cool For The Summer",
-    "artist": "Demi Lovato"
-  },
-  {
-    "title": "Cool for the Summer",
     "artist": "Demi Lovato"
   },
   {
@@ -31820,10 +31552,6 @@ const data = [
     "artist": "Disclosure Ft Sam Smith"
   },
   {
-    "title": "Omen",
-    "artist": "Disclosure ft Sam Smith"
-  },
-  {
     "title": "I Wanna Dance Wit Choo",
     "artist": "Disco Tex & Sex-O-Letts"
   },
@@ -32304,10 +32032,6 @@ const data = [
     "artist": "DJ Otzi"
   },
   {
-    "title": "Hey Baby",
-    "artist": "Dj Otzi"
-  },
-  {
     "title": "Today Is The Day",
     "artist": "DJ Otzi"
   },
@@ -32342,10 +32066,6 @@ const data = [
   {
     "title": "Let Me Love You",
     "artist": "DJ Snake & Justin Bieber"
-  },
-  {
-    "title": "Let Me Love You",
-    "artist": "Dj Snake & Justin Bieber"
   },
   {
     "title": "Middle",
@@ -32409,10 +32129,6 @@ const data = [
   },
   {
     "title": "Cake By The Ocean",
-    "artist": "DNCE"
-  },
-  {
-    "title": "Cake by the Ocean",
     "artist": "DNCE"
   },
   {
@@ -33004,10 +32720,6 @@ const data = [
     "artist": "Don McLean"
   },
   {
-    "title": "American Pie",
-    "artist": "Don Mclean"
-  },
-  {
     "title": "And I Love You So",
     "artist": "Don McLean"
   },
@@ -33022,10 +32734,6 @@ const data = [
   {
     "title": "Vincent",
     "artist": "Don McLean"
-  },
-  {
-    "title": "Vincent",
-    "artist": "Don Mclean"
   },
   {
     "title": "Winterwood",
@@ -33529,10 +33237,6 @@ const data = [
   },
   {
     "title": "People Are Strange",
-    "artist": "Doors"
-  },
-  {
-    "title": "People are Strange",
     "artist": "Doors"
   },
   {
@@ -34360,15 +34064,7 @@ const data = [
     "artist": "Duran Duran"
   },
   {
-    "title": "Girls on Film",
-    "artist": "Duran Duran"
-  },
-  {
     "title": "Hungry Like The Wolf",
-    "artist": "Duran Duran"
-  },
-  {
-    "title": "Hungry Like the Wolf",
     "artist": "Duran Duran"
   },
   {
@@ -36368,10 +36064,6 @@ const data = [
     "artist": "Ellie Goulding"
   },
   {
-    "title": "Still Falling for You",
-    "artist": "Ellie Goulding"
-  },
-  {
     "title": "Your Song",
     "artist": "Ellie Goulding"
   },
@@ -36417,10 +36109,6 @@ const data = [
   },
   {
     "title": "Bennie & The Jets",
-    "artist": "Elton John"
-  },
-  {
-    "title": "Bennie & the Jets",
     "artist": "Elton John"
   },
   {
@@ -36517,10 +36205,6 @@ const data = [
   },
   {
     "title": "I Guess That's Why They Call it the Blues",
-    "artist": "Elton John"
-  },
-  {
-    "title": "I Guess That's Why They Call It The Blues",
     "artist": "Elton John"
   },
   {
@@ -36624,10 +36308,6 @@ const data = [
     "artist": "Elton John"
   },
   {
-    "title": "Saturday Night's Alright For Fighting",
-    "artist": "Elton John"
-  },
-  {
     "title": "Simple Life",
     "artist": "Elton John"
   },
@@ -36652,10 +36332,6 @@ const data = [
     "artist": "Elton John"
   },
   {
-    "title": "Sorry Seems To Be The Hardest Word",
-    "artist": "Elton John"
-  },
-  {
     "title": "Step Into Christmas",
     "artist": "Elton John"
   },
@@ -36665,10 +36341,6 @@ const data = [
   },
   {
     "title": "The Bitch is Back",
-    "artist": "Elton John"
-  },
-  {
-    "title": "The Bitch Is Back",
     "artist": "Elton John"
   },
   {
@@ -37332,10 +37004,6 @@ const data = [
     "artist": "Elyar Fox"
   },
   {
-    "title": "Do It All Over Again",
-    "artist": "Elyar Fox"
-  },
-  {
     "title": "A Escondidas",
     "artist": "Emanuel Ortega"
   },
@@ -37428,10 +37096,6 @@ const data = [
     "artist": "Emeli Sande"
   },
   {
-    "title": "Read All About It (Part III)",
-    "artist": "Emeli Sande"
-  },
-  {
     "title": "Read All About It",
     "artist": "Emeli Sande"
   },
@@ -37482,10 +37146,6 @@ const data = [
   {
     "title": "Unbelievable",
     "artist": "Emf"
-  },
-  {
-    "title": "Unbelievable",
-    "artist": "EMF"
   },
   {
     "title": "On A Slow Boat To China",
@@ -38328,10 +37988,6 @@ const data = [
     "artist": "Enrique Iglesias"
   },
   {
-    "title": "Para QuE La Vida",
-    "artist": "Enrique Iglesias"
-  },
-  {
     "title": "Pienso En Ti",
     "artist": "Enrique Iglesias"
   },
@@ -38593,10 +38249,6 @@ const data = [
   },
   {
     "title": "Oh l'Amour",
-    "artist": "Erasure"
-  },
-  {
-    "title": "Oh L'amour",
     "artist": "Erasure"
   },
   {
@@ -40880,10 +40532,6 @@ const data = [
     "artist": "Fifth Harmony feat. Ty Dolla Sign"
   },
   {
-    "title": "Work From Home",
-    "artist": "Fifth Harmony Feat. Ty Dolla Sign"
-  },
-  {
     "title": "Earned It",
     "artist": "Fifty Shades Of Grey"
   },
@@ -41536,10 +41184,6 @@ const data = [
     "artist": "Flo Rida feat. Jason Derulo"
   },
   {
-    "title": "Hello Friday",
-    "artist": "Flo Rida Feat. Jason Derulo"
-  },
-  {
     "title": "Run",
     "artist": "Flo Rida Feat. RedFoo of LMFAO"
   },
@@ -41916,10 +41560,6 @@ const data = [
     "artist": "Foreigner"
   },
   {
-    "title": "Cold as Ice",
-    "artist": "Foreigner"
-  },
-  {
     "title": "Dirty White Boy",
     "artist": "Foreigner"
   },
@@ -41929,10 +41569,6 @@ const data = [
   },
   {
     "title": "Feels Like The First Time",
-    "artist": "Foreigner"
-  },
-  {
-    "title": "Feels Like the First Time",
     "artist": "Foreigner"
   },
   {
@@ -41981,10 +41617,6 @@ const data = [
   },
   {
     "title": "Waiting For A Girl Like You",
-    "artist": "Foreigner"
-  },
-  {
-    "title": "Waiting for a Girl Like You",
     "artist": "Foreigner"
   },
   {
@@ -43014,10 +42646,6 @@ const data = [
   {
     "title": "Confusion Girl",
     "artist": "Frankmusik"
-  },
-  {
-    "title": "Confusion Girl",
-    "artist": "FrankMusik"
   },
   {
     "title": "Confusion Girl",
@@ -45264,10 +44892,6 @@ const data = [
     "artist": "George McCrae"
   },
   {
-    "title": "Rock Your Baby",
-    "artist": "George Mccrae"
-  },
-  {
     "title": "It's Been So Long",
     "artist": "George McCray"
   },
@@ -45648,10 +45272,6 @@ const data = [
     "artist": "George Strait"
   },
   {
-    "title": "What's Going On in Your World",
-    "artist": "George Strait"
-  },
-  {
     "title": "When Did You Stop Loving Me",
     "artist": "George Strait"
   },
@@ -45669,10 +45289,6 @@ const data = [
   },
   {
     "title": "You Can't Make A Heart Love Somebody",
-    "artist": "George Strait"
-  },
-  {
-    "title": "You Can't Make a Heart Love Somebody",
     "artist": "George Strait"
   },
   {
@@ -46534,10 +46150,6 @@ const data = [
   {
     "title": "Promise",
     "artist": "Girls ALoud"
-  },
-  {
-    "title": "Promise",
-    "artist": "Girls Aloud"
   },
   {
     "title": "Sexy No No No",
@@ -48580,10 +48192,6 @@ const data = [
     "artist": "Guns 'n' Roses"
   },
   {
-    "title": "Sweet Child O' Mine",
-    "artist": "Guns 'N' Roses"
-  },
-  {
     "title": "Sweet Child Of Mine",
     "artist": "Guns N Roses"
   },
@@ -48701,10 +48309,6 @@ const data = [
   },
   {
     "title": "Like A Drum",
-    "artist": "Guy Sebastian"
-  },
-  {
-    "title": "Like a Drum",
     "artist": "Guy Sebastian"
   },
   {
@@ -49185,10 +48789,6 @@ const data = [
   },
   {
     "title": "Now Or Never",
-    "artist": "Halsey"
-  },
-  {
-    "title": "Now or Never",
     "artist": "Halsey"
   },
   {
@@ -50856,10 +50456,6 @@ const data = [
     "artist": "Hollies"
   },
   {
-    "title": "Long Cool Woman in a Black Dress",
-    "artist": "Hollies"
-  },
-  {
     "title": "Look Through Any Window",
     "artist": "Hollies"
   },
@@ -50869,10 +50465,6 @@ const data = [
   },
   {
     "title": "On a Carousel",
-    "artist": "Hollies"
-  },
-  {
-    "title": "On A Carousel",
     "artist": "Hollies"
   },
   {
@@ -51908,20 +51500,8 @@ const data = [
     "artist": "Iggy Azalea Feat. Charli Xcx"
   },
   {
-    "title": "Fancy",
-    "artist": "Iggy Azalea feat. Charli XCX"
-  },
-  {
-    "title": "Fancy",
-    "artist": "Iggy Azalea Feat. Charli XCX"
-  },
-  {
     "title": "Trouble",
     "artist": "Iggy Azalea feat. Jennifer Hudson"
-  },
-  {
-    "title": "Trouble",
-    "artist": "Iggy Azalea Feat. Jennifer Hudson"
   },
   {
     "title": "Black Widow",
@@ -52340,20 +51920,12 @@ const data = [
     "artist": "Inxs"
   },
   {
-    "title": "Devil Inside",
-    "artist": "INXS"
-  },
-  {
     "title": "Don't Change",
     "artist": "Inxs"
   },
   {
     "title": "Elegantly Wasted",
     "artist": "Inxs"
-  },
-  {
-    "title": "Elegantly Wasted",
-    "artist": "INXS"
   },
   {
     "title": "Good & Bad Times",
@@ -52384,24 +51956,12 @@ const data = [
     "artist": "Inxs"
   },
   {
-    "title": "Need You Tonight",
-    "artist": "INXS"
-  },
-  {
     "title": "Never Tear Us Apart",
     "artist": "Inxs"
   },
   {
-    "title": "Never Tear Us Apart",
-    "artist": "INXS"
-  },
-  {
     "title": "New Sensation",
     "artist": "Inxs"
-  },
-  {
-    "title": "New Sensation",
-    "artist": "INXS"
   },
   {
     "title": "Not Enough Time",
@@ -52434,10 +51994,6 @@ const data = [
   {
     "title": "What You Need",
     "artist": "Inxs"
-  },
-  {
-    "title": "What You Need",
-    "artist": "INXS"
   },
   {
     "title": "Goodbye Lament",
@@ -53420,10 +52976,6 @@ const data = [
     "artist": "Jacksons"
   },
   {
-    "title": "Blame It On The Boogie",
-    "artist": "Jacksons"
-  },
-  {
     "title": "Can You Feel It",
     "artist": "Jacksons"
   },
@@ -53772,10 +53324,6 @@ const data = [
     "artist": "James Arthur"
   },
   {
-    "title": "You're Nobody 'Til Somebody Loves You",
-    "artist": "James Arthur"
-  },
-  {
     "title": "Rewrite the Stars",
     "artist": "James Arthur & Anne-Marie"
   },
@@ -53994,10 +53542,6 @@ const data = [
   {
     "title": "Ya Mo B There",
     "artist": "James Ingram & Michael Mcdonald"
-  },
-  {
-    "title": "Ya Mo B There",
-    "artist": "James Ingram & Michael McDonald"
   },
   {
     "title": "Rest In Peace",
@@ -54904,10 +54448,6 @@ const data = [
     "artist": "Jason Derulo"
   },
   {
-    "title": "Want To Want Me",
-    "artist": "Jason Derulo"
-  },
-  {
     "title": "Watcha Say",
     "artist": "Jason Derulo"
   },
@@ -54918,10 +54458,6 @@ const data = [
   {
     "title": "Whatcha Say",
     "artist": "Jason Derulo"
-  },
-  {
-    "title": "Whatcha Say",
-    "artist": "Jason DeRulo"
   },
   {
     "title": "Wiggle",
@@ -55476,10 +55012,6 @@ const data = [
     "artist": "Jeannie C Riley"
   },
   {
-    "title": "Harper Valley Pta",
-    "artist": "Jeannie C Riley"
-  },
-  {
     "title": "Harper Valley PTA",
     "artist": "Jeannie C. Riley"
   },
@@ -55569,10 +55101,6 @@ const data = [
   },
   {
     "title": "I Can Only Imagine.cdg",
-    "artist": "Jeff Carson [SC Karaoke]"
-  },
-  {
-    "title": "I Can Only Imagine.mp3",
     "artist": "Jeff Carson [SC Karaoke]"
   },
   {
@@ -55836,10 +55364,6 @@ const data = [
     "artist": "Jennifer Lopez"
   },
   {
-    "title": "Love Don't Cost A Thing",
-    "artist": "Jennifer Lopez"
-  },
-  {
     "title": "My Love Don't Cost A Thing",
     "artist": "Jennifer Lopez"
   },
@@ -55876,10 +55400,6 @@ const data = [
     "artist": "Jennifer Lopez"
   },
   {
-    "title": "Si Ya Se AcabO",
-    "artist": "Jennifer Lopez"
-  },
-  {
     "title": "Una Noche Mas",
     "artist": "Jennifer Lopez"
   },
@@ -55902,10 +55422,6 @@ const data = [
   {
     "title": "All I Have",
     "artist": "Jennifer Lopez & LL Cool J"
-  },
-  {
-    "title": "All I Have",
-    "artist": "Jennifer Lopez & Ll Cool J"
   },
   {
     "title": "No Me Ames",
@@ -56237,10 +55753,6 @@ const data = [
   },
   {
     "title": "Don't Be So Hard On Yourself",
-    "artist": "Jess Glynne"
-  },
-  {
-    "title": "Don't Be so Hard On Yourself",
     "artist": "Jess Glynne"
   },
   {
@@ -57456,10 +56968,6 @@ const data = [
     "artist": "JLS"
   },
   {
-    "title": "Billion Lights",
-    "artist": "Jls"
-  },
-  {
     "title": "Club Is Alive",
     "artist": "JLS"
   },
@@ -57468,19 +56976,11 @@ const data = [
     "artist": "Jls"
   },
   {
-    "title": "Do You Feel What I Feel",
-    "artist": "JLS"
-  },
-  {
     "title": "Everybody In Love (Put Your Hands Up)",
     "artist": "JLS"
   },
   {
     "title": "Everybody In Love",
-    "artist": "JLS"
-  },
-  {
-    "title": "Everybody in Love",
     "artist": "JLS"
   },
   {
@@ -57498,10 +56998,6 @@ const data = [
   {
     "title": "Love You More",
     "artist": "JLS"
-  },
-  {
-    "title": "Love You More",
-    "artist": "Jls"
   },
   {
     "title": "One Shot",
@@ -58244,10 +57740,6 @@ const data = [
     "artist": "Joe Jackson"
   },
   {
-    "title": "It's Different for Girls",
-    "artist": "Joe Jackson"
-  },
-  {
     "title": "Look Sharp",
     "artist": "Joe Jackson"
   },
@@ -58270,10 +57762,6 @@ const data = [
   {
     "title": "Ambitions",
     "artist": "Joe Mcelderry"
-  },
-  {
-    "title": "Ambitions",
-    "artist": "Joe McElderry"
   },
   {
     "title": "Climb",
@@ -58334,10 +57822,6 @@ const data = [
   {
     "title": "The Party (This Is How We Do It)",
     "artist": "Joe Stone Ft Montell Jordan"
-  },
-  {
-    "title": "The Party (This Is How We Do It)",
-    "artist": "Joe Stone ft Montell Jordan"
   },
   {
     "title": "Ain't Gonna Bump No More (With No Big Fat Woman)",
@@ -58909,10 +58393,6 @@ const data = [
   },
   {
     "title": "Help Me Make It Through The Night",
-    "artist": "John Holt"
-  },
-  {
-    "title": "Help Me Make it Through the Night",
     "artist": "John Holt"
   },
   {
@@ -60108,10 +59588,6 @@ const data = [
     "artist": "Jojo"
   },
   {
-    "title": "Baby It's You",
-    "artist": "JoJo"
-  },
-  {
     "title": "Leave (Get Out)",
     "artist": "Jojo"
   },
@@ -60341,10 +59817,6 @@ const data = [
   },
   {
     "title": "SOS (Let The Music Play)",
-    "artist": "Jordin Sparks"
-  },
-  {
-    "title": "Sos (Let The Music Play)",
     "artist": "Jordin Sparks"
   },
   {
@@ -62472,10 +61944,6 @@ const data = [
     "artist": "Justin Timberlake"
   },
   {
-    "title": "Take Back the Night",
-    "artist": "Justin Timberlake"
-  },
-  {
     "title": "Tunnel Vision",
     "artist": "Justin Timberlake"
   },
@@ -63628,10 +63096,6 @@ const data = [
     "artist": "Katy Perry"
   },
   {
-    "title": "Hot n Cold",
-    "artist": "Katy Perry"
-  },
-  {
     "title": "I Kissed A Girl",
     "artist": "Katy Perry"
   },
@@ -63860,16 +63324,8 @@ const data = [
     "artist": "Ke$Ha"
   },
   {
-    "title": "Die Young",
-    "artist": "Ke$ha"
-  },
-  {
     "title": "Tik Tok",
     "artist": "Ke$Ha"
-  },
-  {
-    "title": "Tik Tok",
-    "artist": "Ke$ha"
   },
   {
     "title": "We Are Who We Are",
@@ -64072,10 +63528,6 @@ const data = [
     "artist": "Keith Urban"
   },
   {
-    "title": "But for the Grace of God",
-    "artist": "Keith Urban"
-  },
-  {
     "title": "Days Go By",
     "artist": "Keith Urban"
   },
@@ -64101,10 +63553,6 @@ const data = [
   },
   {
     "title": "Making Memories Of Us",
-    "artist": "Keith Urban"
-  },
-  {
-    "title": "Making Memories of Us",
     "artist": "Keith Urban"
   },
   {
@@ -64465,10 +63913,6 @@ const data = [
   },
   {
     "title": "What Doesn't Kill You (Stronger)",
-    "artist": "Kelly Clarkson"
-  },
-  {
-    "title": "What Doesn't Kill You (stronger)",
     "artist": "Kelly Clarkson"
   },
   {
@@ -64844,10 +64288,6 @@ const data = [
     "artist": "Kenny Chesney & Pink"
   },
   {
-    "title": "Setting the World on Fire",
-    "artist": "Kenny Chesney & Pink"
-  },
-  {
     "title": "When The Sun Goes Down",
     "artist": "Kenny Chesney & Uncle Kracker"
   },
@@ -65165,10 +64605,6 @@ const data = [
   },
   {
     "title": "C'mon",
-    "artist": "Kesha"
-  },
-  {
-    "title": "C'Mon",
     "artist": "Kesha"
   },
   {
@@ -65712,10 +65148,6 @@ const data = [
     "artist": "Kings Of Leon"
   },
   {
-    "title": "Waste a Moment",
-    "artist": "Kings of Leon"
-  },
-  {
     "title": "Summerland",
     "artist": "King's X"
   },
@@ -65960,10 +65392,6 @@ const data = [
     "artist": "Kiss"
   },
   {
-    "title": "God of Thunder",
-    "artist": "Kiss"
-  },
-  {
     "title": "Goin' Blind",
     "artist": "Kiss"
   },
@@ -66068,19 +65496,11 @@ const data = [
     "artist": "Kiss"
   },
   {
-    "title": "Shout it Out Loud",
-    "artist": "Kiss"
-  },
-  {
     "title": "Strutter",
     "artist": "Kiss"
   },
   {
     "title": "Tears Are Falling",
-    "artist": "Kiss"
-  },
-  {
-    "title": "Tears are Falling",
     "artist": "Kiss"
   },
   {
@@ -66472,10 +65892,6 @@ const data = [
     "artist": "KT Tunstall"
   },
   {
-    "title": "Hold On",
-    "artist": "Kt Tunstall"
-  },
-  {
     "title": "If Only",
     "artist": "Kt Tunstall"
   },
@@ -66486,10 +65902,6 @@ const data = [
   {
     "title": "Suddenly I See",
     "artist": "Kt Tunstall"
-  },
-  {
-    "title": "Suddenly I See",
-    "artist": "KT Tunstall"
   },
   {
     "title": "Under The Weather",
@@ -66565,10 +65977,6 @@ const data = [
   },
   {
     "title": "This Girl",
-    "artist": "Kungs Vs Cookin' On 3 Burners"
-  },
-  {
-    "title": "This Girl",
     "artist": "Kungs vs. Cookin' On 3 Burners"
   },
   {
@@ -66634,10 +66042,6 @@ const data = [
   {
     "title": "Firestone",
     "artist": "Kygo feat. Conrad"
-  },
-  {
-    "title": "Firestone",
-    "artist": "Kygo Feat. Conrad"
   },
   {
     "title": "Here For You",
@@ -67252,10 +66656,6 @@ const data = [
     "artist": "La Roux"
   },
   {
-    "title": "In For The Kill",
-    "artist": "LA Roux"
-  },
-  {
     "title": "Let Me Down Gently",
     "artist": "La Roux"
   },
@@ -67432,10 +66832,6 @@ const data = [
     "artist": "Lady Gaga"
   },
   {
-    "title": "Alejandro",
-    "artist": "Lady GaGa"
-  },
-  {
     "title": "Always Remember Us This Way (A Star Is Born)",
     "artist": "Lady Gaga"
   },
@@ -67448,20 +66844,12 @@ const data = [
     "artist": "Lady Gaga"
   },
   {
-    "title": "Bad Romance",
-    "artist": "Lady GaGa"
-  },
-  {
     "title": "Before I Cry (A Star is Born)",
     "artist": "Lady Gaga"
   },
   {
     "title": "Born This Way",
     "artist": "Lady GaGa"
-  },
-  {
-    "title": "Born This Way",
-    "artist": "Lady Gaga"
   },
   {
     "title": "Brown Eyes",
@@ -67524,10 +66912,6 @@ const data = [
     "artist": "Lady GaGa"
   },
   {
-    "title": "Love Game",
-    "artist": "Lady Gaga"
-  },
-  {
     "title": "Lovegame",
     "artist": "Lady Gaga"
   },
@@ -67548,20 +66932,12 @@ const data = [
     "artist": "Lady GaGa"
   },
   {
-    "title": "Paparazzi",
-    "artist": "Lady Gaga"
-  },
-  {
     "title": "Perfect Illusion",
     "artist": "Lady Gaga"
   },
   {
     "title": "Poker Face",
     "artist": "Lady GaGa"
-  },
-  {
-    "title": "Poker Face",
-    "artist": "Lady Gaga"
   },
   {
     "title": "Queen",
@@ -67732,10 +67108,6 @@ const data = [
     "artist": "Lana Del Rey"
   },
   {
-    "title": "High by the Beach",
-    "artist": "Lana Del Rey"
-  },
-  {
     "title": "Love",
     "artist": "Lana Del Rey"
   },
@@ -67781,10 +67153,6 @@ const data = [
   },
   {
     "title": "Young And Beautiful",
-    "artist": "Lana Del Rey"
-  },
-  {
-    "title": "Young and Beautiful",
     "artist": "Lana Del Rey"
   },
   {
@@ -68392,16 +67760,8 @@ const data = [
     "artist": "Leann Rimes"
   },
   {
-    "title": "Big Deal",
-    "artist": "LeAnn Rimes"
-  },
-  {
     "title": "Blue",
     "artist": "Leann Rimes"
-  },
-  {
-    "title": "Blue",
-    "artist": "LeAnn Rimes"
   },
   {
     "title": "But I Do Love You",
@@ -68412,20 +67772,12 @@ const data = [
     "artist": "LeAnn Rimes"
   },
   {
-    "title": "Can't Fight The Moonlight",
-    "artist": "Leann Rimes"
-  },
-  {
     "title": "Clinging To A Saving Hand",
     "artist": "Leann Rimes"
   },
   {
     "title": "Commitment",
     "artist": "Leann Rimes"
-  },
-  {
-    "title": "Commitment",
-    "artist": "LeAnn Rimes"
   },
   {
     "title": "Crazy",
@@ -68440,10 +67792,6 @@ const data = [
     "artist": "LeAnn Rimes"
   },
   {
-    "title": "How Do I Live",
-    "artist": "Leann Rimes"
-  },
-  {
     "title": "Hurt Me",
     "artist": "LeAnn Rimes"
   },
@@ -68454,10 +67802,6 @@ const data = [
   {
     "title": "I Need You",
     "artist": "Leann Rimes"
-  },
-  {
-    "title": "I Need You",
-    "artist": "LeAnn Rimes"
   },
   {
     "title": "I Want To Be A Cowboy's Sweetheart",
@@ -68476,20 +67820,12 @@ const data = [
     "artist": "Leann Rimes"
   },
   {
-    "title": "Life Goes On",
-    "artist": "LeAnn Rimes"
-  },
-  {
     "title": "Light In Your Eyes",
     "artist": "Leann Rimes"
   },
   {
     "title": "Looking Through Your Eyes",
     "artist": "Leann Rimes"
-  },
-  {
-    "title": "Looking Through Your Eyes",
-    "artist": "LeAnn Rimes"
   },
   {
     "title": "Nothin ?bout Love Makes Sense",
@@ -68554,10 +67890,6 @@ const data = [
   {
     "title": "We Can",
     "artist": "LeAnn Rimes"
-  },
-  {
-    "title": "We Can",
-    "artist": "Leann Rimes"
   },
   {
     "title": "Written In The Stars",
@@ -70248,10 +69580,6 @@ const data = [
     "artist": "Lily Allen"
   },
   {
-    "title": "LDN",
-    "artist": "Lily Allen"
-  },
-  {
     "title": "Littlest Things",
     "artist": "Lily Allen"
   },
@@ -71100,10 +70428,6 @@ const data = [
     "artist": "Little Mix"
   },
   {
-    "title": "Dna",
-    "artist": "Little Mix"
-  },
-  {
     "title": "Hair",
     "artist": "Little Mix"
   },
@@ -71141,10 +70465,6 @@ const data = [
   },
   {
     "title": "Shout Out To My Ex",
-    "artist": "Little Mix"
-  },
-  {
-    "title": "Shout Out to My Ex",
     "artist": "Little Mix"
   },
   {
@@ -71618,10 +70938,6 @@ const data = [
   {
     "title": "Sexy And I Know It",
     "artist": "LMFAO"
-  },
-  {
-    "title": "Sexy And I Know It",
-    "artist": "Lmfao"
   },
   {
     "title": "Sorry For Party Rocking",
@@ -73412,10 +72728,6 @@ const data = [
     "artist": "Luis Fonsi"
   },
   {
-    "title": "Me IrE",
-    "artist": "Luis Fonsi"
-  },
-  {
     "title": "Mi SueN O",
     "artist": "Luis Fonsi"
   },
@@ -73552,15 +72864,7 @@ const data = [
     "artist": "Luis Miguel"
   },
   {
-    "title": "No SE TU",
-    "artist": "Luis Miguel"
-  },
-  {
     "title": "O Tu O Ninguna",
-    "artist": "Luis Miguel"
-  },
-  {
-    "title": "O TU O Ninguna",
     "artist": "Luis Miguel"
   },
   {
@@ -74172,10 +73476,6 @@ const data = [
     "artist": "Macklemore & Ryan Lewis"
   },
   {
-    "title": "Downtown",
-    "artist": "MacKlemore & Ryan Lewis"
-  },
-  {
     "title": "White Walls",
     "artist": "Macklemore & Ryan Lewis"
   },
@@ -74778,10 +74078,6 @@ const data = [
   {
     "title": "Cold Water",
     "artist": "Major Lazer feat. Justin Bieber and MO"
-  },
-  {
-    "title": "Cold Water",
-    "artist": "Major Lazer Feat. Justin Bieber and MO"
   },
   {
     "title": "Lean On",
@@ -75664,10 +74960,6 @@ const data = [
     "artist": "Mariah Carey"
   },
   {
-    "title": "All I Want For Christmas Is You",
-    "artist": "Mariah Carey"
-  },
-  {
     "title": "All In Your Mind",
     "artist": "Mariah Carey"
   },
@@ -75846,10 +75138,6 @@ const data = [
   {
     "title": "One Sweet Day",
     "artist": "Mariah Carey & Boyz Ii Men"
-  },
-  {
-    "title": "One Sweet Day",
-    "artist": "Mariah Carey & Boyz II Men"
   },
   {
     "title": "Loverboy",
@@ -77024,10 +76312,6 @@ const data = [
     "artist": "Martin Garrix & Bebe Rexha"
   },
   {
-    "title": "In the Name of Love",
-    "artist": "Martin Garrix & Bebe Rexha"
-  },
-  {
     "title": "Scared to Be Lonely",
     "artist": "Martin Garrix & Dua Lipa"
   },
@@ -77078,10 +76362,6 @@ const data = [
   {
     "title": "Intoxicated",
     "artist": "Martin Solveig & Gta"
-  },
-  {
-    "title": "Intoxicated",
-    "artist": "Martin Solveig & GTA"
   },
   {
     "title": "+ 1",
@@ -78232,10 +77512,6 @@ const data = [
     "artist": "Mcfly"
   },
   {
-    "title": "5 Colours In Her Hair",
-    "artist": "McFly"
-  },
-  {
     "title": "All About You",
     "artist": "McFly"
   },
@@ -78301,10 +77577,6 @@ const data = [
   },
   {
     "title": "Room On The 3rd Floor",
-    "artist": "McFly"
-  },
-  {
-    "title": "Room On The 3Rd Floor",
     "artist": "McFly"
   },
   {
@@ -79512,15 +78784,7 @@ const data = [
     "artist": "Michael Buble"
   },
   {
-    "title": "All I Do Is Dream Of You",
-    "artist": "Michael Buble"
-  },
-  {
     "title": "All of Me",
-    "artist": "Michael Buble"
-  },
-  {
-    "title": "All Of Me",
     "artist": "Michael Buble"
   },
   {
@@ -79557,10 +78821,6 @@ const data = [
   },
   {
     "title": "Cry Me A River",
-    "artist": "Michael Buble"
-  },
-  {
-    "title": "Cry Me a River",
     "artist": "Michael Buble"
   },
   {
@@ -79636,10 +78896,6 @@ const data = [
     "artist": "Michael Buble"
   },
   {
-    "title": "It's a Beautiful Day",
-    "artist": "Michael Buble"
-  },
-  {
     "title": "I've Got You Under My Skin",
     "artist": "Michael Buble"
   },
@@ -79685,10 +78941,6 @@ const data = [
   },
   {
     "title": "Some Kind of Wonderful",
-    "artist": "Michael Buble"
-  },
-  {
-    "title": "Some Kind Of Wonderful",
     "artist": "Michael Buble"
   },
   {
@@ -79913,10 +79165,6 @@ const data = [
   },
   {
     "title": "Heal The World",
-    "artist": "Michael Jackson"
-  },
-  {
-    "title": "Heal the World",
     "artist": "Michael Jackson"
   },
   {
@@ -80752,10 +80000,6 @@ const data = [
     "artist": "Mike Posner"
   },
   {
-    "title": "I Took A Pill In Ibiza (Seeb Remix)",
-    "artist": "Mike Posner"
-  },
-  {
     "title": "Please Don't Go",
     "artist": "Mike Posner"
   },
@@ -80873,10 +80117,6 @@ const data = [
   },
   {
     "title": "Party In The Usa",
-    "artist": "Miley Cyrus"
-  },
-  {
-    "title": "Party In The USA",
     "artist": "Miley Cyrus"
   },
   {
@@ -81354,10 +80594,6 @@ const data = [
   {
     "title": "Classic",
     "artist": "Mkto"
-  },
-  {
-    "title": "Classic",
-    "artist": "MKTO"
   },
   {
     "title": "God Only Knows",
@@ -82465,10 +81701,6 @@ const data = [
   },
   {
     "title": "One Night In Bankok",
-    "artist": "Murray Head"
-  },
-  {
-    "title": "One Night In Bankok",
     "artist": "Murry Head"
   },
   {
@@ -83012,10 +82244,6 @@ const data = [
     "artist": "Napoleon Xiv"
   },
   {
-    "title": "They're Coming To Take Me Away",
-    "artist": "Napoleon XIV"
-  },
-  {
     "title": "They're Coming To Take Me Away Ha",
     "artist": "Napoleon Xiv"
   },
@@ -83253,19 +82481,11 @@ const data = [
   },
   {
     "title": "Somebody",
-    "artist": "Natalie La Rose & Jeremih"
-  },
-  {
-    "title": "Somebody",
     "artist": "Natalie La Rose feat. Jeremih"
   },
   {
     "title": "Around The World",
     "artist": "Natalie La Rose Ft Fetty Wap"
-  },
-  {
-    "title": "Around the World",
-    "artist": "Natalie La Rose ft Fetty Wap"
   },
   {
     "title": "Abilene",
@@ -84108,10 +83328,6 @@ const data = [
     "artist": "Nelly Ft Jeremih"
   },
   {
-    "title": "Fix",
-    "artist": "Nelly ft Jeremih"
-  },
-  {
     "title": "Get Like Me",
     "artist": "Nelly ft Nicki Minaj & Pharrell"
   },
@@ -84689,10 +83905,6 @@ const data = [
   },
   {
     "title": "Cruel To Be Kind",
-    "artist": "Nick Lowe"
-  },
-  {
-    "title": "Cruel to be Kind",
     "artist": "Nick Lowe"
   },
   {
@@ -85784,10 +84996,6 @@ const data = [
     "artist": "Oasis"
   },
   {
-    "title": "D'you Know What I Mean",
-    "artist": "Oasis"
-  },
-  {
     "title": "Falling Down",
     "artist": "Oasis"
   },
@@ -86528,10 +85736,6 @@ const data = [
     "artist": "Omc"
   },
   {
-    "title": "How Bizarre",
-    "artist": "OMC"
-  },
-  {
     "title": "Enola Gay '98",
     "artist": "Omd Vs Sash"
   },
@@ -86732,10 +85936,6 @@ const data = [
     "artist": "OneRepublic"
   },
   {
-    "title": "Counting Stars",
-    "artist": "Onerepublic"
-  },
-  {
     "title": "Kids",
     "artist": "OneRepublic"
   },
@@ -86754,10 +85954,6 @@ const data = [
   {
     "title": "Heaven Is A Halfpipe",
     "artist": "Opm"
-  },
-  {
-    "title": "Heaven Is A Halfpipe",
-    "artist": "OPM"
   },
   {
     "title": "Live Is Life",
@@ -87940,10 +87136,6 @@ const data = [
     "artist": "Pat Benatar"
   },
   {
-    "title": "Love Is A Battlefield",
-    "artist": "Pat Benatar"
-  },
-  {
     "title": "Promises in the Dark",
     "artist": "Pat Benatar"
   },
@@ -87953,10 +87145,6 @@ const data = [
   },
   {
     "title": "Shadows of the Night",
-    "artist": "Pat Benatar"
-  },
-  {
-    "title": "Shadows Of The Night",
     "artist": "Pat Benatar"
   },
   {
@@ -88156,10 +87344,6 @@ const data = [
     "artist": "Patsy Cline"
   },
   {
-    "title": "Blue Moon of Kentucky",
-    "artist": "Patsy Cline"
-  },
-  {
     "title": "Crazy",
     "artist": "Patsy Cline"
   },
@@ -88169,10 +87353,6 @@ const data = [
   },
   {
     "title": "I Fall To Pieces",
-    "artist": "Patsy Cline"
-  },
-  {
-    "title": "I Fall to Pieces",
     "artist": "Patsy Cline"
   },
   {
@@ -88662,10 +87842,6 @@ const data = [
   {
     "title": "Wonderful Christmastime",
     "artist": "Paul Mccartney"
-  },
-  {
-    "title": "Wonderful Christmastime",
-    "artist": "Paul McCartney"
   },
   {
     "title": "World Tonight",
@@ -90200,10 +89376,6 @@ const data = [
     "artist": "Pia Mia Ft Chris Brown & Tyga"
   },
   {
-    "title": "Do It Again",
-    "artist": "Pia Mia ft Chris Brown & Tyga"
-  },
-  {
     "title": "As Time Goes By",
     "artist": "Piano Singalong From Casablanca"
   },
@@ -90364,15 +89536,7 @@ const data = [
     "artist": "Pink"
   },
   {
-    "title": "Get The Party Started",
-    "artist": "Pink"
-  },
-  {
     "title": "God Is A Dj",
-    "artist": "Pink"
-  },
-  {
-    "title": "God Is A DJ",
     "artist": "Pink"
   },
   {
@@ -91936,10 +91100,6 @@ const data = [
     "artist": "Psy"
   },
   {
-    "title": "Gentleman",
-    "artist": "PSY"
-  },
-  {
     "title": "Ghost In You",
     "artist": "Psychedelic Furs"
   },
@@ -92522,10 +91682,6 @@ const data = [
   {
     "title": "Locked Away",
     "artist": "R City Ft Adam Levine"
-  },
-  {
-    "title": "Locked Away",
-    "artist": "R City ft Adam Levine"
   },
   {
     "title": "Gotta See Jane",
@@ -93152,10 +92308,6 @@ const data = [
     "artist": "Ramones"
   },
   {
-    "title": "Rock 'n' Roll High School",
-    "artist": "Ramones"
-  },
-  {
     "title": "Sheena Is A Punk Rocker",
     "artist": "Ramones"
   },
@@ -93630,10 +92782,6 @@ const data = [
   {
     "title": "Trouble",
     "artist": "Ray Lamontagne"
-  },
-  {
-    "title": "Trouble",
-    "artist": "Ray LaMontagne"
   },
   {
     "title": "Ghostbusters",
@@ -94456,10 +93604,6 @@ const data = [
     "artist": "Reggie 'n' Bollie"
   },
   {
-    "title": "New Girl",
-    "artist": "Reggie 'N' Bollie"
-  },
-  {
     "title": "If I Could",
     "artist": "Regina Belle"
   },
@@ -94786,10 +93930,6 @@ const data = [
   {
     "title": "Keep On Loving You",
     "artist": "Reo Speedwagon"
-  },
-  {
-    "title": "Keep On Loving You",
-    "artist": "REO Speedwagon"
   },
   {
     "title": "Keep The Fire Burnin'",
@@ -95292,10 +94432,6 @@ const data = [
     "artist": "Rick Astley"
   },
   {
-    "title": "Angels on My Side",
-    "artist": "Rick Astley"
-  },
-  {
     "title": "God Says",
     "artist": "Rick Astley"
   },
@@ -95657,10 +94793,6 @@ const data = [
   },
   {
     "title": "It's Up To You",
-    "artist": "Ricky Nelson"
-  },
-  {
-    "title": "It's Up to You",
     "artist": "Ricky Nelson"
   },
   {
@@ -96304,10 +95436,6 @@ const data = [
     "artist": "Rita Ora Ft Chris Brown"
   },
   {
-    "title": "Body on Me",
-    "artist": "Rita Ora ft Chris Brown"
-  },
-  {
     "title": "Shine Ya Light",
     "artist": "RitanOra"
   },
@@ -96644,10 +95772,6 @@ const data = [
     "artist": "Robbie Williams"
   },
   {
-    "title": "Party Like a Russian",
-    "artist": "Robbie Williams"
-  },
-  {
     "title": "Radio",
     "artist": "Robbie Williams"
   },
@@ -96657,10 +95781,6 @@ const data = [
   },
   {
     "title": "Rock DJ",
-    "artist": "Robbie Williams"
-  },
-  {
-    "title": "Rock Dj",
     "artist": "Robbie Williams"
   },
   {
@@ -97621,10 +96741,6 @@ const data = [
   },
   {
     "title": "You Can't Get There from Here",
-    "artist": "Roger Ballard"
-  },
-  {
-    "title": "You Can't Get There From Here",
     "artist": "Roger Ballard"
   },
   {
@@ -98912,10 +98028,6 @@ const data = [
     "artist": "Rudimental Feat Ed Sheeran"
   },
   {
-    "title": "Lay It All On Me",
-    "artist": "Rudimental feat Ed Sheeran"
-  },
-  {
     "title": "Waiting All Night",
     "artist": "Rudimental Feat Ella Eyre"
   },
@@ -98982,10 +98094,6 @@ const data = [
   {
     "title": "Waiting All Night",
     "artist": "Rudimental Ft.. Ella Eyre"
-  },
-  {
-    "title": "Waiting All Night",
-    "artist": "Rudimental feat Ella Eyre"
   },
   {
     "title": "Como Pasan Los Dias",
@@ -99660,10 +98768,6 @@ const data = [
     "artist": "Sam Smith"
   },
   {
-    "title": "Writing's on the Wall",
-    "artist": "Sam Smith"
-  },
-  {
     "title": "Lay Me Down",
     "artist": "Sam Smith & John Legend"
   },
@@ -100256,10 +99360,6 @@ const data = [
     "artist": "Sarah Mclachlan"
   },
   {
-    "title": "I Will Remember You",
-    "artist": "Sarah McLachlan"
-  },
-  {
     "title": "Ice Cream (Live)",
     "artist": "Sarah McLachlan"
   },
@@ -100434,10 +99534,6 @@ const data = [
   {
     "title": "What About Us",
     "artist": "Saturdays Feat. Sean Paul"
-  },
-  {
-    "title": "What About Us",
-    "artist": "Saturdays feat Sean Paul"
   },
   {
     "title": "Affirmation",
@@ -101333,10 +100429,6 @@ const data = [
   },
   {
     "title": "Hands to Myself",
-    "artist": "Selena Gomez"
-  },
-  {
-    "title": "Hands To Myself",
     "artist": "Selena Gomez"
   },
   {
@@ -102864,10 +101956,6 @@ const data = [
     "artist": "Sheryl Crow"
   },
   {
-    "title": "Everyday is a Winding Road",
-    "artist": "Sheryl Crow"
-  },
-  {
     "title": "First Cut Is The Deepest",
     "artist": "Sheryl Crow"
   },
@@ -102889,10 +101977,6 @@ const data = [
   },
   {
     "title": "If It Makes You Happy",
-    "artist": "Sheryl Crow"
-  },
-  {
-    "title": "If it Makes You Happy",
     "artist": "Sheryl Crow"
   },
   {
@@ -102964,10 +102048,6 @@ const data = [
     "artist": "Sheryl Crow"
   },
   {
-    "title": "There Goes the Neighborhood",
-    "artist": "Sheryl Crow"
-  },
-  {
     "title": "There Goes The Neighbourhood",
     "artist": "Sheryl Crow"
   },
@@ -103002,10 +102082,6 @@ const data = [
   {
     "title": "Touch",
     "artist": "Shift K3y"
-  },
-  {
-    "title": "Touch",
-    "artist": "Shift K3Y"
   },
   {
     "title": "Entirety",
@@ -103544,10 +102620,6 @@ const data = [
     "artist": "Sigala feat. John Newman and Nile Rodgers"
   },
   {
-    "title": "Give Me Your Love",
-    "artist": "Sigala Feat. John Newman and Nile Rodgers"
-  },
-  {
     "title": "Wish You Well",
     "artist": "Sigala ft Becky Hill"
   },
@@ -103610,10 +102682,6 @@ const data = [
   {
     "title": "Glitterball",
     "artist": "Sigma Ft Ella Henderson"
-  },
-  {
-    "title": "Glitterball",
-    "artist": "Sigma ft Ella Henderson"
   },
   {
     "title": "Changing",
@@ -104004,10 +103072,6 @@ const data = [
     "artist": "Sinead O'connor"
   },
   {
-    "title": "Nothing Compares 2 U",
-    "artist": "Sinead O'Connor"
-  },
-  {
     "title": "I Can't Break Down",
     "artist": "Sinead Quinn"
   },
@@ -104153,10 +103217,6 @@ const data = [
   },
   {
     "title": "He's the Greatest Dancer",
-    "artist": "Sister Sledge"
-  },
-  {
-    "title": "He's The Greatest Dancer",
     "artist": "Sister Sledge"
   },
   {
@@ -104717,10 +103777,6 @@ const data = [
   },
   {
     "title": "Don't Play Your Rock 'N' Roll to Me",
-    "artist": "Smokie"
-  },
-  {
-    "title": "Don't Play Your Rock 'n' Roll To Me",
     "artist": "Smokie"
   },
   {
@@ -107212,10 +106268,6 @@ const data = [
     "artist": "Stevie Wonder"
   },
   {
-    "title": "Don't You Worry About a Thing",
-    "artist": "Stevie Wonder"
-  },
-  {
     "title": "For Once In My Life",
     "artist": "Stevie Wonder"
   },
@@ -107265,10 +106317,6 @@ const data = [
   },
   {
     "title": "Living For The City",
-    "artist": "Stevie Wonder"
-  },
-  {
-    "title": "Living for the City",
     "artist": "Stevie Wonder"
   },
   {
@@ -107513,10 +106561,6 @@ const data = [
   },
   {
     "title": "All For One",
-    "artist": "Stone Roses"
-  },
-  {
-    "title": "All for One",
     "artist": "Stone Roses"
   },
   {
@@ -108185,10 +107229,6 @@ const data = [
   },
   {
     "title": "Still Waiting.cdg",
-    "artist": "Sum 41 [SC Karaoke]"
-  },
-  {
-    "title": "Still Waiting.mp3",
     "artist": "Sum 41 [SC Karaoke]"
   },
   {
@@ -108866,10 +107906,6 @@ const data = [
   {
     "title": "All The Things She Said",
     "artist": "T.A.T.U."
-  },
-  {
-    "title": "All The Things She Said",
-    "artist": "t.A.T.u."
   },
   {
     "title": "Not Gonna Get Us",
@@ -109552,15 +108588,7 @@ const data = [
     "artist": "Taylor Swift"
   },
   {
-    "title": "Out of the Woods",
-    "artist": "Taylor Swift"
-  },
-  {
     "title": "Picture To Burn",
-    "artist": "Taylor Swift"
-  },
-  {
-    "title": "Picture to Burn",
     "artist": "Taylor Swift"
   },
   {
@@ -111232,10 +110260,6 @@ const data = [
     "artist": "Tinie Tempah feat. Jess Glynne"
   },
   {
-    "title": "Not Letting Go",
-    "artist": "Tinie Tempah Feat. Jess Glynne"
-  },
-  {
     "title": "Children of the Sun",
     "artist": "Tinie Tempah Feat. John Martin"
   },
@@ -111252,20 +110276,12 @@ const data = [
     "artist": "Tinie Tempah feat. Zara Larsson"
   },
   {
-    "title": "Girls Like",
-    "artist": "Tinie Tempah Feat. Zara Larsson"
-  },
-  {
     "title": "Not Letting Go",
     "artist": "Tinie Tempah ft Jess Glynne"
   },
   {
     "title": "Children Of The Sun",
     "artist": "Tinie Tempah ft John Martin"
-  },
-  {
-    "title": "Children Of The Sun",
-    "artist": "Tinie Tempah Ft John Martin"
   },
   {
     "title": "Invincible",
@@ -112260,10 +111276,6 @@ const data = [
     "artist": "Toni Braxton"
   },
   {
-    "title": "Unbreak My Heart",
-    "artist": "Toni Braxton"
-  },
-  {
     "title": "Yesterday",
     "artist": "Toni Braxton"
   },
@@ -112658,10 +111670,6 @@ const data = [
   {
     "title": "China In Your Hand",
     "artist": "T'pau"
-  },
-  {
-    "title": "China In Your Hand",
-    "artist": "T'Pau"
   },
   {
     "title": "Heart & Soul",
@@ -113422,10 +112430,6 @@ const data = [
   {
     "title": "Billionaire",
     "artist": "Travis McCoy & Bruno Mars"
-  },
-  {
-    "title": "Billionaire",
-    "artist": "Travis MCcoy & Bruno Mars"
   },
   {
     "title": "Billionaire",
@@ -114768,10 +113772,6 @@ const data = [
     "artist": "UB40"
   },
   {
-    "title": "Many Rivers to Cross",
-    "artist": "UB40"
-  },
-  {
     "title": "One In Ten",
     "artist": "UB40"
   },
@@ -115526,10 +114526,6 @@ const data = [
   {
     "title": "I Found a Girl",
     "artist": "Vamps & Omi"
-  },
-  {
-    "title": "I Found a Girl",
-    "artist": "Vamps & OMI"
   },
   {
     "title": "Oh Cecilia (Breaking My Heart)",
@@ -116724,15 +115720,7 @@ const data = [
     "artist": "Walk The Moon"
   },
   {
-    "title": "Shut Up & Dance",
-    "artist": "Walk the Moon"
-  },
-  {
     "title": "Shut Up and Dance",
-    "artist": "Walk The Moon"
-  },
-  {
-    "title": "Shut Up And Dance",
     "artist": "Walk The Moon"
   },
   {
@@ -116793,10 +115781,6 @@ const data = [
   },
   {
     "title": "My Head Is A Jungle (Mk Remix)",
-    "artist": "Wankelmut Feat. Emma Louise"
-  },
-  {
-    "title": "My Head Is A Jungle (MK Remix)",
     "artist": "Wankelmut Feat. Emma Louise"
   },
   {
@@ -117069,10 +116053,6 @@ const data = [
   },
   {
     "title": "In the Night",
-    "artist": "Weeknd"
-  },
-  {
-    "title": "In The Night",
     "artist": "Weeknd"
   },
   {
@@ -117856,10 +116836,6 @@ const data = [
     "artist": "Whitney Houston"
   },
   {
-    "title": "Run to You",
-    "artist": "Whitney Houston"
-  },
-  {
     "title": "Saving All My Love For You",
     "artist": "Whitney Houston"
   },
@@ -117936,10 +116912,6 @@ const data = [
     "artist": "Whitney Houston [SC Karaoke]"
   },
   {
-    "title": "Try It On My Own.mp3",
-    "artist": "Whitney Houston [SC Karaoke]"
-  },
-  {
     "title": "Anyway Anyhow Anywhere",
     "artist": "Who"
   },
@@ -117973,10 +116945,6 @@ const data = [
   },
   {
     "title": "I Can See For Miles",
-    "artist": "Who"
-  },
-  {
-    "title": "I Can See for Miles",
     "artist": "Who"
   },
   {
@@ -118904,10 +117872,6 @@ const data = [
     "artist": "Wiz Khalifa feat. Charlie Puth"
   },
   {
-    "title": "See You Again",
-    "artist": "Wiz Khalifa Feat. Charlie Puth"
-  },
-  {
     "title": "Angel Fingers",
     "artist": "Wizard"
   },
@@ -119173,10 +118137,6 @@ const data = [
   },
   {
     "title": "Doing Ok",
-    "artist": "Wretch 32 Feat. Jacob Banks"
-  },
-  {
-    "title": "Doing OK",
     "artist": "Wretch 32 Feat. Jacob Banks"
   },
   {
@@ -119968,10 +118928,6 @@ const data = [
     "artist": "Zayn"
   },
   {
-    "title": "It's You",
-    "artist": "ZAYN"
-  },
-  {
     "title": "Let Me In",
     "artist": "Zayn"
   },
@@ -119981,10 +118937,6 @@ const data = [
   },
   {
     "title": "Pillowtalk",
-    "artist": "Zayn"
-  },
-  {
-    "title": "PillowTalk",
     "artist": "Zayn"
   },
   {
@@ -120025,10 +118977,6 @@ const data = [
   },
   {
     "title": "I Want You to Know",
-    "artist": "Zedd & Selena Gomez"
-  },
-  {
-    "title": "I Want You To Know",
     "artist": "Zedd & Selena Gomez"
   },
   {
@@ -120225,9427 +119173,8372 @@ const data = [
   },
   {
     "title": "ЛЕТИ",
-    "artist": "1.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "MADE IN UKRAINE",
-    "artist": "2.\t100ЛИЦЯ"
-  },
-  {
-    "title": "ЛЕТИ",
-    "artist": "3.\t100ЛИЦЯ"
-  },
-  {
-    "title": "ЛЕТИ",
-    "artist": "4.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "МАДАМ",
-    "artist": "5.\t100ЛИЦЯ"
-  },
-  {
-    "title": "МАДАМ",
-    "artist": "6.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "МАРУСЯ",
-    "artist": "7.\t100ЛИЦЯ"
-  },
-  {
-    "title": "МАРУСЯ",
-    "artist": "8.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "НАОДИНЦІ",
-    "artist": "9.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "ПРИСТРАСТЬ",
-    "artist": "10.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "СЕЛЯВІ",
-    "artist": "11.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "ТАНЦЮЄШ I ПЛАЧЕШ",
-    "artist": "12.\t100ЛИЦЯ"
-  },
-  {
-    "title": "ТАНЦЮЄШ I ПЛАЧЕШ",
-    "artist": "13.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "ТРОЯНДИ",
-    "artist": "14.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "ЧОРНОБРИВА",
-    "artist": "15.\t100ЛИЦЯ"
+    "artist": "100ЛИЦЯ"
   },
   {
     "title": "ПОКОХАЙ МЕНЕ",
-    "artist": "16.\t100ЛИЦЯ & CHICO & QATOSHI"
+    "artist": "100ЛИЦЯ & CHICO & QATOSHI"
   },
   {
     "title": "АУ",
-    "artist": "17.\t100ЛИЦЯ & SKYLERR"
+    "artist": "100ЛИЦЯ & SKYLERR"
   },
   {
     "title": "ВЕЧОРНИЦІ (-).kfn",
-    "artist": "18.\t100ЛИЦЯ & SKYLERR"
+    "artist": "100ЛИЦЯ & SKYLERR"
   },
   {
     "title": "ВЕЧОРНИЦІ",
-    "artist": "19.\t100ЛИЦЯ & SKYLERR"
+    "artist": "100ЛИЦЯ & SKYLERR"
   },
   {
     "title": "НЕМАЄ КУЛЬ (-,+).kfn",
-    "artist": "20.\t5NIZZA (ПЯТНИЦА)"
+    "artist": "5NIZZA (ПЯТНИЦА)"
   },
   {
     "title": "ГОВОРИЛИ I КУРИЛИ (IЗ КФ",
-    "artist": "21.\tADAM"
+    "artist": "ADAM"
   },
   {
     "title": "ЛИШЕ ДЛЯ НАС",
-    "artist": "22.\tADAM"
+    "artist": "ADAM"
   },
   {
     "title": "ПОВІЛЬНО",
-    "artist": "23.\tADAM"
-  },
-  {
-    "title": "ПОВІЛЬНО",
-    "artist": "24.\tADAM"
-  },
-  {
-    "title": "ПОВІЛЬНО",
-    "artist": "25.\tADAM"
+    "artist": "ADAM"
   },
   {
     "title": "ТАКУ ЯК Є",
-    "artist": "26.\tADAM"
+    "artist": "ADAM"
   },
   {
     "title": "ЩАСЛИВА",
-    "artist": "27.\tADAM"
+    "artist": "ADAM"
   },
   {
     "title": "А Я ПЛИВУ (КЛІП).kfn",
-    "artist": "28.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "А Я ПЛИВУ",
-    "artist": "29.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "ВАРШАВА-КИЇВ",
-    "artist": "30.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "ЗІРОНЬКА",
-    "artist": "31.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "НАЗАВЖДИ",
-    "artist": "32.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "ОКЕАНАМИ СТАЛИ",
-    "artist": "33.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "П'ЯНЕ СОНЦЕ",
-    "artist": "34.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "ЯК ТИ ТАМ",
-    "artist": "35.\tALEKSEEV"
+    "artist": "ALEKSEEV"
   },
   {
     "title": "ЧОМУ",
-    "artist": "36.\tALEKSEEV, DZIDZIO, ПИВОВАРОВ, ПОНОМАРЬОВ"
+    "artist": "ALEKSEEV, DZIDZIO, ПИВОВАРОВ, ПОНОМАРЬОВ"
   },
   {
     "title": "УКРАЇНА ПЕРЕМОЖЕ (-).kfn",
-    "artist": "37.\tALEKSEEV, ДЗІДЗЬО, ПИВОВАРОВ, ПОНОМАРЬОВ"
+    "artist": "ALEKSEEV, ДЗІДЗЬО, ПИВОВАРОВ, ПОНОМАРЬОВ"
   },
   {
     "title": "УКРАЇНА ПЕРЕМОЖЕ",
-    "artist": "38.\tALEKSEEV, ДЗІДЗЬО, ПИВОВАРОВ, ПОНОМАРЬОВ"
+    "artist": "ALEKSEEV, ДЗІДЗЬО, ПИВОВАРОВ, ПОНОМАРЬОВ"
   },
   {
     "title": "КАЗКА",
-    "artist": "39.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "КОЛИ ХОВАЮТЬ МОЛОДИХ",
-    "artist": "40.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "ЛIТАК",
-    "artist": "41.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "МАМО",
-    "artist": "42.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "НЕ ПЕРЕГОРІТИ",
-    "artist": "43.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "ПАМ'ЯТАЮ",
-    "artist": "44.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "ТИХО ДІТИ СПЛЯТЬ",
-    "artist": "45.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "ЯК БИ Я БУЛА НЕ Я",
-    "artist": "46.\tALYONA ALYONA"
+    "artist": "ALYONA ALYONA"
   },
   {
     "title": "СВІТ ПОТРЕБУЄ КРАСИ.kfn",
-    "artist": "47.\tALYONA ALYONA & DOVE"
+    "artist": "ALYONA ALYONA & DOVE"
   },
   {
     "title": "РІДНІ МОЇ",
-    "artist": "48.\tALYONA ALYONA & JERRY HEIL"
-  },
-  {
-    "title": "РІДНІ МОЇ",
-    "artist": "49.\tALYONA ALYONA & JERRY HEIL"
+    "artist": "ALYONA ALYONA & JERRY HEIL"
   },
   {
     "title": "ЧОМУ",
-    "artist": "50.\tALYONA ALYONA & JERRY HEIL"
+    "artist": "ALYONA ALYONA & JERRY HEIL"
   },
   {
     "title": "KUPALA",
-    "artist": "51.\tALYONA ALYONA & JERRY HEIL & ELA"
+    "artist": "ALYONA ALYONA & JERRY HEIL & ELA"
   },
   {
     "title": "НЕБО ХИЛИТЬСЯ",
-    "artist": "52.\tALYONA ALYONA & KOLA"
+    "artist": "ALYONA ALYONA & KOLA"
   },
   {
     "title": "TERESA & MARIA",
-    "artist": "53.\tALYONA ALYONA, JERRY HEIL"
-  },
-  {
-    "title": "TERESA & MARIA",
-    "artist": "54.\tALYONA ALYONA, JERRY HEIL"
+    "artist": "ALYONA ALYONA, JERRY HEIL"
   },
   {
     "title": "ГОРДА",
-    "artist": "55.\tALYOSHA"
-  },
-  {
-    "title": "ГОРДА",
-    "artist": "56.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "ДАМА",
-    "artist": "57.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "ЛЕБЕДI",
-    "artist": "58.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "НА ФОНІ ПАРИЖ",
-    "artist": "59.\tALYOSHA"
-  },
-  {
-    "title": "НА ФОНІ ПАРИЖ",
-    "artist": "60.\tALYOSHA"
-  },
-  {
-    "title": "НА ФОНІ ПАРИЖ",
-    "artist": "61.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "НЕ ВОНА",
-    "artist": "62.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "НЕВОНА",
-    "artist": "63.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "ПОРУЧ",
-    "artist": "64.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "ТЕКІЛА",
-    "artist": "65.\tALYOSHA"
+    "artist": "ALYOSHA"
   },
   {
     "title": "ТИ НАЙКРАЩA З ЛЮДЕЙ",
-    "artist": "66.\tALYOSHA, ДАРВИН ВЛАД"
+    "artist": "ALYOSHA, ДАРВИН ВЛАД"
   },
   {
     "title": "ТИ НАЙКРАЩИЙ З ЛЮДЕЙ",
-    "artist": "67.\tALYOSHA, ДАРВИН ВЛАД"
+    "artist": "ALYOSHA, ДАРВИН ВЛАД"
   },
   {
     "title": "ТРОЯНДИ",
-    "artist": "68.\tALYOSHA, ДАРВИН ВЛАД"
+    "artist": "ALYOSHA, ДАРВИН ВЛАД"
   },
   {
     "title": "БУТИ ЩАСЛИВИМИ",
-    "artist": "69.\tANNA MARIA"
+    "artist": "ANNA MARIA"
   },
   {
     "title": "ДИХАЮ",
-    "artist": "70.\tANNEI"
+    "artist": "ANNEI"
   },
   {
     "title": "ЖИВЕМО ОДНЕ ЖИТТЯ",
-    "artist": "71.\tARTISON"
+    "artist": "ARTISON"
   },
   {
     "title": "ХВИЛЯ",
-    "artist": "72.\tARTISON"
+    "artist": "ARTISON"
   },
   {
     "title": "ВІДЛЮБИЛОСЯ",
-    "artist": "73.\tAVERIN & CHURSANOV"
+    "artist": "AVERIN & CHURSANOV"
   },
   {
     "title": "ДІВЧИНА",
-    "artist": "74.\tAVERIN & CHURSANOV"
+    "artist": "AVERIN & CHURSANOV"
   },
   {
     "title": "ЛЕЛЕКА",
-    "artist": "75.\tAVERIN & CHURSANOV"
+    "artist": "AVERIN & CHURSANOV"
   },
   {
     "title": "НЕЗАБУДКИ",
-    "artist": "76.\tAVERIN & CHURSANOV"
-  },
-  {
-    "title": "НЕЗАБУДКИ",
-    "artist": "77.\tAVERIN & CHURSANOV"
+    "artist": "AVERIN & CHURSANOV"
   },
   {
     "title": "МАЙЖЕ IДЕАЛЬНИЙ",
-    "artist": "78.\tBARABANOVA"
-  },
-  {
-    "title": "МАЙЖЕ IДЕАЛЬНИЙ",
-    "artist": "79.\tBARABANOVA"
+    "artist": "BARABANOVA"
   },
   {
     "title": "LAST DAY OF SUMMER (КЛИП).kfn",
-    "artist": "80.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "LOST IN LOVE (+,-,КЛИП).kfn",
-    "artist": "81.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "SILENCE",
-    "artist": "82.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "БЕРЕГИ",
-    "artist": "83.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "БУДЕ ВЕСНА",
-    "artist": "84.\tBARSKIH MAX"
-  },
-  {
-    "title": "БУДЕ ВЕСНА",
-    "artist": "85.\tBARSKIH MAX"
-  },
-  {
-    "title": "БУДЕ ВЕСНА",
-    "artist": "86.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "ЗОРЕПАД",
-    "artist": "87.\tBARSKIH MAX"
-  },
-  {
-    "title": "ЗОРЕПАД",
-    "artist": "88.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "ЛИЙ НЕ ЖАЛІЙ",
-    "artist": "89.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "МАМО НЕ ПЛАЧ",
-    "artist": "90.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "НЕ ПЛАЧ",
-    "artist": "91.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "НЕБО",
-    "artist": "92.\tBARSKIH MAX"
-  },
-  {
-    "title": "НЕБО",
-    "artist": "93.\tBARSKIH MAX"
-  },
-  {
-    "title": "НЕБО",
-    "artist": "94.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "ПОДРУГА НIЧ",
-    "artist": "95.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "ТУМАНИ",
-    "artist": "96.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "УКРАЇНА",
-    "artist": "97.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "ЧЕКАЙ МЕНЕ",
-    "artist": "98.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "Я ВЖЕ НЕ ТИ",
-    "artist": "99.\tBARSKIH MAX"
+    "artist": "BARSKIH MAX"
   },
   {
     "title": "РИМУЮ",
-    "artist": "100.\tBARSKIH MAX & ETOLUBOV"
+    "artist": "BARSKIH MAX & ETOLUBOV"
   },
   {
     "title": "BESTSELER",
-    "artist": "101.\tBARSKIH MAX & ZIVERT"
+    "artist": "BARSKIH MAX & ZIVERT"
   },
   {
     "title": "ДОСІ ЛЮБЛЮ",
-    "artist": "102.\tBARSKIH MAX & СУВОРОВА"
+    "artist": "BARSKIH MAX & СУВОРОВА"
   },
   {
     "title": "РИТМИ",
-    "artist": "103.\tBARSKIH MAX, DOROFEEVA"
-  },
-  {
-    "title": "РИТМИ",
-    "artist": "104.\tBARSKIH MAX, DOROFEEVA"
+    "artist": "BARSKIH MAX, DOROFEEVA"
   },
   {
     "title": "СПИ, КОТИКУ МИЛИЙ",
-    "artist": "105.\tBERESTOVYI, TARABAROVA"
+    "artist": "BERESTOVYI, TARABAROVA"
   },
   {
     "title": "UPTOWN FUNK·.kfn",
-    "artist": "106.\tBRUNO MARS, MARK RONSON"
+    "artist": "BRUNO MARS, MARK RONSON"
   },
   {
     "title": "ДОДОМУ",
-    "artist": "107.\tBRYANGIN"
+    "artist": "BRYANGIN"
   },
   {
     "title": "ЗАКОХАНИЙ",
-    "artist": "108.\tBRYANGIN"
-  },
-  {
-    "title": "ЗАКОХАНИЙ",
-    "artist": "109.\tBRYANGIN"
+    "artist": "BRYANGIN"
   },
   {
     "title": "ОЧІ КОЛЬОРУ БЕЗОДНІ",
-    "artist": "110.\tBRYANGIN"
+    "artist": "BRYANGIN"
   },
   {
     "title": "ФУРІЯ",
-    "artist": "111.\tBRYANGIN"
+    "artist": "BRYANGIN"
   },
   {
     "title": "БЕЗ ПОЧУТТЯ",
-    "artist": "112.\tCHALLENGE"
-  },
-  {
-    "title": "БЕЗ ПОЧУТТЯ",
-    "artist": "113.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "ВІДПУСТИ",
-    "artist": "114.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "КОХАННЯ ПРИЙДЕ",
-    "artist": "115.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "КРАЙ ПОДІЛЬСЬКИЙ",
-    "artist": "116.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "МОВА СОЛОВЇНА",
-    "artist": "117.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "НЕ ШУКАЙ",
-    "artist": "118.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "САМОТНІСТЬ",
-    "artist": "119.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "Я КОХАЮ ТЕБЕ",
-    "artist": "120.\tCHALLENGE"
+    "artist": "CHALLENGE"
   },
   {
     "title": "БІЛЬШ НЕМАЄ КРИЛ.avi",
-    "artist": "121.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "ДЕ МОЯ ЛЮБОВ ЖИВЕ",
-    "artist": "122.\tCHEEV"
-  },
-  {
-    "title": "ДЕ МОЯ ЛЮБОВ ЖИВЕ",
-    "artist": "123.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "ІНШИЙ СВІТ",
-    "artist": "124.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "КИМ ЗАВГОДНО (-)·.kfn",
-    "artist": "125.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "КИМ ЗАВГОДНО",
-    "artist": "126.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "НЕ ТОЙ ГЕРОЙ",
-    "artist": "127.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "ОПІВНОЧІ",
-    "artist": "128.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "ПАРОЛЬ",
-    "artist": "129.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "ЩО ЦЕ В НАС (-)·.kfn",
-    "artist": "130.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "ЩО ЦЕ В НАС",
-    "artist": "131.\tCHEEV"
+    "artist": "CHEEV"
   },
   {
     "title": "ПЕРШИЙ ДЕНЬ",
-    "artist": "132.\tCHEEV & МУЛЬТИТРЕК"
-  },
-  {
-    "title": "ПЕРШИЙ ДЕНЬ",
-    "artist": "133.\tCHEEV & МУЛЬТИТРЕК"
+    "artist": "CHEEV & МУЛЬТИТРЕК"
   },
   {
     "title": "BELLA",
-    "artist": "134.\tCHICO & QATOSHI"
+    "artist": "CHICO & QATOSHI"
   },
   {
     "title": "ДОПОМОЖЕ ЗСУ",
-    "artist": "135.\tCHICO & QATOSHI"
+    "artist": "CHICO & QATOSHI"
   },
   {
     "title": "ЛАСТІВКИ",
-    "artist": "136.\tCHICO & QATOSHI"
-  },
-  {
-    "title": "ЛАСТІВКИ",
-    "artist": "137.\tCHICO & QATOSHI"
+    "artist": "CHICO & QATOSHI"
   },
   {
     "title": "ПАННОЧКА",
-    "artist": "138.\tCHICO & QATOSHI"
+    "artist": "CHICO & QATOSHI"
   },
   {
     "title": "ПОКОХАЙ МЕНЕ",
-    "artist": "139.\tCHICO & QATOSHI & 100ЛИЦЯ"
+    "artist": "CHICO & QATOSHI & 100ЛИЦЯ"
   },
   {
     "title": "ДОПОМОЖЕ ЗСУ",
-    "artist": "140.\tCHICO FEAT. QATOSHI"
-  },
-  {
-    "title": "ДОПОМОЖЕ ЗСУ",
-    "artist": "141.\tCHICO FEAT. QATOSHI"
+    "artist": "CHICO FEAT. QATOSHI"
   },
   {
     "title": "ПIД ВIННИЦЬКИМ ДОЩЕМ",
-    "artist": "142.\tDARISHA"
+    "artist": "DARISHA"
   },
   {
     "title": "КВІТЛА КАЛИНА",
-    "artist": "143.\tDAYTON"
+    "artist": "DAYTON"
   },
   {
     "title": "ОДНА НА ВСЕ ЖИТТЯ",
-    "artist": "144.\tDIBROVA"
+    "artist": "DIBROVA"
   },
   {
     "title": "ПАДАЮ",
-    "artist": "145.\tDIBROVA"
+    "artist": "DIBROVA"
   },
   {
     "title": "ПОДЗВОНИ",
-    "artist": "146.\tDIBROVA"
+    "artist": "DIBROVA"
   },
   {
     "title": "ПРИИ?ДУ",
-    "artist": "147.\tDIBROVA"
+    "artist": "DIBROVA"
   },
   {
     "title": "ХОЧЕШ",
-    "artist": "148.\tDIBROVA & ALYOSHA"
+    "artist": "DIBROVA & ALYOSHA"
   },
   {
     "title": "ОНОВЛЕНА",
-    "artist": "149.\tDILEMMA"
+    "artist": "DILEMMA"
   },
   {
     "title": "ВЕСІЛЬНА",
-    "artist": "150.\tDISCOMAN"
+    "artist": "DISCOMAN"
   },
   {
     "title": "ВСІ ТАНЦЮЮТЬ ДИСКО",
-    "artist": "151.\tDISCOMAN"
+    "artist": "DISCOMAN"
   },
   {
     "title": "ГЕНДЕР",
-    "artist": "152.\tDISCOMAN"
+    "artist": "DISCOMAN"
   },
   {
     "title": "ДЕНЬ НАРОДЖЕННЯ",
-    "artist": "153.\tDISCOMAN"
+    "artist": "DISCOMAN"
   },
   {
     "title": "ІМЕНА",
-    "artist": "154.\tDISCOMAN"
+    "artist": "DISCOMAN"
   },
   {
     "title": "НАГАДАЙ",
-    "artist": "155.\tDOMIY"
+    "artist": "DOMIY"
   },
   {
     "title": "ТЕПЛО ТАК",
-    "artist": "156.\tDOMIY"
+    "artist": "DOMIY"
   },
   {
     "title": "НЕ ПРОЙДЕ",
-    "artist": "157.\tDOMIY & SHUMEI"
+    "artist": "DOMIY & SHUMEI"
   },
   {
     "title": "ВОТСАП",
-    "artist": "158.\tDOROFEEVA"
-  },
-  {
-    "title": "ВОТСАП",
-    "artist": "159.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "КОХАЮ АЛЕ НЕ ЗОВСІМ",
-    "artist": "160.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "КРАПАЮТЬ",
-    "artist": "161.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "НА САМОТІ",
-    "artist": "162.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "РІЗНОКОЛЬОРОВА",
-    "artist": "163.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "ХАЙ ПИШУТЬ",
-    "artist": "164.\tDOROFEEVA"
-  },
-  {
-    "title": "ХАЙ ПИШУТЬ",
-    "artist": "165.\tDOROFEEVA"
-  },
-  {
-    "title": "ХАЙ ПИШУТЬ",
-    "artist": "166.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "ХАРТБІТ",
-    "artist": "167.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "ЦВІТЕ ТЕРЕН",
-    "artist": "168.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "ЩОБ НЕ БУЛО",
-    "artist": "169.\tDOROFEEVA"
+    "artist": "DOROFEEVA"
   },
   {
     "title": "А Я ВСЕ ПЛАКАЛА",
-    "artist": "170.\tDOROFEEVA & LEBIGA"
+    "artist": "DOROFEEVA & LEBIGA"
   },
   {
     "title": "ЗАКРИВАЮ ОЧІ",
-    "artist": "171.\tDOVI"
+    "artist": "DOVI"
   },
   {
     "title": "ПАДАЛИ",
-    "artist": "172.\tDOVI"
+    "artist": "DOVI"
   },
   {
     "title": "РОЗРАХОВУЙ НА МЕНЕ",
-    "artist": "173.\tDOVI"
+    "artist": "DOVI"
   },
   {
     "title": "ЦЕ НЕ СОН",
-    "artist": "174.\tDOVI"
+    "artist": "DOVI"
   },
   {
     "title": "ОДИН ДЕНЬ ПОТОМУ",
-    "artist": "175.\tDOVI & SKOFKA"
+    "artist": "DOVI & SKOFKA"
   },
   {
     "title": "ЗОРЕПАДАМИ",
-    "artist": "176.\tDOVI & STASYA"
+    "artist": "DOVI & STASYA"
   },
   {
     "title": "КАРНІЗИ",
-    "artist": "177.\tDOVI feat. KOLA"
+    "artist": "DOVI feat. KOLA"
   },
   {
     "title": "ДО ЗИМИ",
-    "artist": "178.\tDOVI, NICHKA"
+    "artist": "DOVI, NICHKA"
   },
   {
     "title": "108 (+,-,КЛІП)·.kfn",
-    "artist": "179.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "108",
-    "artist": "180.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "БАНДА-БАНДА",
-    "artist": "181.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "БУСЬКУ (-)·.kfn",
-    "artist": "182.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "БУСЬКУ (+,-,FV)·.kfn",
-    "artist": "183.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ВАСИЛИНА (+,-,FV)·.kfn",
-    "artist": "184.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ВИХІДНИЙ",
-    "artist": "185.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ГОПА ГОПА (-)·.kfn",
-    "artist": "186.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ГОПА ГОПА (-.VID)·.kfn",
-    "artist": "187.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "КАДІЛАК",
-    "artist": "188.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "КОБІТА (ОРИГ)·.kfn",
-    "artist": "189.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "МАРСIК",
-    "artist": "190.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "МЕНІ ПОВЕЗЛО (+,-,КЛІП)·.kfn",
-    "artist": "191.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "МОЯ ЛЮБОВ",
-    "artist": "192.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "МУЧЕНИЦІ",
-    "artist": "193.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ПАВУК (+,-,КЛІП)·.kfn",
-    "artist": "194.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ПТАХОПОДІБНА (КЛІП).kfn",
-    "artist": "195.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "РОЗЛУК НЕ БУДЕ",
-    "artist": "196.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "САМА-САМА",
-    "artist": "197.\tDZIDZIO (ДЗІДЗЬО)"
-  },
-  {
-    "title": "САМА-САМА",
-    "artist": "198.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "СТАРИЙ РІК МИНАЄ (ОР,-,+).kfn",
-    "artist": "199.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "СТАРІ ФОТОГРАФІЇ (КЛІП)·.kfn",
-    "artist": "200.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "СУСІДИ (+,-,КЛИП)·.kfn",
-    "artist": "201.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ТРИ В ОДНОМУ (Я ТОБІ НА ВАЛЕНТИНА) (+,-,КЛІП).kfn",
-    "artist": "202.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ХА-ХА! (+,-,КЛІП)·.kfn",
-    "artist": "203.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "Я І САРА",
-    "artist": "204.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "Я ЛЮБЛЮ ТЕБЕ, КИЇВ",
-    "artist": "205.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "Я МІЛІОНЕР",
-    "artist": "206.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "ЯЛТА (+,-,КЛІП).kfn",
-    "artist": "207.\tDZIDZIO (ДЗІДЗЬО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО)"
   },
   {
     "title": "Я ЧЕ КОХАМ (-,КЛІП)·.kfn",
-    "artist": "208.\tDZIDZIO (ДЗІДЗЬО) (SEXSHOP BOYS)"
+    "artist": "DZIDZIO (ДЗІДЗЬО) (SEXSHOP BOYS)"
   },
   {
     "title": "НАРЕЧЕНА",
-    "artist": "209.\tDZIDZIO (ДЗІДЗЬО) (ХОМА МИХАЙЛО)"
-  },
-  {
-    "title": "НАРЕЧЕНА",
-    "artist": "210.\tDZIDZIO (ДЗІДЗЬО) (ХОМА МИХАЙЛО)"
+    "artist": "DZIDZIO (ДЗІДЗЬО) (ХОМА МИХАЙЛО)"
   },
   {
     "title": "ЩАСЛИВІ ЛЮДИ",
-    "artist": "211.\tDZIDZIO (ДЗІДЗЬО), ПОЛЯКОВА ОЛЯ"
+    "artist": "DZIDZIO (ДЗІДЗЬО), ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ВАСИЛИНА",
-    "artist": "212.\tDZIDZIO (ДЗІДЗЬО), ПОПОВИЧ ІВАН"
+    "artist": "DZIDZIO (ДЗІДЗЬО), ПОПОВИЧ ІВАН"
   },
   {
     "title": "БУДЬ ЗІ МНОЮ",
-    "artist": "213.\tEDMON"
+    "artist": "EDMON"
   },
   {
     "title": "З ТОБОЮ",
-    "artist": "214.\tEDMON"
+    "artist": "EDMON"
   },
   {
     "title": "МАМКА МОЛДОВАНКА",
-    "artist": "215.\tEDMON"
+    "artist": "EDMON"
   },
   {
     "title": "НЕ ВІДПУСКАЙ",
-    "artist": "216.\tEDMON"
+    "artist": "EDMON"
   },
   {
     "title": "ТИ ТАКА ВРОДЛИВА",
-    "artist": "217.\tEDMON"
+    "artist": "EDMON"
   },
   {
     "title": "Я БАЧУ ВСЕ",
-    "artist": "218.\tEDMON"
+    "artist": "EDMON"
   },
   {
     "title": "ВРАЗЛИВІСТЬ",
-    "artist": "219.\tEDNY"
+    "artist": "EDNY"
   },
   {
     "title": "ПОРУЧ",
-    "artist": "220.\tEDNY"
+    "artist": "EDNY"
   },
   {
     "title": "IНША ЛЮБОВ",
-    "artist": "221.\tENLEO"
+    "artist": "ENLEO"
   },
   {
     "title": "ВЕДИ МЕНЕ В ХРАМ",
-    "artist": "222.\tENLEO"
+    "artist": "ENLEO"
   },
   {
     "title": "КУСАЙ",
-    "artist": "223.\tETNIRA"
+    "artist": "ETNIRA"
   },
   {
     "title": "НIБИ",
-    "artist": "224.\tFIR"
+    "artist": "FIR"
   },
   {
     "title": "НІЧ",
-    "artist": "225.\tFIR"
+    "artist": "FIR"
   },
   {
     "title": "ЯК ТИ ТАМ",
-    "artist": "226.\tFIR"
+    "artist": "FIR"
   },
   {
     "title": "ДОЩ ПАДЕ",
-    "artist": "227.\tFIЇNKA"
+    "artist": "FIЇNKA"
   },
   {
     "title": "МОЇ ГОРИ",
-    "artist": "228.\tFIЇNKA"
+    "artist": "FIЇNKA"
   },
   {
     "title": "ПЛАКАЛИ",
-    "artist": "229.\tFIЇNKA"
+    "artist": "FIЇNKA"
   },
   {
     "title": "ЦІЛУВАТИСЬ",
-    "artist": "230.\tFIЇNKA"
+    "artist": "FIЇNKA"
   },
   {
     "title": "ГУЦУЛЯНКА",
-    "artist": "231.\tFIЇNKA & ІВАН ПОПОВИЧ"
+    "artist": "FIЇNKA & ІВАН ПОПОВИЧ"
   },
   {
     "title": "МОВЧИШ",
-    "artist": "232.\tGEZWEIRDO"
+    "artist": "GEZWEIRDO"
   },
   {
     "title": "ШУМ (ВЕСНЯНОЧКА)",
-    "artist": "233.\tGO_A"
+    "artist": "GO_A"
   },
   {
     "title": "ШУМ",
-    "artist": "234.\tGO_A"
+    "artist": "GO_A"
   },
   {
     "title": "МОВЧАТИ",
-    "artist": "235.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "НЕ ВІДПУСКАЙ",
-    "artist": "236.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "РИМИ",
-    "artist": "237.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "РОЗБУДИ В МЕНІ ЛЮБОВ",
-    "artist": "238.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "ТЕПЕР ПРОБАЧ",
-    "artist": "239.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "ТИ ЗНАЄШ",
-    "artist": "240.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "ЯК МЕНІ",
-    "artist": "241.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "ЯКБИ ТИ БУЛА ПІСНЕЮ",
-    "artist": "242.\tGOLUBENKO"
+    "artist": "GOLUBENKO"
   },
   {
     "title": "МИЛА·.avi",
-    "artist": "243.\tGOLUBENKO & CLONNEX"
+    "artist": "GOLUBENKO & CLONNEX"
   },
   {
     "title": "ДОЩ",
-    "artist": "244.\tGOLUBENKO & KALUSH"
+    "artist": "GOLUBENKO & KALUSH"
   },
   {
     "title": "ДОТИКИ",
-    "artist": "245.\tGOLUBENKO & SADSVIT"
+    "artist": "GOLUBENKO & SADSVIT"
   },
   {
     "title": "НЕ ШУКАЙ",
-    "artist": "246.\tGOLUBENKO & YAKTAK"
+    "artist": "GOLUBENKO & YAKTAK"
   },
   {
     "title": "ДРУЖЕ",
-    "artist": "247.\tGREEN GREY"
+    "artist": "GREEN GREY"
   },
   {
     "title": "ЕМІГРАНТ",
-    "artist": "248.\tGREEN GREY"
+    "artist": "GREEN GREY"
   },
   {
     "title": "БУДЬ ЗІ МНОЮ",
-    "artist": "249.\tGROHOTSKY (ГРОХОЦЬКИЙ ІГОР)"
+    "artist": "GROHOTSKY (ГРОХОЦЬКИЙ ІГОР)"
   },
   {
     "title": "ТВІЙ СМАК, ТВІЙ СТИЛЬ",
-    "artist": "250.\tGROHOTSKY (ГРОХОЦЬКИЙ ІГОР)"
+    "artist": "GROHOTSKY (ГРОХОЦЬКИЙ ІГОР)"
   },
   {
     "title": "ГАРМАТИ",
-    "artist": "251.\tHURTOM"
-  },
-  {
-    "title": "ГАРМАТИ",
-    "artist": "252.\tHURTOM"
+    "artist": "HURTOM"
   },
   {
     "title": "ЛЮБЛЮ ТЕБЕ",
-    "artist": "253.\tILLUSION & SERGIY"
+    "artist": "ILLUSION & SERGIY"
   },
   {
     "title": "КОХАЮ (-,+).kfn",
-    "artist": "254.\tIRIS"
+    "artist": "IRIS"
   },
   {
     "title": "КАЗКОВО",
-    "artist": "255.\tIVAN NAVI"
+    "artist": "IVAN NAVI"
   },
   {
     "title": "КРАЙ",
-    "artist": "256.\tIVAN NAVI"
-  },
-  {
-    "title": "КРАЙ",
-    "artist": "257.\tIVAN NAVI"
+    "artist": "IVAN NAVI"
   },
   {
     "title": "ТАКІ МОЛОДІ",
-    "artist": "258.\tIVAN NAVI"
+    "artist": "IVAN NAVI"
   },
   {
     "title": "ТАМ ДЕ (REMX)·.avi",
-    "artist": "259.\tIVAN NAVI"
+    "artist": "IVAN NAVI"
   },
   {
     "title": "ХОЛОДНА НIЧ.kfn",
-    "artist": "260.\tIVAN NAVI"
+    "artist": "IVAN NAVI"
   },
   {
     "title": "ХОЛОДНА НІЧ",
-    "artist": "261.\tIVAN NAVI"
+    "artist": "IVAN NAVI"
   },
   {
     "title": "ЦЕ ВОНА (ЗІРКА)",
-    "artist": "262.\tIVAN NAVI"
+    "artist": "IVAN NAVI"
   },
   {
     "title": "ЖУРАВЛІ",
-    "artist": "263.\tIVAN NAVI & KRUTЬ & LEVOICE"
+    "artist": "IVAN NAVI & KRUTЬ & LEVOICE"
   },
   {
     "title": "ХІМІЯ",
-    "artist": "264.\tIVAN NAVI & ЯРЕМЧУК МАРІЯ"
+    "artist": "IVAN NAVI & ЯРЕМЧУК МАРІЯ"
   },
   {
     "title": "ЗАКОХУЮСЬ",
-    "artist": "265.\tIVAN NAVI [СЯРКЕВИЧ ІВАН]"
+    "artist": "IVAN NAVI [СЯРКЕВИЧ ІВАН]"
   },
   {
     "title": "КОЛИ НЕМА ТЕБЕ",
-    "artist": "266.\tIVAN NAVI [СЯРКЕВИЧ ІВАН]"
+    "artist": "IVAN NAVI [СЯРКЕВИЧ ІВАН]"
   },
   {
     "title": "ПТАХИ",
-    "artist": "267.\tIVAN NAVI [СЯРКЕВИЧ ІВАН]"
+    "artist": "IVAN NAVI [СЯРКЕВИЧ ІВАН]"
   },
   {
     "title": "1944 (-)·.kfn",
-    "artist": "268.\tJAMALA"
+    "artist": "JAMALA"
   },
   {
     "title": "BELLA MORE MIO.kfn",
-    "artist": "269.\tJAMALA"
+    "artist": "JAMALA"
   },
   {
     "title": "КРИЛА",
-    "artist": "270.\tJAMALA"
+    "artist": "JAMALA"
   },
   {
     "title": "ШЛЯХ ДО ДОМУ",
-    "artist": "271.\tJAMALA"
+    "artist": "JAMALA"
   },
   {
     "title": "ДО ПОБАЧЕННЯ",
-    "artist": "272.\tJANE"
+    "artist": "JANE"
   },
   {
     "title": "БОМБА РАКЕТА ПУШКА ГРАНАТА",
-    "artist": "273.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "БОМБА РАКЕТА ПУШКА ГРАНАТА·.kfn",
-    "artist": "274.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "ВІЛЬНА КАСА",
-    "artist": "275.\tJERRY HEIL"
-  },
-  {
-    "title": "ВІЛЬНА КАСА",
-    "artist": "276.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "ГЕТЬ З УКРАЇНИ ГЕТЬ ГЕТЬ",
-    "artist": "277.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "КОЗАЦЬКОМУ РОДУ",
-    "artist": "278.\tJERRY HEIL"
-  },
-  {
-    "title": "КОЗАЦЬКОМУ РОДУ",
-    "artist": "279.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "КОХАЙТЕСЯ ЧОРНОБРИВІ",
-    "artist": "280.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "КУБИКИ РУБІКА",
-    "artist": "281.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "МРІЯ",
-    "artist": "282.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "НЕ БЕЙБІ",
-    "artist": "283.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "ОХРАНА ОТМЄНА",
-    "artist": "284.\tJERRY HEIL"
-  },
-  {
-    "title": "ОХРАНА ОТМЄНА",
-    "artist": "285.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "ПОШТА",
-    "artist": "286.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "ТРИ ПОЛОСИ",
-    "artist": "287.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "ТУК ТУК ТУК",
-    "artist": "288.\tJERRY HEIL"
+    "artist": "JERRY HEIL"
   },
   {
     "title": "ГЕТЬ З УКРАЇНИ МОСКАЛЬ НЕКРАСІВИЙ",
-    "artist": "289.\tJERRY HEIL, СЕРДЮЧКА ВЕРКА"
+    "artist": "JERRY HEIL, СЕРДЮЧКА ВЕРКА"
   },
   {
     "title": "ВІДПУСТИ",
-    "artist": "290.\tJEVAGA"
+    "artist": "JEVAGA"
   },
   {
     "title": "ЗІ ЛЬВОВА ДО КИЄВА",
-    "artist": "291.\tJEVAGA"
+    "artist": "JEVAGA"
   },
   {
     "title": "МОВА ТІЛА",
-    "artist": "292.\tJEVAGA"
+    "artist": "JEVAGA"
   },
   {
     "title": "ПЛАКАЛА",
-    "artist": "293.\tJEVAGA"
+    "artist": "JEVAGA"
   },
   {
     "title": "ПОВІЛЬНИЙ ТАНЕЦЬ",
-    "artist": "294.\tJEVAGA"
+    "artist": "JEVAGA"
   },
   {
     "title": "СИНІ ОЧІ",
-    "artist": "295.\tJEVAGA"
+    "artist": "JEVAGA"
   },
   {
     "title": "НЕ ТІКАЙ.avi",
-    "artist": "296.\tJULIK"
+    "artist": "JULIK"
   },
   {
     "title": "ПРИГОРНУ",
-    "artist": "297.\tJULIK"
+    "artist": "JULIK"
   },
   {
     "title": "ВІДПУСТИ",
-    "artist": "298.\tKADNAY"
+    "artist": "KADNAY"
   },
   {
     "title": "ВІДЧУВАЮ.avi",
-    "artist": "299.\tKADNAY"
+    "artist": "KADNAY"
   },
   {
     "title": "ТОБI",
-    "artist": "300.\tKADNAY"
+    "artist": "KADNAY"
   },
   {
     "title": "STEFANIA (СТЕФАНІЯ)",
-    "artist": "301.\tKALUSH"
-  },
-  {
-    "title": "STEFANIA (СТЕФАНІЯ)",
-    "artist": "302.\tKALUSH"
+    "artist": "KALUSH"
   },
   {
     "title": "ВІТЕР ВИЄ",
-    "artist": "303.\tKALUSH"
+    "artist": "KALUSH"
   },
   {
     "title": "ЗОРІ",
-    "artist": "304.\tKALUSH"
-  },
-  {
-    "title": "ЗОРІ",
-    "artist": "305.\tKALUSH"
-  },
-  {
-    "title": "ЗОРІ",
-    "artist": "306.\tKALUSH"
+    "artist": "KALUSH"
   },
   {
     "title": "КОЛИ",
-    "artist": "307.\tKALUSH"
+    "artist": "KALUSH"
   },
   {
     "title": "СТЕФАНІЯ",
-    "artist": "308.\tKALUSH"
+    "artist": "KALUSH"
   },
   {
     "title": "ЦЕ ЛЮБОВ",
-    "artist": "309.\tKALUSH"
-  },
-  {
-    "title": "ЦЕ ЛЮБОВ",
-    "artist": "310.\tKALUSH"
+    "artist": "KALUSH"
   },
   {
     "title": "ЯНГОЛОМ",
-    "artist": "311.\tKALUSH"
-  },
-  {
-    "title": "ЯНГОЛОМ",
-    "artist": "312.\tKALUSH"
+    "artist": "KALUSH"
   },
   {
     "title": "ХВИЛІ",
-    "artist": "313.\tKALUSH & JERRY HEIL"
+    "artist": "KALUSH & JERRY HEIL"
   },
   {
     "title": "ТИШІ НЕМАЄ",
-    "artist": "314.\tKALUSH & KRASNA TYSHA"
+    "artist": "KALUSH & KRASNA TYSHA"
   },
   {
     "title": "ДАВАЙ НАЧИСТОТУ",
-    "artist": "315.\tKALUSH & SKOFKA"
-  },
-  {
-    "title": "ДАВАЙ НАЧИСТОТУ",
-    "artist": "316.\tKALUSH & SKOFKA"
+    "artist": "KALUSH & SKOFKA"
   },
   {
     "title": "ДОДОМУ",
-    "artist": "317.\tKALUSH & SKOFKA"
-  },
-  {
-    "title": "ДОДОМУ",
-    "artist": "318.\tKALUSH & SKOFKA"
-  },
-  {
-    "title": "ДОДОМУ",
-    "artist": "319.\tKALUSH & SKOFKA"
+    "artist": "KALUSH & SKOFKA"
   },
   {
     "title": "ФАЙНА",
-    "artist": "320.\tKALUSH & SKOFKA"
-  },
-  {
-    "title": "ФАЙНА",
-    "artist": "321.\tKALUSH & SKOFKA"
+    "artist": "KALUSH & SKOFKA"
   },
   {
     "title": "СТІНИ",
-    "artist": "322.\tKALUSH, JERRY HEIL"
+    "artist": "KALUSH, JERRY HEIL"
   },
   {
     "title": "БАТЬКІВЩИНА",
-    "artist": "323.\tKALUSH, SKOFKA"
+    "artist": "KALUSH, SKOFKA"
   },
   {
     "title": "ДОДОМУ",
-    "artist": "324.\tKAMINSKA SLAVA (КАМИНСКАЯ)"
+    "artist": "KAMINSKA SLAVA (КАМИНСКАЯ)"
   },
   {
     "title": "ВІДКЛАДЕНЕ ЖИТТЯ",
-    "artist": "325.\tKAVABANGA & DEPO & KOLIBRI"
+    "artist": "KAVABANGA & DEPO & KOLIBRI"
   },
   {
     "title": "КВІТЕНЬ",
-    "artist": "326.\tKAVABANGA & DEPO & KOLIBRI"
+    "artist": "KAVABANGA & DEPO & KOLIBRI"
   },
   {
     "title": "КРАЩЕ НЕ СТАНЕ",
-    "artist": "327.\tKAVABANGA & DEPO & KOLIBRI"
+    "artist": "KAVABANGA & DEPO & KOLIBRI"
   },
   {
     "title": "МІНОР",
-    "artist": "328.\tKAVABANGA & DEPO & KOLIBRI"
+    "artist": "KAVABANGA & DEPO & KOLIBRI"
   },
   {
     "title": "ПРИВІТ",
-    "artist": "329.\tKAVABANGA & DEPO & KOLIBRI"
+    "artist": "KAVABANGA & DEPO & KOLIBRI"
   },
   {
     "title": "БЕЗ КОХАННЯ",
-    "artist": "330.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ВІН",
-    "artist": "331.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ДИВА",
-    "artist": "332.\tKAZKA"
-  },
-  {
-    "title": "ДИВА",
-    "artist": "333.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ЗАПАЛА",
-    "artist": "334.\tKAZKA"
-  },
-  {
-    "title": "ЗАПАЛА",
-    "artist": "335.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ЛIТАКИ",
-    "artist": "336.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "НІХТО",
-    "artist": "337.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ОСТРІВ",
-    "artist": "338.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ПІСНЯ СМІЛИВИХ ДІВЧАТ",
-    "artist": "339.\tKAZKA"
-  },
-  {
-    "title": "ПІСНЯ СМІЛИВИХ ДІВЧАТ",
-    "artist": "340.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ПЛАКАЛА",
-    "artist": "341.\tKAZKA"
-  },
-  {
-    "title": "ПЛАКАЛА",
-    "artist": "342.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "САМА",
-    "artist": "343.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "СВЯТА",
-    "artist": "344.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ТАНЦІ",
-    "artist": "345.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ЦІЛУВАТИ ТЕБЕ",
-    "artist": "346.\tKAZKA"
-  },
-  {
-    "title": "ЦІЛУВАТИ ТЕБЕ",
-    "artist": "347.\tKAZKA"
+    "artist": "KAZKA"
   },
   {
     "title": "ПОРУЧ",
-    "artist": "348.\tKAZKA & ALEKSEEV"
+    "artist": "KAZKA & ALEKSEEV"
   },
   {
     "title": "СОЛОДКІ",
-    "artist": "349.\tKAZKA & DAMIEN ESCOBAR"
-  },
-  {
-    "title": "СОЛОДКІ",
-    "artist": "350.\tKAZKA & DAMIEN ESCOBAR"
+    "artist": "KAZKA & DAMIEN ESCOBAR"
   },
   {
     "title": "БЕРЕЖИ МЕНЕ",
-    "artist": "351.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "ГРУДЕНЬ",
-    "artist": "352.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "ДОЧКА САМУРАЯ",
-    "artist": "353.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "ЗНАЙДИ МЕНЕ",
-    "artist": "354.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "ІМПЕРАТОРИ",
-    "artist": "355.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "ТИШИНА",
-    "artist": "356.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "УЖЕ СВІТАЄ",
-    "artist": "357.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "ХТО ТИ",
-    "artist": "358.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "Я ТОБІ БРЕХАЛА",
-    "artist": "359.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "Я ЩАСЛИВА",
-    "artist": "360.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "Я ЩАСЛИВА ЛIКАРI КАЖУТЬ",
-    "artist": "361.\tKLAVDIA PETRIVNA"
-  },
-  {
-    "title": "Я ЩАСЛИВА ЛIКАРI КАЖУТЬ",
-    "artist": "362.\tKLAVDIA PETRIVNA"
+    "artist": "KLAVDIA PETRIVNA"
   },
   {
     "title": "НЕ ЛЯКАЙ",
-    "artist": "363.\tKLAVDIA PETRIVNA & OSTY"
+    "artist": "KLAVDIA PETRIVNA & OSTY"
   },
   {
     "title": "ЧОРНІ БІЛІ",
-    "artist": "364.\tKLAVDIA PETRIVNA & OSTY"
+    "artist": "KLAVDIA PETRIVNA & OSTY"
   },
   {
     "title": "БІЛЯ СЕРЦЯ",
-    "artist": "365.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ВІДЧУВАЮ",
-    "artist": "366.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ГОЛОС",
-    "artist": "367.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ДОЧЕКАЮСЬ",
-    "artist": "368.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ЗОМБІ",
-    "artist": "369.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ІНШІ МИ",
-    "artist": "370.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ЛИСТОПАД",
-    "artist": "371.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "МІЛІМЕТР",
-    "artist": "372.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ПАРАСОЛІ",
-    "artist": "373.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ТЕБЕ-СОБI",
-    "artist": "374.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "УКРАЇНО МИ СИЛА",
-    "artist": "375.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ЧИ РАЗОМ",
-    "artist": "376.\tKOLA"
+    "artist": "KOLA"
   },
   {
     "title": "ЗОРЕПАДИ",
-    "artist": "377.\tKOLA & ADAM"
+    "artist": "KOLA & ADAM"
   },
   {
     "title": "ПАМ'ЯТАЙ",
-    "artist": "378.\tKOLA & KALUSH"
+    "artist": "KOLA & KALUSH"
   },
   {
     "title": "УПІЙМАЙ МОЄ СЕРЦЕ",
-    "artist": "379.\tKOLA & KALUSH"
+    "artist": "KOLA & KALUSH"
   },
   {
     "title": "ВІДЬМА.avi",
-    "artist": "380.\tKOLABA & VSIVDOMA"
+    "artist": "KOLABA & VSIVDOMA"
   },
   {
     "title": "РОЗМОВА З ТОБОЮ",
-    "artist": "381.\tKOLABA & БОБУЛ ІВО"
+    "artist": "KOLABA & БОБУЛ ІВО"
   },
   {
     "title": "ЯКБИ НЕ ТИ",
-    "artist": "382.\tKOLABA & БОРОДІН МАКСИМ"
+    "artist": "KOLABA & БОРОДІН МАКСИМ"
   },
   {
     "title": "ВОЛОШКОВИЙ ЦВІТ",
-    "artist": "383.\tKOLABA & ЖУК АЛІНА"
+    "artist": "KOLABA & ЖУК АЛІНА"
   },
   {
     "title": "ХРЕЩАТИК",
-    "artist": "384.\tKOLABA & ЗІБРОВ ПАВЛО"
-  },
-  {
-    "title": "ХРЕЩАТИК",
-    "artist": "385.\tKOLABA & ЗІБРОВ ПАВЛО"
+    "artist": "KOLABA & ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ДЕ МОЯ ЛЮБОВ ЖИВЕ",
-    "artist": "386.\tKOLABA & ІCHEEV"
+    "artist": "KOLABA & ІCHEEV"
   },
   {
     "title": "ВОРОГА ПОБОРЕМО",
-    "artist": "387.\tKOZAK SIROMAHA"
+    "artist": "KOZAK SIROMAHA"
   },
   {
     "title": "ГУЛЯЛИ",
-    "artist": "388.\tKOZAK SIROMAHA"
-  },
-  {
-    "title": "ГУЛЯЛИ",
-    "artist": "389.\tKOZAK SIROMAHA"
+    "artist": "KOZAK SIROMAHA"
   },
   {
     "title": "СВIТ РIЗНОКОЛЬОРОВИЙ",
-    "artist": "390.\tKOZAK SIROMAHA"
-  },
-  {
-    "title": "СВIТ РIЗНОКОЛЬОРОВИЙ",
-    "artist": "391.\tKOZAK SIROMAHA"
+    "artist": "KOZAK SIROMAHA"
   },
   {
     "title": "КОЛИ ВОНА",
-    "artist": "392.\tKOZAK SYSTEM"
+    "artist": "KOZAK SYSTEM"
   },
   {
     "title": "НЕ МОЯ",
-    "artist": "393.\tKOZAK SYSTEM"
+    "artist": "KOZAK SYSTEM"
   },
   {
     "title": "СНИ",
-    "artist": "394.\tKOZAK SYSTEM"
+    "artist": "KOZAK SYSTEM"
   },
   {
     "title": "ТАКА СПОКУСЛИВА",
-    "artist": "395.\tKOZAK SYSTEM"
+    "artist": "KOZAK SYSTEM"
   },
   {
     "title": "ГУЛЯНКА",
-    "artist": "396.\tKREMENTSOVA"
+    "artist": "KREMENTSOVA"
   },
   {
     "title": "ПАРАМИ",
-    "artist": "397.\tKREMENTSOVA"
+    "artist": "KREMENTSOVA"
   },
   {
     "title": "В МІСТЕЧКУ МАЛОМУ",
-    "artist": "398.\tKRUTЬ"
+    "artist": "KRUTЬ"
   },
   {
     "title": "ВІР МЕНІ",
-    "artist": "399.\tKRUTЬ"
+    "artist": "KRUTЬ"
   },
   {
     "title": "ЧАЙКИ",
-    "artist": "400.\tKRUTЬ"
+    "artist": "KRUTЬ"
   },
   {
     "title": "ЧИ ТИ МІЙ СОН",
-    "artist": "401.\tKRUTЬ"
+    "artist": "KRUTЬ"
   },
   {
     "title": "ПРОБАЧ",
-    "artist": "402.\tLAUD"
+    "artist": "LAUD"
   },
   {
     "title": "БЕРЕЖИ",
-    "artist": "403.\tLELY45"
+    "artist": "LELY45"
   },
   {
     "title": "МІСТО МУЗИКА",
-    "artist": "404.\tLELY45"
+    "artist": "LELY45"
   },
   {
     "title": "НА ЛЮСТРІ",
-    "artist": "405.\tLELY45"
+    "artist": "LELY45"
   },
   {
     "title": "СПРОБУЙ КУПИ МЕНЕ",
-    "artist": "406.\tLELY45"
+    "artist": "LELY45"
   },
   {
     "title": "ХТО ТИ ДІВЧИНКО",
-    "artist": "407.\tLELY45"
+    "artist": "LELY45"
   },
   {
     "title": "ВЕРСАЧЕ",
-    "artist": "408.\tLEVYY MC"
+    "artist": "LEVYY MC"
   },
   {
     "title": "ДИТИНСТВО",
-    "artist": "409.\tLEVYY MC"
+    "artist": "LEVYY MC"
   },
   {
     "title": "КИДАЛА",
-    "artist": "410.\tLEVYY MC"
+    "artist": "LEVYY MC"
   },
   {
     "title": "ГРАДУС 100.avi",
-    "artist": "411.\tLOBODA"
+    "artist": "LOBODA"
   },
   {
     "title": "ДВА НЕЗНАЙОМЦІ",
-    "artist": "412.\tLOBODA"
+    "artist": "LOBODA"
   },
   {
     "title": "ОБЛИШ (МАСТЕР,КЛІП).kfn",
-    "artist": "413.\tLOBODA"
+    "artist": "LOBODA"
   },
   {
     "title": "ГОРІЛА СОСНА",
-    "artist": "414.\tMAD HEADS"
+    "artist": "MAD HEADS"
   },
   {
     "title": "МОЛОДА КРОВ",
-    "artist": "415.\tMAD HEADS"
+    "artist": "MAD HEADS"
   },
   {
     "title": "ПІСНЯ СИРЕНИ",
-    "artist": "416.\tMAD HEADS"
+    "artist": "MAD HEADS"
   },
   {
     "title": "СЕРЦЯ ВІДКРИТИ",
-    "artist": "417.\tMAD HEADS"
+    "artist": "MAD HEADS"
   },
   {
     "title": "ЧАС",
-    "artist": "418.\tMAD HEADS"
+    "artist": "MAD HEADS"
   },
   {
     "title": "ВЕСНА (+,-)·.kfn",
-    "artist": "419.\tMAD HEADS XL"
+    "artist": "MAD HEADS XL"
   },
   {
     "title": "ВЕСНА",
-    "artist": "420.\tMAD HEADS XL"
+    "artist": "MAD HEADS XL"
   },
   {
     "title": "ДВА ДУБКИ",
-    "artist": "421.\tMAD HEADS XL"
-  },
-  {
-    "title": "ДВА ДУБКИ",
-    "artist": "422.\tMAD HEADS XL"
+    "artist": "MAD HEADS XL"
   },
   {
     "title": "НАДІЯ Є",
-    "artist": "423.\tMAD HEADS XL"
+    "artist": "MAD HEADS XL"
   },
   {
     "title": "ОЙ МАМО, ЛЮБЛЮ ГРИЦЯ (+,-,МАСТЕР)·.kfn",
-    "artist": "424.\tMAD HEADS XL"
+    "artist": "MAD HEADS XL"
   },
   {
     "title": "ЦИГАНИ",
-    "artist": "425.\tMAD HEADS XL"
+    "artist": "MAD HEADS XL"
   },
   {
     "title": "Я НА МОРI",
-    "artist": "426.\tMAD HEADS XL"
+    "artist": "MAD HEADS XL"
   },
   {
     "title": "БОГИНЯ",
-    "artist": "427.\tMADE IN UKRAINE"
+    "artist": "MADE IN UKRAINE"
   },
   {
     "title": "В САДУ ГУЛЯЛА",
-    "artist": "428.\tMADE IN UKRAINE"
+    "artist": "MADE IN UKRAINE"
   },
   {
     "title": "СМЕРЕКО (-)·.kfn",
-    "artist": "429.\tMADE IN UKRAINE"
+    "artist": "MADE IN UKRAINE"
   },
   {
     "title": "ЧОМ ТИ НЕ ПРИЙШОВ (+,-).kfn",
-    "artist": "430.\tMADE IN UKRAINE"
+    "artist": "MADE IN UKRAINE"
   },
   {
     "title": "НА ЛЯМКАХ",
-    "artist": "431.\tMALAVITA"
+    "artist": "MALAVITA"
   },
   {
     "title": "ВІДЧУВАЙ",
-    "artist": "432.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ДАЙ НАМ БОЖЕ",
-    "artist": "433.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ДУРНЕНЬКА",
-    "artist": "434.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ЗАЙВІ",
-    "artist": "435.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ЗАМЕЛО",
-    "artist": "436.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "МАМА РІКА",
-    "artist": "437.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "МІЙ МЕН",
-    "artist": "438.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "МРІЯЛА",
-    "artist": "439.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "НІЧ У БАРІ",
-    "artist": "440.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ОСТАННІЙ ДЕНЬ.avi",
-    "artist": "441.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "СЛЬОЗИ I ПІСНІ",
-    "artist": "442.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "СМАЙЛИК (СОНЦЕ В МОЇХ ДОЛОНЯХ)",
-    "artist": "443.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ТРИ ЗОРI",
-    "artist": "444.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ХТОСЬ ЙДЕ",
-    "artist": "445.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ЧЕКАЙ",
-    "artist": "446.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ЧЕРЕМШИНА",
-    "artist": "447.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ЩАСТЯ",
-    "artist": "448.\tMAMARIKA"
+    "artist": "MAMARIKA"
   },
   {
     "title": "ДОСТАТНЬО",
-    "artist": "449.\tMAMARIKA & DOVI"
+    "artist": "MAMARIKA & DOVI"
   },
   {
     "title": "ЛЮДИ",
-    "artist": "450.\tMAMARIKA & KOLA"
-  },
-  {
-    "title": "ЛЮДИ",
-    "artist": "451.\tMAMARIKA & KOLA"
+    "artist": "MAMARIKA & KOLA"
   },
   {
     "title": "ДІВА МАРІЯ",
-    "artist": "452.\tMAMARIKA & MASHA DANILOVA & AVERIN"
+    "artist": "MAMARIKA & MASHA DANILOVA & AVERIN"
   },
   {
     "title": "ГІМН УКРАЇНИ",
-    "artist": "453.\tMANSOUND"
+    "artist": "MANSOUND"
   },
   {
     "title": "ДЕ МИ",
-    "artist": "454.\tMAX TRISS"
+    "artist": "MAX TRISS"
   },
   {
     "title": "ЗІРКА",
-    "artist": "455.\tMAX TRISS"
+    "artist": "MAX TRISS"
   },
   {
     "title": "НІ, Я НЕ ТУ КОХАВ",
-    "artist": "456.\tMAX TRISS"
+    "artist": "MAX TRISS"
   },
   {
     "title": "ЧЕРЕМШИНА",
-    "artist": "457.\tMAX TRISS"
-  },
-  {
-    "title": "ЧЕРЕМШИНА",
-    "artist": "458.\tMAX TRISS"
+    "artist": "MAX TRISS"
   },
   {
     "title": "НЕЗАМІННИХ",
-    "artist": "459.\tMAYOROVA"
+    "artist": "MAYOROVA"
   },
   {
     "title": "ПIДПАЛ",
-    "artist": "460.\tMAYOROVA"
-  },
-  {
-    "title": "ПIДПАЛ",
-    "artist": "461.\tMAYOROVA"
+    "artist": "MAYOROVA"
   },
   {
     "title": "ХТО ВОНА ТАКА",
-    "artist": "462.\tMAYOROVA"
+    "artist": "MAYOROVA"
   },
   {
     "title": "I КРОВ КИПИТЬ",
-    "artist": "463.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "THAT'S YOUR ROLE",
-    "artist": "464.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "UNDER THE LADDER",
-    "artist": "465.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "WONDER",
-    "artist": "466.\tMELOVIN"
-  },
-  {
-    "title": "WONDER",
-    "artist": "467.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "ВІТРИЛА",
-    "artist": "468.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "З ТОБОЮ ЗІ МНОЮ І ГОДІ",
-    "artist": "469.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "НЕ ЗВОЛІКАЙ",
-    "artist": "470.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "ТИ",
-    "artist": "471.\tMELOVIN"
+    "artist": "MELOVIN"
   },
   {
     "title": "ШЛЯХ",
-    "artist": "472.\tMELOVIN & RUZHYNSKI"
+    "artist": "MELOVIN & RUZHYNSKI"
   },
   {
     "title": "СОКОЛИ",
-    "artist": "473.\tMIRAMI"
+    "artist": "MIRAMI"
   },
   {
     "title": "БАРМЕН",
-    "artist": "474.\tMISHA ROMANOVA"
+    "artist": "MISHA ROMANOVA"
   },
   {
     "title": "ЗИМА",
-    "artist": "475.\tMISHA ROMANOVA"
+    "artist": "MISHA ROMANOVA"
   },
   {
     "title": "ПЕРЕБОЛІЛО",
-    "artist": "476.\tMISHA ROMANOVA"
+    "artist": "MISHA ROMANOVA"
   },
   {
     "title": "ТИША",
-    "artist": "477.\tMISHA ROMANOVA"
+    "artist": "MISHA ROMANOVA"
   },
   {
     "title": "ТИ МІЙ РАЙ",
-    "artist": "478.\tMIX DANCE"
+    "artist": "MIX DANCE"
   },
   {
     "title": "АЛХІМІЯ",
-    "artist": "479.\tMOLFAR"
+    "artist": "MOLFAR"
   },
   {
     "title": "ЧЕКАЄШ",
-    "artist": "480.\tMOLFAR"
+    "artist": "MOLFAR"
   },
   {
     "title": "ДІМ.avi",
-    "artist": "481.\tMOLODI"
+    "artist": "MOLODI"
   },
   {
     "title": "FROM U TO Z",
-    "artist": "482.\tMONATIK"
+    "artist": "MONATIK"
   },
   {
     "title": "VITAMIN D",
-    "artist": "483.\tMONATIK"
+    "artist": "MONATIK"
   },
   {
     "title": "КОЖНИЙ РАЗ",
-    "artist": "484.\tMONATIK"
+    "artist": "MONATIK"
   },
   {
     "title": "МОЖЕ ВЖЕ ДОСИТЬ",
-    "artist": "485.\tMONATIK"
+    "artist": "MONATIK"
   },
   {
     "title": "СТАРІ ФОТОГРАФІЇ",
-    "artist": "486.\tMONATIK"
+    "artist": "MONATIK"
   },
   {
     "title": "ТЕ, ВIД ЧОГО БЕЗ ТЯМИ",
-    "artist": "487.\tMONATIK"
-  },
-  {
-    "title": "ТЕ, ВIД ЧОГО БЕЗ ТЯМИ",
-    "artist": "488.\tMONATIK"
+    "artist": "MONATIK"
   },
   {
     "title": "ПРОМІНЬ·.kfn",
-    "artist": "489.\tMOZGI, ВРЕМЯ И СТЕКЛО, MICHELLE ANDRADE"
+    "artist": "MOZGI, ВРЕМЯ И СТЕКЛО, MICHELLE ANDRADE"
   },
   {
     "title": "БОЖЕВІЛЛЯ",
-    "artist": "490.\tNATIYA"
+    "artist": "NATIYA"
   },
   {
     "title": "КОЖЕН ДЕНЬ",
-    "artist": "491.\tNAVSI100"
+    "artist": "NAVSI100"
   },
   {
     "title": "А Я ЛЮБИВ",
-    "artist": "492.\tNAVSI100 (НАВСІ СТО)"
-  },
-  {
-    "title": "А Я ЛЮБИВ",
-    "artist": "493.\tNAVSI100 (НАВСІ СТО)"
+    "artist": "NAVSI100 (НАВСІ СТО)"
   },
   {
     "title": "ДРУЖЕ МОРЕ.kfn",
-    "artist": "494.\tNICHKA"
+    "artist": "NICHKA"
   },
   {
     "title": "ЗА ТОБОЮ",
-    "artist": "495.\tNICHKA"
+    "artist": "NICHKA"
   },
   {
     "title": "ПРИСТАНЬ",
-    "artist": "496.\tNICHKA"
+    "artist": "NICHKA"
   },
   {
     "title": "СОНЯЧНА СИСТЕМА",
-    "artist": "497.\tNICHKA"
+    "artist": "NICHKA"
   },
   {
     "title": "ЗА СТІНАМИ",
-    "artist": "498.\tNICHKA & ASKWHEN"
+    "artist": "NICHKA & ASKWHEN"
   },
   {
     "title": "ВІДШУКАТИ",
-    "artist": "499.\tNICHKA & BALSAM"
+    "artist": "NICHKA & BALSAM"
   },
   {
     "title": "ЗАБУДЬ МЕНЕ",
-    "artist": "500.\tNICHKA & GOLUBENKO"
+    "artist": "NICHKA & GOLUBENKO"
   },
   {
     "title": "ОСТАННЯ НІЧ",
-    "artist": "501.\tNICHKA & VERLOKA"
+    "artist": "NICHKA & VERLOKA"
   },
   {
     "title": "ПОШТАРІ",
-    "artist": "502.\tNICHKA & VERLOKA"
+    "artist": "NICHKA & VERLOKA"
   },
   {
     "title": "НІЧЕНЬКА",
-    "artist": "503.\tOKS"
+    "artist": "OKS"
   },
   {
     "title": "НЕ ЗГАСАЙ.avi",
-    "artist": "504.\tOLEYNIK"
+    "artist": "OLEYNIK"
   },
   {
     "title": "ЗОРЯНЕ",
-    "artist": "505.\tOLIVAN & SESTRA"
+    "artist": "OLIVAN & SESTRA"
   },
   {
     "title": "ТИ МІЙ СВІТ",
-    "artist": "506.\tOLIVAN & THE BUDCHUK"
+    "artist": "OLIVAN & THE BUDCHUK"
   },
   {
     "title": "ЗАЙВОЮ.avi",
-    "artist": "507.\tOMARGALIEVA OLENA"
+    "artist": "OMARGALIEVA OLENA"
   },
   {
     "title": "ТВОЯ",
-    "artist": "508.\tOMARGALIEVA OLENA"
+    "artist": "OMARGALIEVA OLENA"
   },
   {
     "title": "ЗНАЮ.avi",
-    "artist": "509.\tONUKA"
+    "artist": "ONUKA"
   },
   {
     "title": "БУВАЙ",
-    "artist": "510.\tOPEN KIDS"
+    "artist": "OPEN KIDS"
   },
   {
     "title": "НЕ ПРОБАЧУ",
-    "artist": "511.\tOPG SVYATIE"
+    "artist": "OPG SVYATIE"
   },
   {
     "title": "ЗНАЙТИ",
-    "artist": "512.\tOSTY"
+    "artist": "OSTY"
   },
   {
     "title": "НЕ БРАЛО",
-    "artist": "513.\tOSTY"
+    "artist": "OSTY"
   },
   {
     "title": "НЕ ЛЯКАЙ",
-    "artist": "514.\tOSTY"
+    "artist": "OSTY"
   },
   {
     "title": "ОКЕАН",
-    "artist": "515.\tOSTY"
+    "artist": "OSTY"
   },
   {
     "title": "СВЯТО",
-    "artist": "516.\tOSTY"
+    "artist": "OSTY"
   },
   {
     "title": "СНІГ ВЖЕ ПАДАЄ",
-    "artist": "517.\tOSTY"
+    "artist": "OSTY"
   },
   {
     "title": "ТИ МОЯ",
-    "artist": "518.\tOSTY"
+    "artist": "OSTY"
   },
   {
     "title": "ВIДРИВАЮЧИСЬ",
-    "artist": "519.\tPARFENIUK"
+    "artist": "PARFENIUK"
   },
   {
     "title": "ВІДРИВАЮЧИСЬ",
-    "artist": "520.\tPARFENIUK"
+    "artist": "PARFENIUK"
   },
   {
     "title": "ВРУБАЙ",
-    "artist": "521.\tPARFENIUK"
+    "artist": "PARFENIUK"
   },
   {
     "title": "ДЕ БИ ТИ НЕ БУЛА",
-    "artist": "522.\tPARFENIUK"
+    "artist": "PARFENIUK"
   },
   {
     "title": "ДОЛОНІ",
-    "artist": "523.\tPARFENIUK"
-  },
-  {
-    "title": "ДОЛОНІ",
-    "artist": "524.\tPARFENIUK"
+    "artist": "PARFENIUK"
   },
   {
     "title": "ПРОВЕЛА ЕКСКУРСІЮ",
-    "artist": "525.\tPARFENIUK"
+    "artist": "PARFENIUK"
   },
   {
     "title": "ГРОШІ",
-    "artist": "526.\tPIANOBOY"
+    "artist": "PIANOBOY"
   },
   {
     "title": "КОХАННЯ",
-    "artist": "527.\tPIANOBOY"
+    "artist": "PIANOBOY"
   },
   {
     "title": "ШАМПАНСЬКІ ОЧІ",
-    "artist": "528.\tPIANOBOY"
-  },
-  {
-    "title": "ШАМПАНСЬКІ ОЧІ",
-    "artist": "529.\tPIANOBOY"
+    "artist": "PIANOBOY"
   },
   {
     "title": "КОХАННЯ (КЛІП).kfn",
-    "artist": "530.\tPIANOBOY, КВАРТАЛ 95"
+    "artist": "PIANOBOY, КВАРТАЛ 95"
   },
   {
     "title": "ІНША",
-    "artist": "531.\tPOLOSKOVA"
+    "artist": "POLOSKOVA"
   },
   {
     "title": "СПАЛАХИ",
-    "artist": "532.\tPOSITIFF"
+    "artist": "POSITIFF"
   },
   {
     "title": "CАМ ГУЛЯЮ",
-    "artist": "533.\tPROBASS & HARDI"
+    "artist": "PROBASS & HARDI"
   },
   {
     "title": "З ТОБОЮ СПОКІЙНО",
-    "artist": "534.\tPROKOPOV DIMA, DASHKOVA POLINA"
-  },
-  {
-    "title": "З ТОБОЮ СПОКІЙНО",
-    "artist": "535.\tPROKOPOV DIMA, DASHKOVA POLINA"
+    "artist": "PROKOPOV DIMA, DASHKOVA POLINA"
   },
   {
     "title": "З ТОБОЮ СПОКІЙНО 2",
-    "artist": "536.\tPROKOPOV DIMA, DASHKOVA POLINA"
+    "artist": "PROKOPOV DIMA, DASHKOVA POLINA"
   },
   {
     "title": "НАВІЩО МОВЧАТИ",
-    "artist": "537.\tPUSTOVIT"
+    "artist": "PUSTOVIT"
   },
   {
     "title": "ПЕРШЕ КОХАННЯ",
-    "artist": "538.\tPUSTOVIT"
+    "artist": "PUSTOVIT"
   },
   {
     "title": "ТИ НЕЙМОВІРНА",
-    "artist": "539.\tQUEST PISTOLS"
-  },
-  {
-    "title": "ТИ НЕЙМОВІРНА",
-    "artist": "540.\tQUEST PISTOLS"
+    "artist": "QUEST PISTOLS"
   },
   {
     "title": "Я ТВІЙ НАРКОТИК",
-    "artist": "541.\tQUEST PISTOLS"
-  },
-  {
-    "title": "Я ТВІЙ НАРКОТИК",
-    "artist": "542.\tQUEST PISTOLS"
+    "artist": "QUEST PISTOLS"
   },
   {
     "title": "МІСЯЦЬ (КЛИП)·.kfn",
-    "artist": "543.\tREAL O"
+    "artist": "REAL O"
   },
   {
     "title": "ТИХО ПРИЙШОВ ТИХО ПІШОВ",
-    "artist": "544.\tRIFFMASTER"
+    "artist": "RIFFMASTER"
   },
   {
     "title": "ЗА КРОКОМ КРОК",
-    "artist": "545.\tRULADA (ЦУКАНОВА ІРИНА)"
+    "artist": "RULADA (ЦУКАНОВА ІРИНА)"
   },
   {
     "title": "ВОНА ТАКА",
-    "artist": "546.\tRUMBERO'S"
+    "artist": "RUMBERO'S"
   },
   {
     "title": "КАСЕТА",
-    "artist": "547.\tSADSVIT"
+    "artist": "SADSVIT"
   },
   {
     "title": "СИЛУЕТИ",
-    "artist": "548.\tSADSVIT, СТРУКТУРА ЩАСТЯ"
+    "artist": "SADSVIT, СТРУКТУРА ЩАСТЯ"
   },
   {
     "title": "ТАМ ДЕ МІЙ ДІМ",
-    "artist": "549.\tSANNA"
+    "artist": "SANNA"
   },
   {
     "title": "ЗЛИВА",
-    "artist": "550.\tSANNA & MORPHOM"
+    "artist": "SANNA & MORPHOM"
   },
   {
     "title": "ВСЕ МОЄ ТЕПЛО",
-    "artist": "551.\tSANTORIN"
+    "artist": "SANTORIN"
   },
   {
     "title": "НЕ СВЯТИМ",
-    "artist": "552.\tSANTORIN"
+    "artist": "SANTORIN"
   },
   {
     "title": "НЕМАЄ СЕНСУ",
-    "artist": "553.\tSANTORIN"
+    "artist": "SANTORIN"
   },
   {
     "title": "ПІД ШАФЕ",
-    "artist": "554.\tSANTORIN"
+    "artist": "SANTORIN"
   },
   {
     "title": "КРАЩЕ НІЖ ТИ",
-    "artist": "555.\tSANTORIN & БІЛИЙ БО"
+    "artist": "SANTORIN & БІЛИЙ БО"
   },
   {
     "title": "БАЛУВАНА ГАЛЯ",
-    "artist": "556.\tSELFY"
+    "artist": "SELFY"
   },
   {
     "title": "ВИШИВАНОЧКА (МАСТЕР,КЛІП)·.kfn",
-    "artist": "557.\tSELFY"
+    "artist": "SELFY"
   },
   {
     "title": "СОЛОВЕЙ",
-    "artist": "558.\tSERAFYN"
+    "artist": "SERAFYN"
   },
   {
     "title": "УКРАЇНА ПОНАД УСЕ",
-    "artist": "559.\tSERAFYN"
+    "artist": "SERAFYN"
   },
   {
     "title": "Я БУДУ СУМУВАТИ",
-    "artist": "560.\tSERAFYN"
+    "artist": "SERAFYN"
   },
   {
     "title": "ЖИТТЯ ПРОДОВЖУЄТЬСЯ",
-    "artist": "561.\tSESTRA"
+    "artist": "SESTRA"
   },
   {
     "title": "ТАТУ",
-    "artist": "562.\tSESTRA"
+    "artist": "SESTRA"
   },
   {
     "title": "ТОБІ НА ЗЛО",
-    "artist": "563.\tSESTRA"
+    "artist": "SESTRA"
   },
   {
     "title": "П’ЯНА",
-    "artist": "564.\tSESTRA & IKSIY"
+    "artist": "SESTRA & IKSIY"
   },
   {
     "title": "ДОБРОГО РАНКУ",
-    "artist": "565.\tSESTRA & YAROSLAV YARMAK"
+    "artist": "SESTRA & YAROSLAV YARMAK"
   },
   {
     "title": "СУПЕРДІВЧАТА.avi",
-    "artist": "566.\tSHADU"
+    "artist": "SHADU"
   },
   {
     "title": "ЧЕРВОНА КАЛИНА",
-    "artist": "567.\tSHAKHOV"
+    "artist": "SHAKHOV"
   },
   {
     "title": "ЧЕРВОНА РУТА",
-    "artist": "568.\tSHAKHOV"
+    "artist": "SHAKHOV"
   },
   {
     "title": "БІЛЯ ТОПОЛІ",
-    "artist": "569.\tSHUMEI"
+    "artist": "SHUMEI"
   },
   {
     "title": "ВИЩЕ ХМАР",
-    "artist": "570.\tSHUMEI"
+    "artist": "SHUMEI"
   },
   {
     "title": "ВОЛОССЯ",
-    "artist": "571.\tSHUMEI"
-  },
-  {
-    "title": "ВОЛОССЯ",
-    "artist": "572.\tSHUMEI"
+    "artist": "SHUMEI"
   },
   {
     "title": "КАПАЮТЬ",
-    "artist": "573.\tSHUMEI"
+    "artist": "SHUMEI"
   },
   {
     "title": "КОМЕТА",
-    "artist": "574.\tSHUMEI"
-  },
-  {
-    "title": "КОМЕТА",
-    "artist": "575.\tSHUMEI"
+    "artist": "SHUMEI"
   },
   {
     "title": "МАЛЬВИ",
-    "artist": "576.\tSHUMEI"
+    "artist": "SHUMEI"
   },
   {
     "title": "ПРОБАЧ",
-    "artist": "577.\tSHUMEI"
+    "artist": "SHUMEI"
   },
   {
     "title": "БУРЕВІЯМИ",
-    "artist": "578.\tSHUMEI, ОГНЕВИЧ ЗЛАТА"
+    "artist": "SHUMEI, ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "В ДОРОГУ",
-    "artist": "579.\tSKOFKA"
+    "artist": "SKOFKA"
   },
   {
     "title": "ЗАГЛОХ",
-    "artist": "580.\tSKOFKA"
-  },
-  {
-    "title": "ЗАГЛОХ",
-    "artist": "581.\tSKOFKA"
+    "artist": "SKOFKA"
   },
   {
     "title": "КРУЗАК",
-    "artist": "582.\tSKOFKA"
+    "artist": "SKOFKA"
   },
   {
     "title": "ПОГАНI СУСІДИ",
-    "artist": "583.\tSKOFKA"
+    "artist": "SKOFKA"
   },
   {
     "title": "ЧУТИ ГІМН",
-    "artist": "584.\tSKOFKA"
+    "artist": "SKOFKA"
   },
   {
     "title": "СТРІЛЯЙ",
-    "artist": "585.\tSKYLERR"
+    "artist": "SKYLERR"
   },
   {
     "title": "ЗАБОРОНЕНЕ",
-    "artist": "586.\tSKYLERR"
+    "artist": "SKYLERR"
   },
   {
     "title": "КЛІПАЛИ",
-    "artist": "587.\tSKYLERR"
+    "artist": "SKYLERR"
   },
   {
     "title": "КОЛИШНІМИ.avi",
-    "artist": "588.\tSKYLERR"
+    "artist": "SKYLERR"
   },
   {
     "title": "ХОРОША ДІВЧИНКА",
-    "artist": "589.\tSKYLERR"
+    "artist": "SKYLERR"
   },
   {
     "title": "ДЗВІН",
-    "artist": "590.\tSKYLERR & SANARIA"
+    "artist": "SKYLERR & SANARIA"
   },
   {
     "title": "ЛІФТ",
-    "artist": "591.\tSKYLERR & КІСЕЛЬОВ НІКІТА"
+    "artist": "SKYLERR & КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "ЛЮБИЙ КОХАЙ МЕНЕ·.kfn",
-    "artist": "592.\tSMS"
+    "artist": "SMS"
   },
   {
     "title": "ПОРТРЕТ",
-    "artist": "593.\tSUNGUNS"
+    "artist": "SUNGUNS"
   },
   {
     "title": "ЧАЙКИ",
-    "artist": "594.\tSUNGUNS"
-  },
-  {
-    "title": "ЧАЙКИ",
-    "artist": "595.\tSUNGUNS"
+    "artist": "SUNGUNS"
   },
   {
     "title": "МІЙ ГЕРОЙ·.avi",
-    "artist": "596.\tSVITANKOVA"
+    "artist": "SVITANKOVA"
   },
   {
     "title": "ВІДЧУВАЮ",
-    "artist": "597.\tSYSHCHUK"
+    "artist": "SYSHCHUK"
   },
   {
     "title": "ДОБРЕ З ТОБОЮ",
-    "artist": "598.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "ЗАСПОКОЙ МЕНЕ",
-    "artist": "599.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "МЕНІ КАЗКОВО",
-    "artist": "600.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "НАЙКРАСИВIША NO STRESS",
-    "artist": "601.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "НІКОЛИ ЗНОВУ",
-    "artist": "602.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "ПОВЕРТАЙСЯ ЖИВИМ",
-    "artist": "603.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "СВІТЛО В ТОБІ",
-    "artist": "604.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "СОНЕЧКО",
-    "artist": "605.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "ТЕЧЕ ВОДА",
-    "artist": "606.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "ЦУНАМІ",
-    "artist": "607.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "Я КАЖУ ТАК",
-    "artist": "608.\tTARABAROVA"
+    "artist": "TARABAROVA"
   },
   {
     "title": "ЧЕКАЙ",
-    "artist": "609.\tTAYANNA"
+    "artist": "TAYANNA"
   },
   {
     "title": "ПОЦІЛУЙ.avi",
-    "artist": "610.\tTEENSAD & MSBLACK"
+    "artist": "TEENSAD & MSBLACK"
   },
   {
     "title": "ГОПАК.avi",
-    "artist": "611.\tTHE DOOX & JULY VITRANIUK"
+    "artist": "THE DOOX & JULY VITRANIUK"
   },
   {
     "title": "00 00",
-    "artist": "612.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "FREE ME",
-    "artist": "613.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "MAKE UP",
-    "artist": "614.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "SHADOWS OF TIME",
-    "artist": "615.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "STONES",
-    "artist": "616.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "АНТАРКТИДА",
-    "artist": "617.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ГОРА",
-    "artist": "618.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ДВА ВIКНА",
-    "artist": "619.\tTHE HARDKISS"
-  },
-  {
-    "title": "ДВА ВIКНА",
-    "artist": "620.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ДВА ВІКНА",
-    "artist": "621.\tTHE HARDKISS"
-  },
-  {
-    "title": "ДВА ВІКНА",
-    "artist": "622.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ЖУРАВЛI (МАЛЬВИ)",
-    "artist": "623.\tTHE HARDKISS"
-  },
-  {
-    "title": "ЖУРАВЛI (МАЛЬВИ)",
-    "artist": "624.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "КОРАБЛІ",
-    "artist": "625.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "КОСАТКА",
-    "artist": "626.\tTHE HARDKISS"
-  },
-  {
-    "title": "КОСАТКА",
-    "artist": "627.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "КОХАНЦІ",
-    "artist": "628.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "МАЯКИ",
-    "artist": "629.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ОБIЙМИ",
-    "artist": "630.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ОБІЙМИ",
-    "artist": "631.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ПРІРВА",
-    "artist": "632.\tTHE HARDKISS"
-  },
-  {
-    "title": "ПРІРВА",
-    "artist": "633.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "СЕРЦЕ",
-    "artist": "634.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "СЕСТРА",
-    "artist": "635.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "ХТО ЯК НЕ ТИ",
-    "artist": "636.\tTHE HARDKISS"
-  },
-  {
-    "title": "ХТО ЯК НЕ ТИ",
-    "artist": "637.\tTHE HARDKISS"
+    "artist": "THE HARDKISS"
   },
   {
     "title": "КОБРА",
-    "artist": "638.\tTHE HARDKISS, MONATIK"
+    "artist": "THE HARDKISS, MONATIK"
   },
   {
     "title": "АНТАРКТИДА",
-    "artist": "639.\tTHE HATTERS"
+    "artist": "THE HATTERS"
   },
   {
     "title": "ТОЛЬКО В ТЕБЕ",
-    "artist": "640.\tTHE HATTERS"
+    "artist": "THE HATTERS"
   },
   {
     "title": "БЕЗ ТЕБЕ Я НЕ Я",
-    "artist": "641.\tVAHA"
+    "artist": "VAHA"
   },
   {
     "title": "НЕ ЗУПИНЯЙТЕ МУЗИКУ",
-    "artist": "642.\tVAHA"
+    "artist": "VAHA"
   },
   {
     "title": "ОЧІ ГОЛУБІ",
-    "artist": "643.\tVAHA"
+    "artist": "VAHA"
   },
   {
     "title": "САМЕ ТИ",
-    "artist": "644.\tVAHA"
+    "artist": "VAHA"
   },
   {
     "title": "СТОРІЗ",
-    "artist": "645.\tVAHA"
+    "artist": "VAHA"
   },
   {
     "title": "ХТО ВОНА",
-    "artist": "646.\tVAHA"
+    "artist": "VAHA"
   },
   {
     "title": "Я ТЕБЕ ЧЕКАВ",
-    "artist": "647.\tVAHA"
+    "artist": "VAHA"
   },
   {
     "title": "СЕНСАЦІЯ",
-    "artist": "648.\tVARASH"
+    "artist": "VARASH"
   },
   {
     "title": "123",
-    "artist": "649.\tVARASH & LESAN"
+    "artist": "VARASH & LESAN"
   },
   {
     "title": "ВИШИВАНКА.avi",
-    "artist": "650.\tVERA & РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+    "artist": "VERA & РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
     "title": "МЕНІ НАСНИЛОСЬ",
-    "artist": "651.\tVIVID ROSE"
+    "artist": "VIVID ROSE"
   },
   {
     "title": "ПУСТА НІМА",
-    "artist": "652.\tVIVID ROSE"
+    "artist": "VIVID ROSE"
   },
   {
     "title": "ГОДІ ГОВОРИТИ ПРО ТОГО, КОГО НЕМА",
-    "artist": "653.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ГОЛУБКА",
-    "artist": "654.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ГРУШЕЧКА",
-    "artist": "655.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ІНІЙ",
-    "artist": "656.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ЛЕТИ",
-    "artist": "657.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ПТАШЕЧКА",
-    "artist": "658.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ТВОЯ",
-    "artist": "659.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ТИ ЗАБУВ ПРО МЕНЕ",
-    "artist": "660.\tVIVIENNE MORT (ВИВЬЕН МОРТ)"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ)"
   },
   {
     "title": "ДЕМОНИ",
-    "artist": "661.\tVIVIENNE MORT (ВИВЬЕН МОРТ) & OMANA"
+    "artist": "VIVIENNE MORT (ВИВЬЕН МОРТ) & OMANA"
   },
   {
     "title": "ВЕСНА",
-    "artist": "662.\tVLADA K"
+    "artist": "VLADA K"
   },
   {
     "title": "ЗМІНИ",
-    "artist": "663.\tVLADA K"
+    "artist": "VLADA K"
   },
   {
     "title": "В РОЖЕВИХ СНАХ",
-    "artist": "664.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "ВСІ ЗОРІ З НЕБА",
-    "artist": "665.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "З ДНЕМ НАРОДЖЕННЯ",
-    "artist": "666.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "НАМАЛЮЮ",
-    "artist": "667.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "НАРЕЧЕНА.avi",
-    "artist": "668.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "ПИШИ МЕНІ",
-    "artist": "669.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
-  },
-  {
-    "title": "ПИШИ МЕНІ.avi",
-    "artist": "670.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "СУМУЮ",
-    "artist": "671.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "ТЮЛЬПАНИ",
-    "artist": "672.\tVOLKANOV (ВОЛКАНОВ ДІМА)"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА)"
   },
   {
     "title": "ДО ТАНЦЮ",
-    "artist": "673.\tVOLKANOV (ВОЛКАНОВ ДІМА) & PAUCHEK"
+    "artist": "VOLKANOV (ВОЛКАНОВ ДІМА) & PAUCHEK"
   },
   {
     "title": "А ДЕ А ДЕ А ДЕ",
-    "artist": "674.\tVOVA CIGAN"
+    "artist": "VOVA CIGAN"
   },
   {
     "title": "ДОДОМУ",
-    "artist": "675.\tVOVA CIGAN"
+    "artist": "VOVA CIGAN"
   },
   {
     "title": "ТИ СКАЗАЛА А",
-    "artist": "676.\tVOVA CIGAN"
+    "artist": "VOVA CIGAN"
   },
   {
     "title": "ВИШНI",
-    "artist": "677.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ВИШНІ",
-    "artist": "678.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ВОВЧА ЯГОДА",
-    "artist": "679.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ВОРОГIВ НА НОЖI",
-    "artist": "680.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ГУСИ",
-    "artist": "681.\tWELLBOY"
-  },
-  {
-    "title": "ГУСИ",
-    "artist": "682.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ДОДОМУ",
-    "artist": "683.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ДОКУМЕНТИ У ДІЇ",
-    "artist": "684.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ЖИТТЯ",
-    "artist": "685.\tWELLBOY"
-  },
-  {
-    "title": "ЖИТТЯ",
-    "artist": "686.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ЖОВТІ МАЛЬВИ",
-    "artist": "687.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "НОЗІ БОСІ",
-    "artist": "688.\tWELLBOY"
-  },
-  {
-    "title": "НОЗІ БОСІ",
-    "artist": "689.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "ПУСТОЦВІТ",
-    "artist": "690.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "СТИЛЬ",
-    "artist": "691.\tWELLBOY"
+    "artist": "WELLBOY"
   },
   {
     "title": "МЕНІ ТАК ТРЕБА",
-    "artist": "692.\tWELLBOY & KUGATESSA"
+    "artist": "WELLBOY & KUGATESSA"
   },
   {
     "title": "ЗАБИЙ",
-    "artist": "693.\tWELLBOY & PARFENIUK"
-  },
-  {
-    "title": "ЗАБИЙ",
-    "artist": "694.\tWELLBOY & PARFENIUK"
+    "artist": "WELLBOY & PARFENIUK"
   },
   {
     "title": "БЕЗ ПОЖАЛУСТА",
-    "artist": "695.\tWELLBOY & УЛЯНА ШУБА"
+    "artist": "WELLBOY & УЛЯНА ШУБА"
   },
   {
     "title": "ДОЩІ",
-    "artist": "696.\tYAGODA"
+    "artist": "YAGODA"
   },
   {
     "title": "ЗАПАХ КРОПИВИ",
-    "artist": "697.\tYAGODA"
+    "artist": "YAGODA"
   },
   {
     "title": "ЗНОВ І ЗНОВ",
-    "artist": "698.\tYAGODA"
+    "artist": "YAGODA"
   },
   {
     "title": "ЗУСТРІЧ",
-    "artist": "699.\tYAGODA"
+    "artist": "YAGODA"
   },
   {
     "title": "Я НЕ ТАКА",
-    "artist": "700.\tYAGODA"
+    "artist": "YAGODA"
   },
   {
     "title": "LALALA",
-    "artist": "701.\tYAKTAK"
-  },
-  {
-    "title": "LALALA",
-    "artist": "702.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "БАТЬКАМ",
-    "artist": "703.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "БІЛЯ ТОПОЛІ",
-    "artist": "704.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ВРОДЛИВА",
-    "artist": "705.\tYAKTAK"
-  },
-  {
-    "title": "ВРОДЛИВА",
-    "artist": "706.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ГУЦУЛКА КСЕНЯ",
-    "artist": "707.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ЛИСТОПАДАМИ",
-    "artist": "708.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "НЕ ЗАБУВАЙ",
-    "artist": "709.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ПЕРЕМОЖЕ ДОБРО",
-    "artist": "710.\tYAKTAK"
-  },
-  {
-    "title": "ПЕРЕМОЖЕ ДОБРО",
-    "artist": "711.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ПОВІСТКА",
-    "artist": "712.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ПОРУЧ",
-    "artist": "713.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ПРОБАЧ",
-    "artist": "714.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "РІДНА МАТИ",
-    "artist": "715.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "СИЛУЕТ",
-    "artist": "716.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "УНОЧІ",
-    "artist": "717.\tYAKTAK"
+    "artist": "YAKTAK"
   },
   {
     "title": "ЧЕКАЄ ВДОМА (Я ДОЖЕНУ ОСТАННЬОГО ВАГОНА)",
-    "artist": "718.\tYAKTAK & DOVI"
+    "artist": "YAKTAK & DOVI"
   },
   {
     "title": "ЧЕКАЄ ВДОМА",
-    "artist": "719.\tYAKTAK & DOVI"
+    "artist": "YAKTAK & DOVI"
   },
   {
     "title": "НЕ ШУКАЙ.avi",
-    "artist": "720.\tYAKTAK & GOLUBENKO"
+    "artist": "YAKTAK & GOLUBENKO"
   },
   {
     "title": "В ПУСТІЙ КІМНАТІ",
-    "artist": "721.\tYAKTAK & JERRY HEIL"
+    "artist": "YAKTAK & JERRY HEIL"
   },
   {
     "title": "ПОРІЧКА",
-    "artist": "722.\tYAKTAK & KOLA"
+    "artist": "YAKTAK & KOLA"
   },
   {
     "title": "ПОГЛЯД",
-    "artist": "723.\tYAKTAK & SOBOL"
+    "artist": "YAKTAK & SOBOL"
   },
   {
     "title": "ПАРОВА МАШИНА",
-    "artist": "724.\tYARAYA"
-  },
-  {
-    "title": "ПАРОВА МАШИНА",
-    "artist": "725.\tYARAYA"
+    "artist": "YARAYA"
   },
   {
     "title": "НЕ ДОВІРЯЙ·.avi",
-    "artist": "726.\tYARIMA"
+    "artist": "YARIMA"
   },
   {
     "title": "ЖУРАВЛІ",
-    "artist": "727.\tYAROMIYA"
+    "artist": "YAROMIYA"
   },
   {
     "title": "ДЖОРДЖОНЕ",
-    "artist": "728.\tYURCASH"
+    "artist": "YURCASH"
   },
   {
     "title": "ТІЛЬКИ НЕ СЬОГОДНІ",
-    "artist": "729.\tYURCASH"
+    "artist": "YURCASH"
   },
   {
     "title": "А ТИ КАЗАВ",
-    "artist": "730.\tZELENOOKA"
+    "artist": "ZELENOOKA"
   },
   {
     "title": "ГОРДИЙ ПРОМІНЬ",
-    "artist": "731.\tZELENOOKA"
+    "artist": "ZELENOOKA"
   },
   {
     "title": "ШАХ I МАТ",
-    "artist": "732.\tZELENOOKA"
+    "artist": "ZELENOOKA"
   },
   {
     "title": "ТАМ ДЕ ТИ.avi",
-    "artist": "733.\tZLOTNYTSKYI"
+    "artist": "ZLOTNYTSKYI"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
-    "artist": "734.\tАБРАМИК НАЗАР"
+    "artist": "АБРАМИК НАЗАР"
   },
   {
     "title": "ПIД ВЕРБОЮ",
-    "artist": "735.\tАБРАМИК НАЗАР"
+    "artist": "АБРАМИК НАЗАР"
   },
   {
     "title": "КРАЇНА",
-    "artist": "736.\tАВІАТОР"
+    "artist": "АВІАТОР"
   },
   {
     "title": "ПОВЕРТАЙСЯ",
-    "artist": "737.\tАВІАТОР"
+    "artist": "АВІАТОР"
   },
   {
     "title": "НЕ ЗНАЮ",
-    "artist": "738.\tАНДРАДЕ МІШЕЛЬ"
+    "artist": "АНДРАДЕ МІШЕЛЬ"
   },
   {
     "title": "FREEWAY",
-    "artist": "739.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "LOVE STORIYA",
-    "artist": "740.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "MON AMI",
-    "artist": "741.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "В НАШОМУ СЕРЦІ (-,+,ОР).kfn",
-    "artist": "742.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "ВІЛЬНА ДУША",
-    "artist": "743.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "ЕКСПЕРИМЕНТ",
-    "artist": "744.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "ЛА-ЛА-ЛА (-,+,КЛІП,ОР)·.kfn",
-    "artist": "745.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "НАЗАВЖДИ",
-    "artist": "746.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "НАЗОВСІМ·.kfn",
-    "artist": "747.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "НЕ ДАЛА",
-    "artist": "748.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "НІЧИЯ",
-    "artist": "749.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "ОЙ МАМО",
-    "artist": "750.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "ПРИГОРНИ МЕНЕ",
-    "artist": "751.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "РОЗКАЖУ ТОБІ (-,+,ОР)·.kfn",
-    "artist": "752.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "РОЗКАЖУ ТОБІ",
-    "artist": "753.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "СЕРЦЕ ЗНАЄ",
-    "artist": "754.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "ТРИ СВІТИ",
-    "artist": "755.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "Я НЕ ЗАБУДУ (-)·.kfn",
-    "artist": "756.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "Я НЕ ЗАБУДУ",
-    "artist": "757.\tАНДРІАНА"
+    "artist": "АНДРІАНА"
   },
   {
     "title": "НЕ ВМІЄ КОХАТИ",
-    "artist": "758.\tАНДРІАНА & PUSTOVIT"
+    "artist": "АНДРІАНА & PUSTOVIT"
   },
   {
     "title": "СУМУЮ",
-    "artist": "759.\tАНДРІАНА & PUSTOVIT"
+    "artist": "АНДРІАНА & PUSTOVIT"
   },
   {
     "title": "ПОВЕРНИСЯ СОЛОВЕЙКО",
-    "artist": "760.\tАНІСІМОВА ЛЮБОВ"
+    "artist": "АНІСІМОВА ЛЮБОВ"
   },
   {
     "title": "МОЇ БАТЬКИ",
-    "artist": "761.\tАНІСІМОВИ ЛЮБОВ І ВІКТОР"
+    "artist": "АНІСІМОВИ ЛЮБОВ І ВІКТОР"
   },
   {
     "title": "TDME (ТАМ ДЕ МИ Є)",
-    "artist": "762.\tАНТИТІЛА"
-  },
-  {
-    "title": "TDME (ТАМ ДЕ МИ Є)",
-    "artist": "763.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "БЕРИ СВОЄ",
-    "artist": "764.\tАНТИТІЛА"
-  },
-  {
-    "title": "БЕРИ СВОЄ",
-    "artist": "765.\tАНТИТІЛА"
-  },
-  {
-    "title": "БЕРИ СВОЄ",
-    "artist": "766.\tАНТИТІЛА"
-  },
-  {
-    "title": "БЕРИ СВОЄ.kfn",
-    "artist": "767.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "БІЛА ВОРОНА (КЛІП).kfn",
-    "artist": "768.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "БІЛА ВОРОНА",
-    "artist": "769.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "БУДЕ СИН",
-    "artist": "770.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "БУДУ ВУДУ",
-    "artist": "771.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "В ТВОЇХ ОЧАХ",
-    "artist": "772.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ВЕРНУТИ ТЕБЕ",
-    "artist": "773.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ВЕСНА ЛЮБОВЬ (ОРИГ).kfn",
-    "artist": "774.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ВИБИРАЙ",
-    "artist": "775.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ВІРИЛА",
-    "artist": "776.\tАНТИТІЛА"
-  },
-  {
-    "title": "ВІРИЛА",
-    "artist": "777.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ВСЕ КРАСИВО",
-    "artist": "778.\tАНТИТІЛА"
-  },
-  {
-    "title": "ВСЕ КРАСИВО",
-    "artist": "779.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ЗАСИНАЙ МЕНЕ",
-    "artist": "780.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "І ВСЮ НІЧ",
-    "artist": "781.\tАНТИТІЛА"
-  },
-  {
-    "title": "І ВСЮ НІЧ",
-    "artist": "782.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ІВ КУСТО",
-    "artist": "783.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ЇДЕМ ЇДЕМ",
-    "artist": "784.\tАНТИТІЛА"
-  },
-  {
-    "title": "ЇДЕМ ЇДЕМ",
-    "artist": "785.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "КІНО",
-    "artist": "786.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ЛОВИ МОМЕНТ (+.-).kfn",
-    "artist": "787.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ЛЮДИ ЯК КОРАБЛІ",
-    "artist": "788.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ЛЮДИ,ЯК КОРАБЛІ",
-    "artist": "789.\tАНТИТІЛА"
-  },
-  {
-    "title": "ЛЮДИ,ЯК КОРАБЛІ",
-    "artist": "790.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "МАСКАРАД",
-    "artist": "791.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "МЕНІ ТЕБЕ МАЛО",
-    "artist": "792.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "МОЛОКОМ",
-    "artist": "793.\tАНТИТІЛА"
-  },
-  {
-    "title": "МОЛОКОМ",
-    "artist": "794.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "У КНИЖКАХ",
-    "artist": "795.\tАНТИТІЛА"
-  },
-  {
-    "title": "У КНИЖКАХ",
-    "artist": "796.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ФОРТЕЦЯ БАХМУТ",
-    "artist": "797.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "ХОРОША ПІСНЯ (+,-)·.kfn",
-    "artist": "798.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "Я НЕ ЗАБУДУ ПЕРШУ НІЧ",
-    "artist": "799.\tАНТИТІЛА"
+    "artist": "АНТИТІЛА"
   },
   {
     "title": "СОНЯЧНИЙ ДОЩ (-,VID).kfn",
-    "artist": "800.\tАРНІКА"
+    "artist": "АРНІКА"
   },
   {
     "title": "ЇХАВ КОЗАК ЗА ДУНАЙ",
-    "artist": "801.\tАРТУР В. & ДОМІНО"
+    "artist": "АРТУР В. & ДОМІНО"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
-    "artist": "802.\tАРТУР В. & ДОМІНО"
+    "artist": "АРТУР В. & ДОМІНО"
   },
   {
     "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ",
-    "artist": "803.\tАРТУР В. & ДОМІНО"
+    "artist": "АРТУР В. & ДОМІНО"
   },
   {
     "title": "КОРДОНИ",
-    "artist": "804.\tБIЛИК IРИНА"
+    "artist": "БIЛИК IРИНА"
   },
   {
     "title": "ТАНГО ЗАБУТИХ МРІЙ",
-    "artist": "805.\tБIЛОНОЖКО В. & СВIТЛАНА"
+    "artist": "БIЛОНОЖКО В. & СВIТЛАНА"
   },
   {
     "title": "ЦВІТЕ, ЦВІТЕ ЧЕРЕМШИНА",
-    "artist": "806.\tБАБИЧ АНЖЕЛА"
+    "artist": "БАБИЧ АНЖЕЛА"
   },
   {
     "title": "ВОНА ЗНАЄ",
-    "artist": "807.\tБАБКІН СЕРГІЙ"
+    "artist": "БАБКІН СЕРГІЙ"
   },
   {
     "title": "ДЕ БИ Я",
-    "artist": "808.\tБАБКІН СЕРГІЙ"
+    "artist": "БАБКІН СЕРГІЙ"
   },
   {
     "title": "ДИХАЙ ПОВІЛЬНО (+,-).kfn",
-    "artist": "809.\tБАБКІН СЕРГІЙ"
+    "artist": "БАБКІН СЕРГІЙ"
   },
   {
     "title": "НЕПРОБИВНА",
-    "artist": "810.\tБАБКІН СЕРГІЙ"
+    "artist": "БАБКІН СЕРГІЙ"
   },
   {
     "title": "ПТАШКА",
-    "artist": "811.\tБАБКІН СЕРГІЙ & UDOVENKO"
+    "artist": "БАБКІН СЕРГІЙ & UDOVENKO"
   },
   {
     "title": "ТВОЯ ЛЮБОВ",
-    "artist": "812.\tБАБКІН СЕРГІЙ & БАБКІНА ВЕСЕЛИНА"
+    "artist": "БАБКІН СЕРГІЙ & БАБКІНА ВЕСЕЛИНА"
   },
   {
     "title": "СПАЛАХ",
-    "artist": "813.\tБАБКІН СЕРГІЙ, КРАВЕЦЬ ОЛЕНА"
+    "artist": "БАБКІН СЕРГІЙ, КРАВЕЦЬ ОЛЕНА"
   },
   {
     "title": "СОСЕ.kfn",
-    "artist": "814.\tБАЙРАКТАР"
+    "artist": "БАЙРАКТАР"
   },
   {
     "title": "ГРАЙ МУЗИКО ГРАЙ",
-    "artist": "815.\tБАРИЛЯК ТЕТЯНА"
-  },
-  {
-    "title": "ГРАЙ МУЗИКО ГРАЙ",
-    "artist": "816.\tБАРИЛЯК ТЕТЯНА"
-  },
-  {
-    "title": "ГРАЙ МУЗИКО ГРАЙ",
-    "artist": "817.\tБАРИЛЯК ТЕТЯНА"
+    "artist": "БАРИЛЯК ТЕТЯНА"
   },
   {
     "title": "ТИ В МЕНЕ Є",
-    "artist": "818.\tБАРИЛЯК ТЕТЯНА"
-  },
-  {
-    "title": "ТИ В МЕНЕ Є",
-    "artist": "819.\tБАРИЛЯК ТЕТЯНА"
-  },
-  {
-    "title": "ТИ В МЕНЕ Є",
-    "artist": "820.\tБАРИЛЯК ТЕТЯНА"
+    "artist": "БАРИЛЯК ТЕТЯНА"
   },
   {
     "title": "24_02",
-    "artist": "821.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "БЕЗ НЕЇ НІЯК",
-    "artist": "822.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ВЕСЬ СВІТ",
-    "artist": "823.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ВІЛЬНІ ЛЮДИ",
-    "artist": "824.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ГЕРОЯМ (UA)",
-    "artist": "825.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ДИМ (МАСТЕР).kfn",
-    "artist": "826.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ДИМ",
-    "artist": "827.\tБЕЗ ОБМЕЖЕНЬ"
-  },
-  {
-    "title": "ДИМ",
-    "artist": "828.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ДО НЕБЕС",
-    "artist": "829.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ЗОРІ ЗАПАЛАЛИ (-,+).kfn",
-    "artist": "830.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ЗОРІ ЗАПАЛАЛИ",
-    "artist": "831.\tБЕЗ ОБМЕЖЕНЬ"
-  },
-  {
-    "title": "ЗОРІ ЗАПАЛАЛИ",
-    "artist": "832.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "КОХАНА",
-    "artist": "833.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ЛИПЕНЬ",
-    "artist": "834.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ЛИСТОПАД",
-    "artist": "835.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "МІЛЬЯРДИ",
-    "artist": "836.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "МОВЧАТИ",
-    "artist": "837.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "МОЯ ЗЕМЛЯ",
-    "artist": "838.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "МОЯ КРАЇНА",
-    "artist": "839.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "НА МЕЛІ",
-    "artist": "840.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "НАЙ БИ ВЖЕ ВЕСНА",
-    "artist": "841.\tБЕЗ ОБМЕЖЕНЬ"
-  },
-  {
-    "title": "НАЙ БИ ВЖЕ ВЕСНА",
-    "artist": "842.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "НАЛИЙ МЕНІ ВИНА",
-    "artist": "843.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "НЕ ЗНАЮ ЯК",
-    "artist": "844.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "П'ЯТЬ ХВИЛИН",
-    "artist": "845.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ТАРАСОВА ГОРА",
-    "artist": "846.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ТВОЇ ОЧІ",
-    "artist": "847.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ТОНУ",
-    "artist": "848.\tБЕЗ ОБМЕЖЕНЬ"
-  },
-  {
-    "title": "ТОНУ",
-    "artist": "849.\tБЕЗ ОБМЕЖЕНЬ"
-  },
-  {
-    "title": "ТОНУ",
-    "artist": "850.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ХОЧЕШ",
-    "artist": "851.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "ХТО Я",
-    "artist": "852.\tБЕЗ ОБМЕЖЕНЬ"
+    "artist": "БЕЗ ОБМЕЖЕНЬ"
   },
   {
     "title": "А ТИ",
-    "artist": "853.\tБЕЗ ОБМЕЖЕНЬ & TAYANNA"
-  },
-  {
-    "title": "А ТИ",
-    "artist": "854.\tБЕЗ ОБМЕЖЕНЬ & TAYANNA"
+    "artist": "БЕЗ ОБМЕЖЕНЬ & TAYANNA"
   },
   {
     "title": "ДОЛЕ МОЯ",
-    "artist": "855.\tБЕЗ ОБМЕЖЕНЬ & VRODA & ЛЕНЬО ІВАН"
+    "artist": "БЕЗ ОБМЕЖЕНЬ & VRODA & ЛЕНЬО ІВАН"
   },
   {
     "title": "БІЛИЙ СНІГ",
-    "artist": "856.\tБЕМА АНДРІЙ"
-  },
-  {
-    "title": "БІЛИЙ СНІГ",
-    "artist": "857.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ЗАБУДЕШ ТИ",
-    "artist": "858.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ЗАВОРОЖИЛА",
-    "artist": "859.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ЗАКАРПАТСКИЙ КРАЙ",
-    "artist": "860.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "КОХАНА ДІВЧИНО",
-    "artist": "861.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ЛИСТОПАД",
-    "artist": "862.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "НАРЕЧЕНА",
-    "artist": "863.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "НЕ ПИТАЙ МЕНЕ",
-    "artist": "864.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ПОЛОВИНА",
-    "artist": "865.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "СЛУХАЙ СВОЄ СЕРЦЕ",
-    "artist": "866.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "СОЛОДКІ НЕБЕСА",
-    "artist": "867.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ТВОЇ ЗЕЛЕНІ ОЧІ",
-    "artist": "868.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ТВОЇ ОЧІ",
-    "artist": "869.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ТИ ЗАБУЛА ВСЕ",
-    "artist": "870.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ТИ НЕ ТА",
-    "artist": "871.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ТИША НАВКРУГИ",
-    "artist": "872.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ХОЛОДНА НІЧ",
-    "artist": "873.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ЧАРІВНИЦЯ",
-    "artist": "874.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ЩАСТЯ",
-    "artist": "875.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "ЩІЧКИ-ЯМОЧКИ",
-    "artist": "876.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "Я СУМУЮ ЗА ТОБОЮ (-,+)·.kfn",
-    "artist": "877.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "Я ТЕБЕ НЕ ЗАЛИШУ",
-    "artist": "878.\tБЕМА АНДРІЙ"
+    "artist": "БЕМА АНДРІЙ"
   },
   {
     "title": "А ТИ МЕНЕ ЧЕКАЄШ",
-    "artist": "879.\tБЕРЕЗУТСЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "БАТЬКАМ",
-    "artist": "880.\tБЕРЕЗУТСЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "БАТЬКОВI",
-    "artist": "881.\tБЕРЕЗУТСЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "В НАШIМ СЕЛI НА ВЕСIЛЛI",
-    "artist": "882.\tБЕРЕЗУТСЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ЗОЗУЛЕНЬКА",
-    "artist": "883.\tБЕРЕЗУТСЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ЯСЕНИ",
-    "artist": "884.\tБЕРЕЗУТСЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУТСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ВЕСІЛЛЯ ЗОЛОТЕ",
-    "artist": "885.\tБЕРЕЗУЦЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУЦЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ТЕЧЕ РІЧЕНЬКА",
-    "artist": "886.\tБЕРЕЗУЦЬКИЙ МИХАЙЛО"
+    "artist": "БЕРЕЗУЦЬКИЙ МИХАЙЛО"
   },
   {
     "title": "РАНДОМ",
-    "artist": "887.\tБІЛИЙ БО"
+    "artist": "БІЛИЙ БО"
   },
   {
     "title": "ЯК ДИТИНА",
-    "artist": "888.\tБІЛИЙ БО"
+    "artist": "БІЛИЙ БО"
   },
   {
     "title": "ДО ЗІРОК",
-    "artist": "889.\tБІЛИЙ БО & PRBLSK"
+    "artist": "БІЛИЙ БО & PRBLSK"
   },
   {
     "title": "А Я ПЛИВУ",
-    "artist": "890.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "БЕЗ ТЕБЕ",
-    "artist": "891.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "БОЖЕВIЛЬНА",
-    "artist": "892.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "ДОЩЕМ",
-    "artist": "893.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "КУВАЛА ЗОЗУЛЯ",
-    "artist": "894.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "МАЛО·.avi",
-    "artist": "895.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "МИ БУДЕМ РАЗОМ",
-    "artist": "896.\tБІЛИК ІРИНА"
-  },
-  {
-    "title": "МИ БУДЕМ РАЗОМ",
-    "artist": "897.\tБІЛИК ІРИНА"
-  },
-  {
-    "title": "МИ БУДЕМ РАЗОМ",
-    "artist": "898.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "МОВЧАТИ",
-    "artist": "899.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "СНІГ",
-    "artist": "900.\tБІЛИК ІРИНА"
-  },
-  {
-    "title": "СНІГ",
-    "artist": "901.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "ТИ МІЙ",
-    "artist": "902.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "ХАИ? ЖИВЕ НАДІЯ",
-    "artist": "903.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "Я ВІДРІЖУ ХВИЛІ",
-    "artist": "904.\tБІЛИК ІРИНА"
+    "artist": "БІЛИК ІРИНА"
   },
   {
     "title": "ВІДПУСТИ·.avi",
-    "artist": "905.\tБІЛИК ІРИНА & МИРОНЕНКО СЕРГІЙ"
+    "artist": "БІЛИК ІРИНА & МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "НЕ ЦІЛУЙ",
-    "artist": "906.\tБІЛИК ІРИНА, ТІК"
+    "artist": "БІЛИК ІРИНА, ТІК"
   },
   {
     "title": "ВЧИТЕЛЬКО МОЯ",
-    "artist": "907.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ГОРОБИНА НІЧ (+,-)·.kfn",
-    "artist": "908.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ЗАГАДАЙ БАЖАННЯ",
-    "artist": "909.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ЗЕЛЕНЕ ЖИТО",
-    "artist": "910.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ІВАНКУ",
-    "artist": "911.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ЛЕЛЕКИ",
-    "artist": "912.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ЛИСТОПАД",
-    "artist": "913.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ОЙ, КАЛИНОНЬКА ЧЕРВОНА",
-    "artist": "914.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ПШЕНИЧНЕ ПЕРЕВЕСЛО",
-    "artist": "915.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ЧАР-ЗІЛЛЯ",
-    "artist": "916.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ЧЕРВОНЕ НАМИСТО",
-    "artist": "917.\tБІЛОЗІР ОКСАНА"
+    "artist": "БІЛОЗІР ОКСАНА"
   },
   {
     "title": "ЗА ДОБРО",
-    "artist": "918.\tБІЛОКОНЬ ОЛЕНА"
+    "artist": "БІЛОКОНЬ ОЛЕНА"
   },
   {
     "title": "КОВТОК ХОЛОДНОГО ВИНА",
-    "artist": "919.\tБІЛОКОНЬ ОЛЕНА"
+    "artist": "БІЛОКОНЬ ОЛЕНА"
   },
   {
     "title": "БУДЕ СВЯТО",
-    "artist": "920.\tБІЛОНОЖКО ВІТАЛІЙ"
+    "artist": "БІЛОНОЖКО ВІТАЛІЙ"
   },
   {
     "title": "А ВЖЕ ОСІНЬ ПРИЙШЛА У МІЙ САД (+,-).kfn",
-    "artist": "921.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "А ВЖЕ ОСІНЬ ПРИЙШЛА У МІЙ САД",
-    "artist": "922.\tБОБУЛ ІВО"
-  },
-  {
-    "title": "А ВЖЕ ОСІНЬ ПРИЙШЛА У МІЙ САД",
-    "artist": "923.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "А ЛИПИ ЦВІТУТЬ",
-    "artist": "924.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "А ПРО ЗИМУ МЕНІ НЕ КАЖИ",
-    "artist": "925.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "БУВАЄ ТАК",
-    "artist": "926.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "ВСЕ ЗОЛОТО СВІТУ (-)·.kfn",
-    "artist": "927.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "ВСЕ ЗОЛОТО СВІТУ",
-    "artist": "928.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "ГОРОБИНА",
-    "artist": "929.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "ЖОРЖИНИ",
-    "artist": "930.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "ЛЮБОВ КРІЗЬ ЛІТА (-)·.kfn",
-    "artist": "931.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "ЛЮБОВ КРІЗЬ ЛІТА",
-    "artist": "932.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "МІСЯЧНЕ КОЛЕСО",
-    "artist": "933.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "МОНАХИНЯ",
-    "artist": "934.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "НЕБЕСА ОЧЕЙ ТВОЇХ",
-    "artist": "935.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "РОЗМОВА З ТОБОЮ",
-    "artist": "936.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "СЕРПАНКОВІ ОЧІ",
-    "artist": "937.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "СКРИПАЛЮ",
-    "artist": "938.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "ЯКЕ ЦЕ ЩАСТЯ",
-    "artist": "939.\tБОБУЛ ІВО"
+    "artist": "БОБУЛ ІВО"
   },
   {
     "title": "БАЙРАКТАР",
-    "artist": "940.\tБОРОВИК ТАРАС"
+    "artist": "БОРОВИК ТАРАС"
   },
   {
     "title": "ЯКБИ НЕ ТИ Я Б НЕ ВIРИВ В ЛЮБОВ",
-    "artist": "941.\tБОРОДIН МАКСИМ"
+    "artist": "БОРОДIН МАКСИМ"
   },
   {
     "title": "МИ ВЕРНЕМОСЬ",
-    "artist": "942.\tБОРОДІН МАКСИМ"
+    "artist": "БОРОДІН МАКСИМ"
   },
   {
     "title": "НЕ ВІДПУСКАЙ",
-    "artist": "943.\tБОРОДІН МАКСИМ"
-  },
-  {
-    "title": "НЕ ВІДПУСКАЙ",
-    "artist": "944.\tБОРОДІН МАКСИМ"
+    "artist": "БОРОДІН МАКСИМ"
   },
   {
     "title": "СКАЖИ МЕНI",
-    "artist": "945.\tБОРОДІН МАКСИМ"
+    "artist": "БОРОДІН МАКСИМ"
   },
   {
     "title": "ЧАЙКА",
-    "artist": "946.\tБОРОДІН МАКСИМ & KOLABA"
+    "artist": "БОРОДІН МАКСИМ & KOLABA"
   },
   {
     "title": "ЗНАЮ",
-    "artist": "947.\tБОССО АРТУР"
+    "artist": "БОССО АРТУР"
   },
   {
     "title": "КУРОРТНИЙ РОМАН",
-    "artist": "948.\tБОССО АРТУР"
+    "artist": "БОССО АРТУР"
   },
   {
     "title": "МЕНІ ДО ВЕСНИ",
-    "artist": "949.\tБОССО АРТУР"
+    "artist": "БОССО АРТУР"
   },
   {
     "title": "СНЕГ",
-    "artist": "950.\tБОССО АРТУР"
+    "artist": "БОССО АРТУР"
   },
   {
     "title": "ТИ ТІЛЬКИ ТИ",
-    "artist": "951.\tБОССО АРТУР"
+    "artist": "БОССО АРТУР"
   },
   {
     "title": "Я БЕЗ ТЕБЕ",
-    "artist": "952.\tБОССО АРТУР"
-  },
-  {
-    "title": "Я БЕЗ ТЕБЕ",
-    "artist": "953.\tБОССО АРТУР"
+    "artist": "БОССО АРТУР"
   },
   {
     "title": "ЯК БЕЗ ТЕБЕ ЖИТИ",
-    "artist": "954.\tБОССО АРТУР"
+    "artist": "БОССО АРТУР"
   },
   {
     "title": "ВЕЧІРНЄ СОНЦЕ (+,-,VID).kfn",
-    "artist": "955.\tБРУТТО (BRUTTO)"
+    "artist": "БРУТТО (BRUTTO)"
   },
   {
     "title": "ЗАДЗВОНИ",
-    "artist": "956.\tБУДЬМО"
+    "artist": "БУДЬМО"
   },
   {
     "title": "ПЛАКАЛА КАЛИНА",
-    "artist": "957.\tБУДЬМО"
+    "artist": "БУДЬМО"
   },
   {
     "title": "ПОВЕДИ МЕНЕ",
-    "artist": "958.\tБУДЬМО"
+    "artist": "БУДЬМО"
   },
   {
     "title": "ДУХМЯНА НIЧ (VID).kfn",
-    "artist": "959.\tБУЖИНСЬКА КАТЯ"
+    "artist": "БУЖИНСЬКА КАТЯ"
   },
   {
     "title": "УКРАЇНА ВИШИВАНКА",
-    "artist": "960.\tБУЖИНСЬКА КАТЯ"
+    "artist": "БУЖИНСЬКА КАТЯ"
   },
   {
     "title": "ЯК У НАС НА УКРАЇНІ",
-    "artist": "961.\tБУЖИНСЬКА КАТЯ"
-  },
-  {
-    "title": "ЯК У НАС НА УКРАЇНІ",
-    "artist": "962.\tБУЖИНСЬКА КАТЯ"
+    "artist": "БУЖИНСЬКА КАТЯ"
   },
   {
     "title": "ВИШЕНЬКА ЧЕРЕШЕНЬКА",
-    "artist": "963.\tБУЙНИЙ ПАНАС"
+    "artist": "БУЙНИЙ ПАНАС"
   },
   {
     "title": "ГОРНЯТКО КАПУЧІНО",
-    "artist": "964.\tБУЙНИЙ ПАНАС"
+    "artist": "БУЙНИЙ ПАНАС"
   },
   {
     "title": "ОБА-НА",
-    "artist": "965.\tБУЙНИЙ ПАНАС"
+    "artist": "БУЙНИЙ ПАНАС"
   },
   {
     "title": "ПОЦЬОМАЙ",
-    "artist": "966.\tБУЙНИЙ ПАНАС"
+    "artist": "БУЙНИЙ ПАНАС"
   },
   {
     "title": "ТЬОЩА",
-    "artist": "967.\tБУЙНИЙ ПАНАС"
+    "artist": "БУЙНИЙ ПАНАС"
   },
   {
     "title": "ЩАСТЯ ЗДОРОВ'Я МНОГАЯ ЛІТА",
-    "artist": "968.\tБУЙНИЙ ПАНАС"
+    "artist": "БУЙНИЙ ПАНАС"
   },
   {
     "title": "ЩАСТЯ, ЗДОРОВ’Я, МНОГАЯ ЛІТА",
-    "artist": "969.\tБУЙНИЙ ПАНАС"
+    "artist": "БУЙНИЙ ПАНАС"
   },
   {
     "title": "HAPPY END (-).kfn",
-    "artist": "970.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "HAPPY END",
-    "artist": "971.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "БЕТА КАРОТИН",
-    "artist": "972.\tБУМБОКС"
-  },
-  {
-    "title": "БЕТА КАРОТИН",
-    "artist": "973.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "БРЕХНЯ",
-    "artist": "974.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ДЕНЬ",
-    "artist": "975.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ДИТИНА (COVER,+,-).kfn",
-    "artist": "976.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ДИТИНА",
-    "artist": "977.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ЗА БУЙКИ (САНДАЛИ)",
-    "artist": "978.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ЗА БУЙКИ (САНДАЛИ) {D,NO OR}.kfn",
-    "artist": "979.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "КВІТИ В ВОЛОССІ",
-    "artist": "980.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "КИМ МИ БУЛИ (+,-,КЛІП).kfn",
-    "artist": "981.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "КИМ МИ БУЛИ",
-    "artist": "982.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ЛЮДИ",
-    "artist": "983.\tБУМБОКС"
-  },
-  {
-    "title": "ЛЮДИ",
-    "artist": "984.\tБУМБОКС"
-  },
-  {
-    "title": "ЛЮДИ",
-    "artist": "985.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "МАЛЕНЬКА ДИТИНА (COVER,КЛІП).kfn",
-    "artist": "986.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "МАЛЕНЬКА ДИТИНА",
-    "artist": "987.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "НАОДИНЦI",
-    "artist": "988.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА",
-    "artist": "989.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ОЙ, У ЛУЗІ ЧЕРВОНА КАЛИНА",
-    "artist": "990.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ПЕПЕЛ (-,+,КЛІП).kfn",
-    "artist": "991.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ПЛЮЩ",
-    "artist": "992.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ПОЛІНА",
-    "artist": "993.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ТВІЙ НА 100%",
-    "artist": "994.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ТРИМАЙ",
-    "artist": "995.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ФІРТКА",
-    "artist": "996.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ЩО ТИ ЗМІГ",
-    "artist": "997.\tБУМБОКС"
+    "artist": "БУМБОКС"
   },
   {
     "title": "ТРИМАЙ МЕНЕ (ACOUSTIC)",
-    "artist": "998.\tБУМБОКС & THE GITAS"
+    "artist": "БУМБОКС & THE GITAS"
   },
   {
     "title": "ТРИМАЙ МЕНЕ",
-    "artist": "999.\tБУМБОКС & THE GITAS"
+    "artist": "БУМБОКС & THE GITAS"
   },
   {
     "title": "НЕ ЗНАЮ",
-    "artist": "1000.\tБУМБОКС & НАДИН"
+    "artist": "БУМБОКС & НАДИН"
   },
   {
     "title": "ЗЛИВА",
-    "artist": "1001.\tБУМБОКС, JAMALA, PIANOБОЙ"
+    "artist": "БУМБОКС, JAMALA, PIANOБОЙ"
   },
   {
     "title": "ЦЕ ЗІ МНОЮ",
-    "artist": "1002.\tБУМБОКС, ОКЕАН ЕЛЬЗИ"
+    "artist": "БУМБОКС, ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ЗЕЛЕНИЙ ГАЙ",
-    "artist": "1003.\tБУЧЕНКО ТЕТЯНЯ"
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
   },
   {
     "title": "КОЛОШМАТИТЬ ВІТЕР",
-    "artist": "1004.\tБУЧЕНКО ТЕТЯНЯ"
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
   },
   {
     "title": "КОХАННЯ ЧАРИ",
-    "artist": "1005.\tБУЧЕНКО ТЕТЯНЯ"
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
   },
   {
     "title": "ПУСТА ЧАРКА",
-    "artist": "1006.\tБУЧЕНКО ТЕТЯНЯ"
+    "artist": "БУЧЕНКО ТЕТЯНЯ"
   },
   {
     "title": "ЖОРЖИНИ",
-    "artist": "1007.\tБУЧИНСЬКА НАТАЛIЯ"
-  },
-  {
-    "title": "ЖОРЖИНИ",
-    "artist": "1008.\tБУЧИНСЬКА НАТАЛIЯ"
+    "artist": "БУЧИНСЬКА НАТАЛIЯ"
   },
   {
     "title": "НАЛИЙТЕ ШАМПАНСЬКОГО",
-    "artist": "1009.\tБУЧИНСЬКА НАТАЛIЯ"
-  },
-  {
-    "title": "НАЛИЙТЕ ШАМПАНСЬКОГО",
-    "artist": "1010.\tБУЧИНСЬКА НАТАЛIЯ"
+    "artist": "БУЧИНСЬКА НАТАЛIЯ"
   },
   {
     "title": "Я У ТЕБЕ ОДНА",
-    "artist": "1011.\tБУЧИНСЬКА НАТАЛIЯ"
+    "artist": "БУЧИНСЬКА НАТАЛIЯ"
   },
   {
     "title": "Я У ТЕБЯ ОДНА",
-    "artist": "1012.\tБУЧИНСЬКА НАТАЛIЯ"
+    "artist": "БУЧИНСЬКА НАТАЛIЯ"
   },
   {
     "title": "ГРІШНАЯ ЛЮБОВ (-,+,ОР)·.kfn",
-    "artist": "1013.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ГРІШНАЯ ЛЮБОВ",
-    "artist": "1014.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ДІВЧИНА ВЕСНА",
-    "artist": "1015.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ДІВЧИНА-ВЕСНА (МАСТЕР)·.kfn",
-    "artist": "1016.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ЗА ХМАРАМИ",
-    "artist": "1017.\tБУЧИНСЬКА НАТАЛІЯ"
-  },
-  {
-    "title": "ЗА ХМАРАМИ",
-    "artist": "1018.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "КАРПАТИ (-,+)·.kfn",
-    "artist": "1019.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "КАРПАТИ",
-    "artist": "1020.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "МОЯ УКРАЇНА",
-    "artist": "1021.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "НЕ ПИТАЙ (-,+)·.kfn",
-    "artist": "1022.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ОЙ, У ВИШНЕВОМУ САДУ",
-    "artist": "1023.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ПЕРЕМОГА",
-    "artist": "1024.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ТИ ЦІЛУЙ",
-    "artist": "1025.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ТО ЛЮБОВ",
-    "artist": "1026.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ТО ЛЮБОВ·.kfn",
-    "artist": "1027.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "ЧЕРВОНИЙ МАК",
-    "artist": "1028.\tБУЧИНСЬКА НАТАЛІЯ"
-  },
-  {
-    "title": "ЧЕРВОНИЙ МАК",
-    "artist": "1029.\tБУЧИНСЬКА НАТАЛІЯ"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ"
   },
   {
     "title": "УКРАЇНСЬКА ДІВЧИНА",
-    "artist": "1030.\tБУЧИНСЬКА НАТАЛІЯ & IKSIY"
+    "artist": "БУЧИНСЬКА НАТАЛІЯ & IKSIY"
   },
   {
     "title": "ЗЕЛЕНИЙ ЧАЙ",
-    "artist": "1031.\tВАКАРЧУК СВЯТОСЛАВ (БРЮССЕЛЬ)"
+    "artist": "ВАКАРЧУК СВЯТОСЛАВ (БРЮССЕЛЬ)"
   },
   {
     "title": "МИР НАД УКРАЇНОЮ",
-    "artist": "1032.\tВАЛЕВСЬКА НАТАЛІЯ"
+    "artist": "ВАЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ПАЛАЛА",
-    "artist": "1033.\tВАЛЕВСЬКА НАТАЛІЯ"
+    "artist": "ВАЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "УКРАЇНСЬКЕ ПОПУРІ (-).kfn",
-    "artist": "1034.\tВАЛЕВСЬКА НАТАЛІЯ"
+    "artist": "ВАЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ЧОРНА ГОРА (-).kfn",
-    "artist": "1035.\tВАСЯ CLUB"
+    "artist": "ВАСЯ CLUB"
   },
   {
     "title": "ЧОРНА ГОРА.kfn",
-    "artist": "1036.\tВАСЯ CLUB"
+    "artist": "ВАСЯ CLUB"
   },
   {
     "title": "ЦЕ КРАЙ ДЕ Я РОДИЛАСЬ",
-    "artist": "1037.\tВЕСНА СВІТЛАНА"
+    "artist": "ВЕСНА СВІТЛАНА"
   },
   {
     "title": "ВИШИВАНКА",
-    "artist": "1038.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ВІЗЬМИ МЕНЕ В ПОЛОН",
-    "artist": "1039.\tВИННИК ОЛЕГ"
-  },
-  {
-    "title": "ВІЗЬМИ МЕНЕ В ПОЛОН",
-    "artist": "1040.\tВИННИК ОЛЕГ"
-  },
-  {
-    "title": "ВІЗЬМИ МЕНЕ В ПОЛОН",
-    "artist": "1041.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ВОВЧИЦЯ (КЛІП)·.kfn",
-    "artist": "1042.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ВОВЧИЦЯ",
-    "artist": "1043.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ГОЛУБЕ СИВИЙ",
-    "artist": "1044.\tВИННИК ОЛЕГ"
-  },
-  {
-    "title": "ГОЛУБЕ СИВИЙ",
-    "artist": "1045.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "МАРІЯ-МАРІЧКО",
-    "artist": "1046.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "МАТИ КАЖЕ ПРАВДУ (-).kfn",
-    "artist": "1047.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "МАТИ КАЖЕ ПРАВДУ",
-    "artist": "1048.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "МОЇ БАТЬКИ",
-    "artist": "1049.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "НIЧ ЯКА МIСЯЧНА",
-    "artist": "1050.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "НАДКУСИЛИ МІСЯЦЬ ЗОРІ",
-    "artist": "1051.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "НАТАЛЯ-НАТАЛІ",
-    "artist": "1052.\tВИННИК ОЛЕГ"
-  },
-  {
-    "title": "НАТАЛЯ-НАТАЛІ",
-    "artist": "1053.\tВИННИК ОЛЕГ"
-  },
-  {
-    "title": "НАТАЛЯ-НАТАЛІ",
-    "artist": "1054.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ПА-ПА (UA)",
-    "artist": "1055.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ПЕРЕДЧУТТЯ",
-    "artist": "1056.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ПОВЕРТАЙ ДО ДОМУ",
-    "artist": "1057.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ПОВЕРТАЙ ДОДОМУ",
-    "artist": "1058.\tВИННИК ОЛЕГ"
-  },
-  {
-    "title": "ПОВЕРТАЙ ДОДОМУ",
-    "artist": "1059.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ПОЛІСМЕН (+,-)·.kfn",
-    "artist": "1060.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "СЧАСТЬЕ (ЩАСТЯ) (КЛІП,UA).kfn",
-    "artist": "1061.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ЯК ЖИТИ БЕЗ ТЕБЕ (+,-,КЛІП)·.kfn",
-    "artist": "1062.\tВИННИК ОЛЕГ"
+    "artist": "ВИННИК ОЛЕГ"
   },
   {
     "title": "ДІАМАНТИ",
-    "artist": "1063.\tВИННИК ОЛЕГ & ІВАЩЕНКО"
+    "artist": "ВИННИК ОЛЕГ & ІВАЩЕНКО"
   },
   {
     "title": "НАЙКРАЩИЙ ДЕНЬ",
-    "artist": "1064.\tВИННИК ОЛЕГ, ПОТАП"
+    "artist": "ВИННИК ОЛЕГ, ПОТАП"
   },
   {
     "title": "ТИ ПОПРАВИЛАСЬ НАТАША",
-    "artist": "1065.\tВИТАЛЬКА"
+    "artist": "ВИТАЛЬКА"
   },
   {
     "title": "ОЙ ГОВОРИЛА ЧИСТА ВОДА",
-    "artist": "1066.\tВІА ГРА"
+    "artist": "ВІА ГРА"
   },
   {
     "title": "ДАЙ МЕНІ ШАНС",
-    "artist": "1067.\tВОЙТЮК АРКАДІЙ"
+    "artist": "ВОЙТЮК АРКАДІЙ"
   },
   {
     "title": "СЕНЬЙОРІТА",
-    "artist": "1068.\tВОЙТЮК АРКАДІЙ & MISHA DIMOV"
+    "artist": "ВОЙТЮК АРКАДІЙ & MISHA DIMOV"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
-    "artist": "1069.\tВОПЛI ВIДОПЛЯСОВА"
-  },
-  {
-    "title": "НЕСЕ ГАЛЯ ВОДУ",
-    "artist": "1070.\tВОПЛI ВIДОПЛЯСОВА"
+    "artist": "ВОПЛI ВIДОПЛЯСОВА"
   },
   {
     "title": "ВЕСНА",
-    "artist": "1071.\tВОПЛІ ВІДОПЛЯСОВА"
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
   },
   {
     "title": "ПIДМАНУЛА (+,-).kfn",
-    "artist": "1072.\tВОПЛІ ВІДОПЛЯСОВА"
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
   },
   {
     "title": "ПІСЕНЬКА (-).kfn",
-    "artist": "1073.\tВОПЛІ ВІДОПЛЯСОВА"
+    "artist": "ВОПЛІ ВІДОПЛЯСОВА"
   },
   {
     "title": "ДИМ (+,-,КЛІП)·.kfn",
-    "artist": "1074.\tВРЕМЯ И СТЕКЛО"
+    "artist": "ВРЕМЯ И СТЕКЛО"
   },
   {
     "title": "ДО ЗІРОК",
-    "artist": "1075.\tВРЕМЯ И СТЕКЛО"
+    "artist": "ВРЕМЯ И СТЕКЛО"
   },
   {
     "title": "ЖУРАВЛІ",
-    "artist": "1076.\tВРОДА"
+    "artist": "ВРОДА"
   },
   {
     "title": "МИ З УКРАЇНИ",
-    "artist": "1077.\tВСІ ЗІРКИ"
+    "artist": "ВСІ ЗІРКИ"
   },
   {
     "title": "ВІДШУКАЮ (+,-,КЛІП)·.kfn",
-    "artist": "1078.\tГАЙТАНА"
+    "artist": "ГАЙТАНА"
   },
   {
     "title": "ДВА ВIКНА",
-    "artist": "1079.\tГАЙТАНА"
+    "artist": "ГАЙТАНА"
   },
   {
     "title": "ДВА ВІКНА (+,-,ОР)·.kfn",
-    "artist": "1080.\tГАЙТАНА"
+    "artist": "ГАЙТАНА"
   },
   {
     "title": "САМОТНЯ БОССА",
-    "artist": "1081.\tГАЙТАНА"
+    "artist": "ГАЙТАНА"
   },
   {
     "title": "СЛІДОМ ЗА ТОБОЮ (-)·.kfn",
-    "artist": "1082.\tГАЙТАНА"
+    "artist": "ГАЙТАНА"
   },
   {
     "title": "ШАЛЕНІЙ",
-    "artist": "1083.\tГАЙТАНА"
+    "artist": "ГАЙТАНА"
   },
   {
     "title": "НЕ ЙДИ (КЛІП).kfn",
-    "artist": "1084.\tГАЙТАНА, СКАЙ"
+    "artist": "ГАЙТАНА, СКАЙ"
   },
   {
     "title": "НЕ ЙДИ (КЛІП)·.kfn",
-    "artist": "1085.\tГАЙТАНА, СКАЙ"
+    "artist": "ГАЙТАНА, СКАЙ"
   },
   {
     "title": "БЕЛЛА ЧАО.avi",
-    "artist": "1086.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "ЗА УКРАЇНУ ДО КІНЦЯ",
-    "artist": "1087.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "КОЗА МАР'ЯНА",
-    "artist": "1088.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "КОЗА МАР'ЯНА·.kfn",
-    "artist": "1089.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "КОЗАЦЬКА",
-    "artist": "1090.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "КОЗАЦЬКА·.kfn",
-    "artist": "1091.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "НАЛИВАЙ КУМА",
-    "artist": "1092.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "НЕ ПЛАЧ ТАТО",
-    "artist": "1093.\tГАНЗЕРА ІВАН"
-  },
-  {
-    "title": "НЕ ПЛАЧ ТАТО.kfn",
-    "artist": "1094.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "НЕ ТАК ЦВІТУТЬ САДИ",
-    "artist": "1095.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "НЕ ТАК ЦВІТУТЬ САДИ·.kfn",
-    "artist": "1096.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "ХТО МАЄ ДОЛАР САЛО ЇСТЬ·.kfn",
-    "artist": "1097.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "ХТО МАЄ ДОЛАР, САЛО ЇСТЬ (+,-,КЛІП).kfn",
-    "artist": "1098.\tГАНЗЕРА ІВАН"
+    "artist": "ГАНЗЕРА ІВАН"
   },
   {
     "title": "ПЕРЕЛАЗ.kfn",
-    "artist": "1099.\tГАНЗЕРА ІВАН, ДЕНИСЮК Т."
+    "artist": "ГАНЗЕРА ІВАН, ДЕНИСЮК Т."
   },
   {
     "title": "КОЗА МАР'ЯНА (+,-,КЛІП).kfn",
-    "artist": "1100.\tГАНЗЕРА ІВАН, ЯНЧЕНКО МИКОЛА"
+    "artist": "ГАНЗЕРА ІВАН, ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "КОЗА МАР'ЯНА (+,-,КЛІП)·.kfn",
-    "artist": "1101.\tГАНЗЕРА ІВАН, ЯНЧЕНКО МИКОЛА"
+    "artist": "ГАНЗЕРА ІВАН, ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "МІЙ BOY.avi",
-    "artist": "1102.\tГЕЛЯ"
+    "artist": "ГЕЛЯ"
   },
   {
     "title": "ДРУЗІ МОЇ",
-    "artist": "1103.\tГИГА СТЕПАН"
+    "artist": "ГИГА СТЕПАН"
   },
   {
     "title": "ТРЕТІЙ ТОСТ",
-    "artist": "1104.\tГИГА СТЕПАН"
+    "artist": "ГИГА СТЕПАН"
   },
   {
     "title": "У РАЙСЬКІМ САДУ",
-    "artist": "1105.\tГИГА СТЕПАН"
+    "artist": "ГИГА СТЕПАН"
   },
   {
     "title": "ЦЕЙ СОН",
-    "artist": "1106.\tГИГА СТЕПАН"
+    "artist": "ГИГА СТЕПАН"
   },
   {
     "title": "ЯВОРИНА (НА МОГИЛІ МОЇЙ)",
-    "artist": "1107.\tГИГА СТЕПАН"
+    "artist": "ГИГА СТЕПАН"
   },
   {
     "title": "СОН",
-    "artist": "1108.\tГІГА СТЕПАН"
+    "artist": "ГІГА СТЕПАН"
   },
   {
     "title": "ТИ НЕ МОЯ",
-    "artist": "1109.\tГІГА СТЕПАН"
+    "artist": "ГІГА СТЕПАН"
   },
   {
     "title": "ТРЕТІЙ ТОСТ",
-    "artist": "1110.\tГІГА СТЕПАН"
+    "artist": "ГІГА СТЕПАН"
   },
   {
     "title": "ТРОЯНДИ ДЛЯ ТЕБЕ",
-    "artist": "1111.\tГІГА СТЕПАН"
+    "artist": "ГІГА СТЕПАН"
   },
   {
     "title": "ЦЕЙ СОН·.kfn",
-    "artist": "1112.\tГІГА СТЕПАН"
+    "artist": "ГІГА СТЕПАН"
   },
   {
     "title": "МІЙ ОКЕАН",
-    "artist": "1114.\tГЛАМУР"
+    "artist": "ГЛАМУР"
   },
   {
     "title": "ЗАПАМ'ЯТАЙ ТОЙ ДЕНЬ",
-    "artist": "1115.\tГНАТИШЕН ВАНЯ"
+    "artist": "ГНАТИШЕН ВАНЯ"
   },
   {
     "title": "ХОЧЕТЬСЯ ЖИТИ",
-    "artist": "1116.\tГРИЦКАН & ШАК"
+    "artist": "ГРИЦКАН & ШАК"
   },
   {
     "title": "БАТЬКУ МІЙ (+,-)·.kfn",
-    "artist": "1117.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "БАТЬКУ МІЙ",
-    "artist": "1118.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "БЕЗ ТЕБЕ СЕРЦЕ НАЧЕ В КОМІ",
-    "artist": "1119.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "ВІЙСЬКОВИЙ МЕДИК",
-    "artist": "1120.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "ЛЮБЛЮ ТЕБЕ",
-    "artist": "1121.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "МАМИНА ПІСНЯ (-)·.kfn",
-    "artist": "1122.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "НЕ ВІДЛІТАЙ (-)·.kfn",
-    "artist": "1123.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "ОФІЦЕРСЬКИЙ МУНДИР",
-    "artist": "1124.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "ТИ (-)·.kfn",
-    "artist": "1125.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "ЧОМУ ТАК ДОВГО",
-    "artist": "1126.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "Я ДО ТЕБЕ ГОРНУСЬ УКРАЇНО (-)·.kfn",
-    "artist": "1127.\tГРИЦКАН МИХАЙЛО"
+    "artist": "ГРИЦКАН МИХАЙЛО"
   },
   {
     "title": "ГРОЗАМИ 1",
-    "artist": "1128.\tГРОСУ АЛІНА"
+    "artist": "ГРОСУ АЛІНА"
   },
   {
     "title": "ГРОЗАМИ 2",
-    "artist": "1129.\tГРОСУ АЛІНА"
+    "artist": "ГРОСУ АЛІНА"
   },
   {
     "title": "З НОВИМ РОКОМ",
-    "artist": "1130.\tГРОСУ АЛІНА"
+    "artist": "ГРОСУ АЛІНА"
   },
   {
     "title": "ЗВИЧКА",
-    "artist": "1131.\tГРОСУ АЛІНА"
+    "artist": "ГРОСУ АЛІНА"
   },
   {
     "title": "МІРІАДА",
-    "artist": "1132.\tГРОСУ АЛІНА"
+    "artist": "ГРОСУ АЛІНА"
   },
   {
     "title": "СУМУЮ",
-    "artist": "1133.\tГРОСУ АЛІНА"
+    "artist": "ГРОСУ АЛІНА"
   },
   {
     "title": "САМА П’Ю САМА НАЛИВАЮ",
-    "artist": "1134.\tГУРТ VIP"
+    "artist": "ГУРТ VIP"
   },
   {
     "title": "ДІВЧИНА ОЛЯ",
-    "artist": "1135.\tДАНТЕС"
+    "artist": "ДАНТЕС"
   },
   {
     "title": "КОЛИСКОВА.avi",
-    "artist": "1136.\tДАНТЕС"
+    "artist": "ДАНТЕС"
   },
   {
     "title": "СУМНІ ТАНЦІ.avi",
-    "artist": "1137.\tДАНТЕС"
+    "artist": "ДАНТЕС"
   },
   {
     "title": "ЧУЄШ",
-    "artist": "1138.\tДАНТЕС"
+    "artist": "ДАНТЕС"
   },
   {
     "title": "СТЕРЕОДЕНЬ (UA).kfn",
-    "artist": "1139.\tДАНТЕС & ОЛІЙНИК"
+    "artist": "ДАНТЕС & ОЛІЙНИК"
   },
   {
     "title": "ТИ НАЙКРАЩА З ЛЮДЕЙ",
-    "artist": "1140.\tДАРВІН ВЛАД, ALYOSHA"
+    "artist": "ДАРВІН ВЛАД, ALYOSHA"
   },
   {
     "title": "ДЖЕНЕЛЕЙ",
-    "artist": "1141.\tДАРВІН ВЛАД, ДАНТЕС & ОЛІЙНИК"
+    "artist": "ДАРВІН ВЛАД, ДАНТЕС & ОЛІЙНИК"
   },
   {
     "title": "СМЕРЕКОВА ХАТА (МАСТЕР,VID).kfn",
-    "artist": "1142.\tДВОРСЬКИЙ ПАВЛО"
+    "artist": "ДВОРСЬКИЙ ПАВЛО"
   },
   {
     "title": "ЗИМОВЕ КОХАННЯ (-)·.kfn",
-    "artist": "1143.\tДЕ ВИ Є"
+    "artist": "ДЕ ВИ Є"
   },
   {
     "title": "ГОРИТЬ МОСКВА",
-    "artist": "1144.\tДЕТИ ФРИСТАЙЛА"
+    "artist": "ДЕТИ ФРИСТАЙЛА"
   },
   {
     "title": "ТИ Ж МЕНЕ ПІДМАНУЛА (-)·.kfn",
-    "artist": "1145.\tДИЛИЖАНС"
+    "artist": "ДИЛИЖАНС"
   },
   {
     "title": "ЖОРСТОКА ЛЮБОВ",
-    "artist": "1146.\tДІТИ ФРИСТАЙЛА"
+    "artist": "ДІТИ ФРИСТАЙЛА"
   },
   {
     "title": "А Я ТЕБЕ КОХАЮ (-)·.kfn",
-    "artist": "1147.\tДІТИ ФРІСТАЙЛА"
+    "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
     "title": "А Я ТЕБЕ КОХАЮ",
-    "artist": "1148.\tДІТИ ФРІСТАЙЛА"
+    "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
     "title": "ВІЙСЬКОВО ПОЛЬОВИЙ РОМАН",
-    "artist": "1149.\tДІТИ ФРІСТАЙЛА"
+    "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
     "title": "ВІКНА МОЄЇ ХАТИ",
-    "artist": "1150.\tДІТИ ФРІСТАЙЛА"
-  },
-  {
-    "title": "ВІКНА МОЄЇ ХАТИ",
-    "artist": "1151.\tДІТИ ФРІСТАЙЛА"
-  },
-  {
-    "title": "ВІКНА МОЄЇ ХАТИ",
-    "artist": "1152.\tДІТИ ФРІСТАЙЛА"
+    "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
     "title": "ВСЕ ІДЕ ЗА ПЛАНОМ",
-    "artist": "1153.\tДІТИ ФРІСТАЙЛА"
+    "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
     "title": "ГОРИТЬ МОСКВА",
-    "artist": "1154.\tДІТИ ФРІСТАЙЛА"
+    "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
     "title": "ЧОРНОБАЇВКА",
-    "artist": "1155.\tДІТИ ФРІСТАЙЛА"
+    "artist": "ДІТИ ФРІСТАЙЛА"
   },
   {
     "title": "HAPPY END",
-    "artist": "1156.\tДОБРИДНЄВА АННА"
+    "artist": "ДОБРИДНЄВА АННА"
   },
   {
     "title": "ДЕ Я",
-    "artist": "1157.\tДОБРИДНЄВА АННА"
+    "artist": "ДОБРИДНЄВА АННА"
   },
   {
     "title": "ЧЕКАЛА Я НА ТЕБЕ ДО ВЕСНИ (+,-,КЛІП)·.kfn",
-    "artist": "1158.\tДОМІНО"
+    "artist": "ДОМІНО"
   },
   {
     "title": "НЕСКОРЕНА",
-    "artist": "1159.\tДОРН ІВАН"
+    "artist": "ДОРН ІВАН"
   },
   {
     "title": "ДНIСТРЯНКА",
-    "artist": "1160.\tДОСКОЧ ПАВЕЛ"
+    "artist": "ДОСКОЧ ПАВЕЛ"
   },
   {
     "title": "Я ПЬЮ З ТВОIХ ДОЛОНЬ",
-    "artist": "1161.\tДРУГА РIКА"
+    "artist": "ДРУГА РIКА"
   },
   {
     "title": "АНГЕЛ",
-    "artist": "1162.\tДРУГА РІКА"
+    "artist": "ДРУГА РІКА"
   },
   {
     "title": "ВІДЧИНЯЙ",
-    "artist": "1163.\tДРУГА РІКА"
-  },
-  {
-    "title": "ВІДЧИНЯЙ",
-    "artist": "1164.\tДРУГА РІКА"
+    "artist": "ДРУГА РІКА"
   },
   {
     "title": "СЕКРЕТ",
-    "artist": "1165.\tДРУГА РІКА"
+    "artist": "ДРУГА РІКА"
   },
   {
     "title": "ТАК МАЛО ТУТ ТЕБЕ",
-    "artist": "1166.\tДРУГА РІКА"
+    "artist": "ДРУГА РІКА"
   },
   {
     "title": "ТРИ ХВИЛИНИ",
-    "artist": "1167.\tДРУГА РІКА"
+    "artist": "ДРУГА РІКА"
   },
   {
     "title": "ХВИЛЮ ТРИМАЙ",
-    "artist": "1168.\tДРУГА РІКА"
+    "artist": "ДРУГА РІКА"
   },
   {
     "title": "КОЛИ ТИ БЕРЕГОМ ІДЕШ",
-    "artist": "1169.\tДУЛІБИ"
+    "artist": "ДУЛІБИ"
   },
   {
     "title": "ДВІЧІ В ОДНУ РІЧКУ",
-    "artist": "1170.\tДУМАНСКАЯ ЮЛИЯ"
+    "artist": "ДУМАНСКАЯ ЮЛИЯ"
   },
   {
     "title": "ВІДМІНИМО ПЛАНИ",
-    "artist": "1171.\tДЯДЯ ЖОРА"
+    "artist": "ДЯДЯ ЖОРА"
   },
   {
     "title": "ГОП-СТОП, ОРИСЯ (-)·.kfn",
-    "artist": "1172.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "НЕХАЙ БУДЕ УСЕ ЯК Є (-,+).kfn",
-    "artist": "1173.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ОЙ ХТО П'Є ТОМУ НАЛИВАЙТЕ",
-    "artist": "1174.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ОЙ ЧИЙ ТО КIНЬ СТОIТЬ (-,+,VID)·.kfn",
-    "artist": "1175.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ОЙ, ХТО П'Є, ТОМУ НАЛИВАЙТЕ (-,+)·.kfn",
-    "artist": "1176.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ПІСНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ) (ВАЛЬС).kfn",
-    "artist": "1177.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "СМЕРЕКА (СМЕРЕКО)",
-    "artist": "1178.\tЕКСПРЕС"
-  },
-  {
-    "title": "СМЕРЕКА (СМЕРЕКО)",
-    "artist": "1179.\tЕКСПРЕС"
-  },
-  {
-    "title": "СМЕРЕКА (СМЕРЕКО)",
-    "artist": "1180.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "СТАРА БАБА (-)·.kfn",
-    "artist": "1181.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ТИ Ж МЕНЕ ПІДМАНУЛА (-)·.kfn",
-    "artist": "1182.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ЧЕРВОНА РУТА",
-    "artist": "1183.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ЧЕРЕМШИНА (-)·.kfn",
-    "artist": "1184.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ЧИЧЕРІ (-).kfn",
-    "artist": "1185.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ЧИЧЕРІ (+,-)·.kfn",
-    "artist": "1186.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ЧОБОТИ З БУГАЯ",
-    "artist": "1187.\tЕКСПРЕС"
+    "artist": "ЕКСПРЕС"
   },
   {
     "title": "ВРАЖЕ",
-    "artist": "1188.\tЕНДЖI КРЕЙДА"
+    "artist": "ЕНДЖI КРЕЙДА"
   },
   {
     "title": "БРАТЕ",
-    "artist": "1189.\tЕНДЖІ КРЕЙДА"
+    "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
     "title": "ВІЧНА МОЛОДІСТЬ",
-    "artist": "1190.\tЕНДЖІ КРЕЙДА"
+    "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
     "title": "ПРОЙДЕ ЗИМА",
-    "artist": "1191.\tЕНДЖІ КРЕЙДА"
+    "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
     "title": "ХОЛОДНО",
-    "artist": "1192.\tЕНДЖІ КРЕЙДА"
+    "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
     "title": "ХТО ТИ",
-    "artist": "1193.\tЕНДЖІ КРЕЙДА"
+    "artist": "ЕНДЖІ КРЕЙДА"
   },
   {
     "title": "БІЛЯ ТОПОЛІ.kfn",
-    "artist": "1194.\tЕНЕЙ"
+    "artist": "ЕНЕЙ"
   },
   {
     "title": "ЗЕЛЕНЕЄ ЖИТО, ЗЕЛЕНЕ",
-    "artist": "1195.\tЕРІКА"
+    "artist": "ЕРІКА"
   },
   {
     "title": "КРИШТАЛЬ ГОРИТЬ (ТРОЯНДА РУЖА)",
-    "artist": "1196.\tЕРІКА"
+    "artist": "ЕРІКА"
   },
   {
     "title": "ТРИ ЗОРI",
-    "artist": "1197.\tЕРІКА"
+    "artist": "ЕРІКА"
   },
   {
     "title": "ЧЕКАЙ",
-    "artist": "1198.\tЕРІКА"
+    "artist": "ЕРІКА"
   },
   {
     "title": "МАЛЬВИ",
-    "artist": "1199.\tЖАДАН І СОБАКИ"
-  },
-  {
-    "title": "МАЛЬВИ",
-    "artist": "1200.\tЖАДАН І СОБАКИ"
+    "artist": "ЖАДАН І СОБАКИ"
   },
   {
     "title": "РІКА",
-    "artist": "1201.\tЖАДАН І СОБАКИ"
+    "artist": "ЖАДАН І СОБАКИ"
   },
   {
     "title": "ПІСНЯ ПРО МАМАЯ (-).kfn",
-    "artist": "1202.\tЗАБАВА"
+    "artist": "ЗАБАВА"
   },
   {
     "title": "ЛЮБЛЮ ТЕБЕ",
-    "artist": "1203.\tЗАБОЛОТНИЙ СЕРГIЙ"
+    "artist": "ЗАБОЛОТНИЙ СЕРГIЙ"
   },
   {
     "title": "ВИТРИ СЛЬОЗИ",
-    "artist": "1204.\tЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
+    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
     "title": "ЛЕЛЕКИ",
-    "artist": "1205.\tЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
+    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
     "title": "МОЯ",
-    "artist": "1206.\tЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
+    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
     "title": "НАЗАВЖДИ",
-    "artist": "1207.\tЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
+    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
     "title": "НЕ ЗАБУВАЙ МЕНЕ",
-    "artist": "1208.\tЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
+    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
     "title": "НЕ ТОРКАЙСЯ ЇЇ ВОЛОССЯ",
-    "artist": "1209.\tЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
+    "artist": "ЗАКШЕВСЬКИЙ ОЛЕКСАНДР"
   },
   {
     "title": "ВСЕ БУДЕ ТАК",
-    "artist": "1210.\tЗАЛIСКО АНДРІЙ"
+    "artist": "ЗАЛIСКО АНДРІЙ"
   },
   {
     "title": "ЗА ТОБОЮ",
-    "artist": "1211.\tЗАЛIСКО АНДРІЙ"
+    "artist": "ЗАЛIСКО АНДРІЙ"
   },
   {
     "title": "ПО ДОЛИНІ РІЧКА.avi",
-    "artist": "1212.\tЗАЛIСКО АНДРІЙ"
+    "artist": "ЗАЛIСКО АНДРІЙ"
   },
   {
     "title": "ХЛОПЦІ БУДЕМ ЖИТИ",
-    "artist": "1213.\tЗАЛIСКО АНДРІЙ"
+    "artist": "ЗАЛIСКО АНДРІЙ"
   },
   {
     "title": "ВАХТЕРАМ (БУМБОКС UA COVER).kfn",
-    "artist": "1214.\tЗАХАР"
+    "artist": "ЗАХАР"
   },
   {
     "title": "ДО РАНА",
-    "artist": "1215.\tЗАХАР & АНДРIАНА"
+    "artist": "ЗАХАР & АНДРIАНА"
   },
   {
     "title": "НIЧЕНЬКА",
-    "artist": "1216.\tЗАХАРКО НАЗАР"
+    "artist": "ЗАХАРКО НАЗАР"
   },
   {
     "title": "ВИКРАДУ",
-    "artist": "1217.\tЗІБРОВ ПАВЛО"
-  },
-  {
-    "title": "ВИКРАДУ",
-    "artist": "1218.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ВЧОРА (-)·.kfn",
-    "artist": "1219.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ГЕНЕРАЛИ",
-    "artist": "1220.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ДЕВ'ЯТЕ ТРАВНЯ",
-    "artist": "1221.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ДЕНЬ НАРОДЖЕННЯ",
-    "artist": "1222.\tЗІБРОВ ПАВЛО"
-  },
-  {
-    "title": "ДЕНЬ НАРОДЖЕННЯ",
-    "artist": "1223.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ДОРОГИ",
-    "artist": "1224.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "КОХАНА",
-    "artist": "1225.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "КРІЗЬ КОРДОНИ",
-    "artist": "1226.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "КУПАЙТЕСЬ В ЩАСТІ",
-    "artist": "1227.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "МАМИНЕ БЕЗСОННЯ (+,-).kfn",
-    "artist": "1228.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "НАЙКРАЩІЙ ДРУЖИНІ",
-    "artist": "1229.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "НЕ СМIЙ",
-    "artist": "1230.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ОСТАННЯ НІЧ КОХАННЯ (-)·.kfn",
-    "artist": "1231.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ОСТАННЯ НІЧ КОХАННЯ",
-    "artist": "1232.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ТАКА ДУХМ'ЯНА СВІТЛА НІЧ",
-    "artist": "1233.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "УКРАЇНСЬКЄ ВЕСІЛЛЯ",
-    "artist": "1234.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ХРЕЩАТИК (-)·.kfn",
-    "artist": "1235.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ШКІЛЬНИЙ ВАЛЬС",
-    "artist": "1236.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "Я БЕЗ ПІСНІ НЕ Я",
-    "artist": "1237.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "Я ПОВЕРТАЮСЬ ДО ДОМУ",
-    "artist": "1238.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "ЯСНООКА НАРЕЧЕНА",
-    "artist": "1239.\tЗІБРОВ ПАВЛО"
+    "artist": "ЗІБРОВ ПАВЛО"
   },
   {
     "title": "А КОХАННЯ ТІЛЬКИ ПОЧИНАЄТЬСЯ (+,-).kfn",
-    "artist": "1240.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ВІД ТЮЛЬПАНІВ ДО ХРИЗАНТЕМ.avi",
-    "artist": "1241.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ДВА ОСТРОВИ (+,-).kfn",
-    "artist": "1242.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ДЕНЬ НАРОДЖЕННЯ",
-    "artist": "1243.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ДОЛИНОЮ ТУМАН (+,-).kfn",
-    "artist": "1244.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ДОПОКИ ВІРИМО (+,-).kfn",
-    "artist": "1245.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ДОЩ (+,-)·.kfn",
-    "artist": "1246.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ЛЮБОВ ВОГОНЬ.avi",
-    "artist": "1247.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "НЕПЕРЕМОЖНА УКРАЇНА",
-    "artist": "1248.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ПІСНЯ ОСЕНІ (+,-).kfn",
-    "artist": "1249.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ПОВЕРТАЙСЯ В УКРАЇНУ (+,-).kfn",
-    "artist": "1250.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ПОДАРУЙ МЕНІ СКРИПКУ (+,-).kfn",
-    "artist": "1251.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "РІДНА УКРАЇНА (+,-).kfn",
-    "artist": "1252.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ТАТУ НА СЕРЦІ",
-    "artist": "1253.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "УКРАЇНЦІ (+,-).kfn",
-    "artist": "1254.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "Я ЗАПРОШУЮ ВАС ДРУЗІ",
-    "artist": "1255.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "Я ТЕБЕ ПОКЛИЧУ (+,-).kfn",
-    "artist": "1256.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "Я ТЕБЕ ШУКАЮ (+,-).kfn",
-    "artist": "1257.\tЗІНКОВСЬКА ІРИНА"
+    "artist": "ЗІНКОВСЬКА ІРИНА"
   },
   {
     "title": "ЧОРНЕ І БІЛЕ",
-    "artist": "1258.\tЗОЗУЛЯ ВАСИЛИНА (ZOZULYA)"
+    "artist": "ЗОЗУЛЯ ВАСИЛИНА (ZOZULYA)"
   },
   {
     "title": "ЗОЛОТІ КРИЛЕЧКА",
-    "artist": "1259.\tІЖИЦЬКИЙ ВОЛОДИМИР"
+    "artist": "ІЖИЦЬКИЙ ВОЛОДИМИР"
   },
   {
     "title": "ЛІТНЯ НІЧ·.kfn",
-    "artist": "1260.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "МОЯ ОСТАННЯ ЛЮБОВ (-)·.kfn",
-    "artist": "1261.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "НЕ МОВЧИ·.kfn",
-    "artist": "1262.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "НІЖНОМУ МИЛОМУ·.kfn",
-    "artist": "1263.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "ПЕРЕДУМАЛА·.kfn",
-    "artist": "1264.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "СВІЧЕЧКА·.kfn",
-    "artist": "1265.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "ТИ БУВ НАЙКРАЩИМ·.kfn",
-    "artist": "1266.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "ТРЕТЄ ЛІТО·.kfn",
-    "artist": "1267.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "Я ВТОМИЛАСЬ.kfn",
-    "artist": "1268.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "Я НЕ ЗРАДЖУ·.kfn",
-    "artist": "1269.\tІРЕНА"
+    "artist": "ІРЕНА"
   },
   {
     "title": "ДИВА",
-    "artist": "1270.\tКАZКА"
+    "artist": "КАZКА"
   },
   {
     "title": "КОХАНИЙ.avi",
-    "artist": "1271.\tКАВА ЛЮСЯ"
+    "artist": "КАВА ЛЮСЯ"
   },
   {
     "title": "НЕЗЛАМНА",
-    "artist": "1272.\tКАВА ЛЮСЯ"
+    "artist": "КАВА ЛЮСЯ"
   },
   {
     "title": "ЛОМАЛА",
-    "artist": "1273.\tКАМЕНСКИХ НАСТЯ"
+    "artist": "КАМЕНСКИХ НАСТЯ"
   },
   {
     "title": "ELEFANTE",
-    "artist": "1274.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ELEFANTE",
-    "artist": "1275.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "PELICULA",
-    "artist": "1276.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "БАЖАЙ",
-    "artist": "1277.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ДІВЧАТА РУЛЯТЬ",
-    "artist": "1278.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ДІВЧАТА РУЛЯТЬ",
-    "artist": "1279.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ДОДОМУ",
-    "artist": "1280.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ЗІРКА В НЕБІ",
-    "artist": "1281.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "КОХАЮ",
-    "artist": "1282.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "КРИШТАЛЬ",
-    "artist": "1283.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ОБІЦЯЮ",
-    "artist": "1284.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ОБІЦЯЮ",
-    "artist": "1285.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ПОПА ЯК У КІМ",
-    "artist": "1286.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ПОЧУТТЯ",
-    "artist": "1287.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ПОЧУТТЯ",
-    "artist": "1288.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "СЯЙВО",
-    "artist": "1289.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ТРИМАЙ",
-    "artist": "1290.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ТРИМАЙ",
-    "artist": "1291.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ТРИМАЙ",
-    "artist": "1292.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ЦЕ Є МОЯ НІЧ",
-    "artist": "1293.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ЦЕ Є МОЯ НІЧ",
-    "artist": "1294.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ЦЕ Є МОЯ НІЧ",
-    "artist": "1295.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ЧЕРВОНЕ ВИНО",
-    "artist": "1296.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "ЧЕРВОНЕ ВИНО",
-    "artist": "1297.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "Я УКРАЇНА",
-    "artist": "1298.\tКАМЕНСЬКИХ НАСТЯ"
-  },
-  {
-    "title": "Я УКРАЇНА",
-    "artist": "1299.\tКАМЕНСЬКИХ НАСТЯ"
+    "artist": "КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "СЯЙВО",
-    "artist": "1300.\tКАМЕНСЬКИХ НАСТЯ & SWOIIA"
+    "artist": "КАМЕНСЬКИХ НАСТЯ & SWOIIA"
   },
   {
     "title": "SHOW ME YOUR LOVE (VID).kfn",
-    "artist": "1301.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "ВАБИТИ",
-    "artist": "1302.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "ВІЛЬНІ, НЕСКОРЕНІ",
-    "artist": "1303.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "ЗАКРИЛИ ТВОЇ ОЧІ (+,-,VID).kfn",
-    "artist": "1304.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "КОСМIЧНI ПОЧУТТЯ (-,+,МАСТЕР,VID).kfn",
-    "artist": "1305.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "НАМАЛЮЮ ТОБI (+,-,КЛІП).kfn",
-    "artist": "1306.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "НЕ ДОЩ (+,-,КЛІП).kfn",
-    "artist": "1307.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "НЕ СВЯТІ (BOOSIN & BLOODLESS DISCO REMIX)",
-    "artist": "1308.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "НЕ СВЯТІ",
-    "artist": "1309.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "НІЖНО",
-    "artist": "1310.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "НІЖНО 2",
-    "artist": "1311.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "ТВОЇ ГРІХИ",
-    "artist": "1312.\tКАРОЛЬ ТІНА"
-  },
-  {
-    "title": "ТВОЇ ГРІХИ",
-    "artist": "1313.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "ТОБІ ЗДАЄТЬСЯ",
-    "artist": "1314.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "ТРОЯНДИ",
-    "artist": "1315.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "УКРАЇНА ЦЕ ТИ",
-    "artist": "1316.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "УКРАЇНА ЦЕ Я",
-    "artist": "1317.\tКАРОЛЬ ТІНА"
+    "artist": "КАРОЛЬ ТІНА"
   },
   {
     "title": "ЗІРОЧКА",
-    "artist": "1318.\tКАРОЛЬ ТІНА & KAZKA"
+    "artist": "КАРОЛЬ ТІНА & KAZKA"
   },
   {
     "title": "ДЗВОНИ",
-    "artist": "1319.\tКАРОЛЬ ТІНА & SHUMEI"
+    "artist": "КАРОЛЬ ТІНА & SHUMEI"
   },
   {
     "title": "СТЕРВА",
-    "artist": "1320.\tКАРОЛЬ ТІНА & SHUMEI"
-  },
-  {
-    "title": "СТЕРВА",
-    "artist": "1321.\tКАРОЛЬ ТІНА & SHUMEI"
+    "artist": "КАРОЛЬ ТІНА & SHUMEI"
   },
   {
     "title": "ВІЛЬНА",
-    "artist": "1322.\tКАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
-  },
-  {
-    "title": "ВІЛЬНА",
-    "artist": "1323.\tКАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
+    "artist": "КАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
   },
   {
     "title": "ВІЛЬНА 2",
-    "artist": "1324.\tКАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
+    "artist": "КАРОЛЬ ТІНА, САНІНА ЮЛІЯ"
   },
   {
     "title": "ВІД МЕНЕ ДО ТЕБЕ",
-    "artist": "1325.\tКАРПА НАТАЛКА"
+    "artist": "КАРПА НАТАЛКА"
   },
   {
     "title": "ВПЕРШЕ",
-    "artist": "1326.\tКАРПА НАТАЛКА"
+    "artist": "КАРПА НАТАЛКА"
   },
   {
     "title": "ГОЙДАЙ",
-    "artist": "1327.\tКАРПА НАТАЛКА"
+    "artist": "КАРПА НАТАЛКА"
   },
   {
     "title": "ДОБРИЙ ВЕЧІР ТОБІ ПАНЕ ГОСПОДАРЮ",
-    "artist": "1328.\tКАРПА НАТАЛКА"
+    "artist": "КАРПА НАТАЛКА"
   },
   {
     "title": "ДОЛЕЮ ПОЦІЛОВАНА",
-    "artist": "1329.\tКАРПА НАТАЛКА"
+    "artist": "КАРПА НАТАЛКА"
   },
   {
     "title": "ДУБАЇ",
-    "artist": "1330.\tКАРПА НАТАЛКА"
+    "artist": "КАРПА НАТАЛКА"
   },
   {
     "title": "ПІВНІ",
-    "artist": "1331.\tКАТЯ CHILLY"
+    "artist": "КАТЯ CHILLY"
   },
   {
     "title": "КОХАНИЙ (-).kfn",
-    "artist": "1332.\tКВІТКА ЦІСИК"
+    "artist": "КВІТКА ЦІСИК"
   },
   {
     "title": "МІСТО СПИТЬ (-)·.kfn",
-    "artist": "1333.\tКВІТКА ЦІСИК"
+    "artist": "КВІТКА ЦІСИК"
   },
   {
     "title": "НУ ЯКА ГАРНА ЖІНОЧКА",
-    "artist": "1334.\tКЕНЗОВ ОЛЕГ"
+    "artist": "КЕНЗОВ ОЛЕГ"
   },
   {
     "title": "ПІДПАЛ ПОЖЕЖА.avi",
-    "artist": "1335.\tКЕНЗОВ ОЛЕГ & ПРИНЦИПОВА ЗМІНА"
+    "artist": "КЕНЗОВ ОЛЕГ & ПРИНЦИПОВА ЗМІНА"
   },
   {
     "title": "ВЕСНЯНЕ ВЕСІЛЛЯ",
-    "artist": "1336.\tКИЇВЄЛЕКТРО"
+    "artist": "КИЇВЄЛЕКТРО"
   },
   {
     "title": "ЧЕРНІВЦІ",
-    "artist": "1337.\tКИЇВЄЛЕКТРО"
+    "artist": "КИЇВЄЛЕКТРО"
   },
   {
     "title": "В ПОЛОНІ",
-    "artist": "1338.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "ВІЛЬНИЙ ПТАХ .avi",
-    "artist": "1339.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "ДЖУЛЬЄТТА",
-    "artist": "1340.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "КВАРТИРА 156.avi",
-    "artist": "1341.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "ПОЛЮСИ",
-    "artist": "1342.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "РОМАНТИЧНО",
-    "artist": "1343.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "СТАНЦІЯ ЛЮБОВ",
-    "artist": "1344.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "ЧОРНІ БРОВИ",
-    "artist": "1345.\tКІСЕЛЬОВ НІКІТА"
+    "artist": "КІСЕЛЬОВ НІКІТА"
   },
   {
     "title": "ДВА ЛІХТАРІ",
-    "artist": "1346.\tКІСЕЛЬОВ НІКІТА & TAYANNA"
+    "artist": "КІСЕЛЬОВ НІКІТА & TAYANNA"
   },
   {
     "title": "А МЛИН КРУТИТЬСЯ",
-    "artist": "1347.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "А Я ЗНАЮ, ЩО ГРІХ МАЮ",
-    "artist": "1348.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "А Я ШИНКАРОЧКА",
-    "artist": "1349.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "ВЕРБА",
-    "artist": "1350.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "ВИШЕНЬКИ ЧЕРЕШЕНЬКИ",
-    "artist": "1351.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "ДЯДЬКУ ЯША, Я НЕ ВАША",
-    "artist": "1352.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "КРАЩЕ Б ВИ ХЛОПЦІ НЕ ХОДИЛИ",
-    "artist": "1353.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "НА ВЕСІЛЛІ",
-    "artist": "1354.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "ОЙ ЗРАДИВ МЕНЕ МИЛИЙ",
-    "artist": "1355.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "ПИЙТЕ, ЛЮДИ, ГОРІЛОЧКУ",
-    "artist": "1356.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "Я НЕ БУДУ ЖУРИТИСЯ",
-    "artist": "1357.\tКНИЖНИК ІРИНА"
+    "artist": "КНИЖНИК ІРИНА"
   },
   {
     "title": "ГУЦУЛКА КСЕНЯ",
-    "artist": "1358.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "ДЯКУЮ ТОБІ МАМО",
-    "artist": "1359.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "МАРІЧКА",
-    "artist": "1360.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "МОЯ КРАЇНА",
-    "artist": "1361.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "НI ТО НЕ Я",
-    "artist": "1362.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "НЕ ЙДИ",
-    "artist": "1363.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "СИНЄ НЕБО ЖОВТЕ ПОЛЕ",
-    "artist": "1364.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "ТИ ХТО ТАКА",
-    "artist": "1365.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "ЧУЖА НАРЕЧЕНА",
-    "artist": "1366.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "ЮЛЯ",
-    "artist": "1367.\tКНЯЗЬ АНДРІЙ"
+    "artist": "КНЯЗЬ АНДРІЙ"
   },
   {
     "title": "COMME TOI (UA,+,-,REMIX)·.kfn",
-    "artist": "1368.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "ЖОВТИЙ ЛИСТ.kfn",
-    "artist": "1369.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "ЗАГАДАЙ",
-    "artist": "1370.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "ЗАЛИШИ МЕНІ.kfn",
-    "artist": "1371.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "ЗНАЄШ",
-    "artist": "1372.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "МАЛА",
-    "artist": "1373.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "МАЛА ТАНЦЮЙ",
-    "artist": "1374.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "МАЛА, ТАНЦЮЙ",
-    "artist": "1375.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "МАЛА, ТАНЦЮЙ 2",
-    "artist": "1376.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "ПРО НАС",
-    "artist": "1377.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "СКАЖИ МЕНІ",
-    "artist": "1378.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "ЧОРНОБРИВЦІ",
-    "artist": "1379.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
-  },
-  {
-    "title": "ЧОРНОБРИВЦІ",
-    "artist": "1380.\tКОЗЛОВСЬКИЙ ВІТАЛІЙ"
+    "artist": "КОЗЛОВСЬКИЙ ВІТАЛІЙ"
   },
   {
     "title": "ДУМАВ ВОНА ЯНГОЛ.avi",
-    "artist": "1381.\tКОЛІН"
+    "artist": "КОЛІН"
   },
   {
     "title": "ВАНЬКА-ВСТАНЬКА",
-    "artist": "1382.\tКОНДРАТЕНКО МАША"
+    "artist": "КОНДРАТЕНКО МАША"
   },
   {
     "title": "ЧЕКАЮ НА ТЕБЕ",
-    "artist": "1383.\tКОНДРАТЕНКО МАША"
+    "artist": "КОНДРАТЕНКО МАША"
   },
   {
     "title": "БЕЗ ПРАВИЛ",
-    "artist": "1384.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "ВСЕ БУДЕ ГАРАЗД",
-    "artist": "1385.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "ЛИШ ТЕБЕ ОДНУ ЛЮБЛЮ (КЛИП)·.kfn",
-    "artist": "1386.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "НЕ ВІДЛІТАЙ",
-    "artist": "1387.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "НЕ РЯТУЙ МЕНЕ (-,+)·.kfn",
-    "artist": "1388.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "ПРИГАДАЙ СВОЮ ЛЮБОВ",
-    "artist": "1389.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "ПРОБАЧ МЕНІ (-,+)·.kfn",
-    "artist": "1390.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "ТИ ОПОВІДАННЯ (-,+,КЛІП).kfn",
-    "artist": "1391.\tКОНДРАТЮК АРТЕМ"
+    "artist": "КОНДРАТЮК АРТЕМ"
   },
   {
     "title": "ЧЕКАТИМУ",
-    "artist": "1392.\tКОРС ДІМА"
+    "artist": "КОРС ДІМА"
   },
   {
     "title": "ВІН НЕ КОХАЄ",
-    "artist": "1393.\tКОРСО ДІМА"
+    "artist": "КОРСО ДІМА"
   },
   {
     "title": "ДО КРАЮ СВІТУ",
-    "artist": "1394.\tКОРУПЦІЯ"
+    "artist": "КОРУПЦІЯ"
   },
   {
     "title": "ЗАВІРЮХА",
-    "artist": "1395.\tКОРУПЦІЯ"
-  },
-  {
-    "title": "ЗАВІРЮХА",
-    "artist": "1396.\tКОРУПЦІЯ"
+    "artist": "КОРУПЦІЯ"
   },
   {
     "title": "МАРIЯ IВАНIВНА",
-    "artist": "1397.\tКОРУПЦІЯ"
-  },
-  {
-    "title": "МАРIЯ IВАНIВНА",
-    "artist": "1398.\tКОРУПЦІЯ"
+    "artist": "КОРУПЦІЯ"
   },
   {
     "title": "ПЕРША ЛЕДІ",
-    "artist": "1399.\tКОРУПЦІЯ"
+    "artist": "КОРУПЦІЯ"
   },
   {
     "title": "СКРИПОЧКА",
-    "artist": "1400.\tКОРУПЦІЯ"
-  },
-  {
-    "title": "СКРИПОЧКА",
-    "artist": "1401.\tКОРУПЦІЯ"
-  },
-  {
-    "title": "СКРИПОЧКА",
-    "artist": "1402.\tКОРУПЦІЯ"
+    "artist": "КОРУПЦІЯ"
   },
   {
     "title": "ФАМ ФАТАЛЬ",
-    "artist": "1403.\tКОРУПЦІЯ"
-  },
-  {
-    "title": "ФАМ ФАТАЛЬ",
-    "artist": "1404.\tКОРУПЦІЯ"
+    "artist": "КОРУПЦІЯ"
   },
   {
     "title": "Я ЗНОВ У ХАРКОВІ",
-    "artist": "1405.\tКОРУПЦІЯ"
-  },
-  {
-    "title": "Я ЗНОВ У ХАРКОВІ",
-    "artist": "1406.\tКОРУПЦІЯ"
-  },
-  {
-    "title": "Я ЗНОВ У ХАРКОВІ",
-    "artist": "1407.\tКОРУПЦІЯ"
+    "artist": "КОРУПЦІЯ"
   },
   {
     "title": "ДОЛЕ МОЯ.avi",
-    "artist": "1408.\tКРАВЧЕНКО АНДРІЙ"
+    "artist": "КРАВЧЕНКО АНДРІЙ"
   },
   {
     "title": "МОЯ ЄДИНА.avi",
-    "artist": "1409.\tКРАВЧЕНКО АНДРІЙ"
+    "artist": "КРАВЧЕНКО АНДРІЙ"
   },
   {
     "title": "КИЯНОЧКА",
-    "artist": "1410.\tКРИЧЕВСЬКИЙ ГАРІК"
-  },
-  {
-    "title": "КИЯНОЧКА",
-    "artist": "1411.\tКРИЧЕВСЬКИЙ ГАРІК"
+    "artist": "КРИЧЕВСЬКИЙ ГАРІК"
   },
   {
     "title": "Я СУМУЮ ЗА ТОБОЮ",
-    "artist": "1412.\tКРИЧЕВСЬКИЙ ГАРІК"
+    "artist": "КРИЧЕВСЬКИЙ ГАРІК"
   },
   {
     "title": "ПІСЯНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ)",
-    "artist": "1413.\tКРУТОЙ ИГОРЬ"
+    "artist": "КРУТОЙ ИГОРЬ"
   },
   {
     "title": "РІДНА МАТИ МОЯ.kfn",
-    "artist": "1414.\tКРУТОЙ ИГОРЬ"
+    "artist": "КРУТОЙ ИГОРЬ"
   },
   {
     "title": "АКТРИСА",
-    "artist": "1415.\tКУДЛАЙ АЛЛА"
+    "artist": "КУДЛАЙ АЛЛА"
   },
   {
     "title": "БІЛИЙ ЦВІТ НА КАЛИНІ",
-    "artist": "1416.\tКУДЛАЙ АЛЛА"
+    "artist": "КУДЛАЙ АЛЛА"
   },
   {
     "title": "БУЗИНА (-).kfn",
-    "artist": "1417.\tКУДЛАЙ АЛЛА"
+    "artist": "КУДЛАЙ АЛЛА"
   },
   {
     "title": "ДЕ Ж ТИ БУВ",
-    "artist": "1418.\tКУДЛАЙ АЛЛА"
+    "artist": "КУДЛАЙ АЛЛА"
   },
   {
     "title": "ДОДОМУ",
-    "artist": "1419.\tКУДЛАЙ АЛЛА"
+    "artist": "КУДЛАЙ АЛЛА"
   },
   {
     "title": "ПІСНЯ НА ДОБРО (-).kfn",
-    "artist": "1420.\tКУДЛАЙ АЛЛА"
+    "artist": "КУДЛАЙ АЛЛА"
   },
   {
     "title": "ПІСНЯ НА ДОБРО",
-    "artist": "1421.\tКУДЛАЙ АЛЛА"
+    "artist": "КУДЛАЙ АЛЛА"
   },
   {
     "title": "КУЧЕРІ",
-    "artist": "1422.\tКУКОБА ВЯЧЕСЛАВ"
+    "artist": "КУКОБА ВЯЧЕСЛАВ"
   },
   {
     "title": "ЩО ТО ЗА ВЕСІЛЛЯ (-).kfn",
-    "artist": "1423.\tКУКОБА ВЯЧЕСЛАВ"
+    "artist": "КУКОБА ВЯЧЕСЛАВ"
   },
   {
     "title": "ЖАСМIНОВИЙ РАЙ",
-    "artist": "1424.\tЛIСАПЕТНИЙ БАТАЛЬЙОН (ФАЛIОН НАТАЛЯ)"
+    "artist": "ЛIСАПЕТНИЙ БАТАЛЬЙОН (ФАЛIОН НАТАЛЯ)"
   },
   {
     "title": "Я ПРОСТО КОРОЛЕВА",
-    "artist": "1425.\tЛIСАПЕТНИЙ БАТАЛЬЙОН (ФАЛIОН НАТАЛЯ)"
+    "artist": "ЛIСАПЕТНИЙ БАТАЛЬЙОН (ФАЛIОН НАТАЛЯ)"
   },
   {
     "title": "КОХАНА (-).kfn",
-    "artist": "1426.\tЛАЗАРОВИЧ ВАСИЛЬ"
+    "artist": "ЛАЗАРОВИЧ ВАСИЛЬ"
   },
   {
     "title": "РОСА (-).kfn",
-    "artist": "1427.\tЛАЗАРОВИЧ ВАСИЛЬ"
+    "artist": "ЛАЗАРОВИЧ ВАСИЛЬ"
   },
   {
     "title": "ТІЛЬКИ РАЗ ЦВІТЕ ЛЮБОВ (МАСТЕР)·.kfn",
-    "artist": "1428.\tЛАЗАРОВИЧ ВАСИЛЬ"
+    "artist": "ЛАЗАРОВИЧ ВАСИЛЬ"
   },
   {
     "title": "МОСКВА ГОРИТЬ",
-    "artist": "1429.\tЛЕНИНГРАД"
+    "artist": "ЛЕНИНГРАД"
   },
   {
     "title": "А Я ЧЕКАТИМУ",
-    "artist": "1430.\tЛІСАПЕТНИЙ БАТАЛЬЙОН"
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
     "title": "ДАВАЙ БАБИ ДАВАЙ",
-    "artist": "1431.\tЛІСАПЕТНИЙ БАТАЛЬЙОН"
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
     "title": "ЗІБРАЛИСЬ БАБОНЬКИ",
-    "artist": "1432.\tЛІСАПЕТНИЙ БАТАЛЬЙОН"
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
     "title": "ЛІСАПЕТ (ОРИГ,VID)·.kfn",
-    "artist": "1433.\tЛІСАПЕТНИЙ БАТАЛЬЙОН"
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
     "title": "СЕКС БОМБИ",
-    "artist": "1434.\tЛІСАПЕТНИЙ БАТАЛЬЙОН"
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
     "title": "СПІЛА ВИШЕНЬКА",
-    "artist": "1435.\tЛІСАПЕТНИЙ БАТАЛЬЙОН"
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
     "title": "ЧАСНИЧОК",
-    "artist": "1436.\tЛІСАПЕТНИЙ БАТАЛЬЙОН"
+    "artist": "ЛІСАПЕТНИЙ БАТАЛЬЙОН"
   },
   {
     "title": "СОПІЛКА",
-    "artist": "1437.\tЛІСОВА ПІСНЯ"
+    "artist": "ЛІСОВА ПІСНЯ"
   },
   {
     "title": "КИЄВЕ МІЙ",
-    "artist": "1438.\tЛОБАЧ & МАРИНА І КОМПАНІЯ"
+    "artist": "ЛОБАЧ & МАРИНА І КОМПАНІЯ"
   },
   {
     "title": "ТИ МОЄ ДИВО",
-    "artist": "1439.\tЛОБАЧ & МАРИНА І КОМПАНІЯ"
-  },
-  {
-    "title": "ТИ МОЄ ДИВО",
-    "artist": "1440.\tЛОБАЧ & МАРИНА І КОМПАНІЯ"
+    "artist": "ЛОБАЧ & МАРИНА І КОМПАНІЯ"
   },
   {
     "title": "А ТИ ЧЕКАЙ",
-    "artist": "1441.\tЛОБАЧ & СУПРУНЕНКО"
+    "artist": "ЛОБАЧ & СУПРУНЕНКО"
   },
   {
     "title": "ЗІРКА МОЯ",
-    "artist": "1442.\tЛОБАЧ & ШКУРАЦЬКИЙ"
+    "artist": "ЛОБАЧ & ШКУРАЦЬКИЙ"
   },
   {
     "title": "ВСЕ СКАЗАЛА",
-    "artist": "1443.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ДЕНЬ НАРОДЖЕННЯ",
-    "artist": "1444.\tЛОБАЧ ВІТАЛІЙ"
-  },
-  {
-    "title": "ДЕНЬ НАРОДЖЕННЯ",
-    "artist": "1445.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ДОНЕЧКА",
-    "artist": "1446.\tЛОБАЧ ВІТАЛІЙ"
-  },
-  {
-    "title": "ДОНЕЧКА",
-    "artist": "1447.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ЗОЛОТА",
-    "artist": "1448.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ЗОЛОТА·.avi",
-    "artist": "1449.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ЛЕГКОВАЖНА",
-    "artist": "1450.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ЛІТНІЙ ВЕЧЕР",
-    "artist": "1451.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ЛЮБИШ НЕ ЛЮБИШ",
-    "artist": "1452.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ОДНА ЄДИНА",
-    "artist": "1453.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ОРИСЯ",
-    "artist": "1454.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ПОДАРУЮ",
-    "artist": "1455.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ПОЛТАВА",
-    "artist": "1456.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ПОЧУТТЯ",
-    "artist": "1457.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "СОКОЛИ",
-    "artist": "1458.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "СОЛДАТ",
-    "artist": "1459.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ТАКА ЩЕ МОЛОДА",
-    "artist": "1460.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ТВОЇ ОЧІ",
-    "artist": "1461.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ТВОЇ ОЧІ·.avi",
-    "artist": "1462.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ТИ ІДЕАЛЬНА",
-    "artist": "1463.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ФАНТАЗЕР",
-    "artist": "1464.\tЛОБАЧ ВІТАЛІЙ"
-  },
-  {
-    "title": "ФАНТАЗЕР.avi",
-    "artist": "1465.\tЛОБАЧ ВІТАЛІЙ"
-  },
-  {
-    "title": "ФАНТАЗЕР.kfn",
-    "artist": "1466.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ШКІЛЬНА ЛЮБОВ",
-    "artist": "1467.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "Я ТЕБЕ НАМАЛЮВАВ·.kfn",
-    "artist": "1468.\tЛОБАЧ ВІТАЛІЙ"
+    "artist": "ЛОБАЧ ВІТАЛІЙ"
   },
   {
     "title": "ЗОЛОТА",
-    "artist": "1469.\tЛОБАЧ ВЛАДИСЛАВ"
+    "artist": "ЛОБАЧ ВЛАДИСЛАВ"
   },
   {
     "title": "CAR SONG",
-    "artist": "1470.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "DON'T TALK ABOUT LOVE",
-    "artist": "1471.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "IT'S MY LIFE",
-    "artist": "1472.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "SHADY LADY",
-    "artist": "1473.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "БЕЗ ТЕБЕ",
-    "artist": "1474.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "ІСТОРІЯ КОХАННЯ (-).kfn",
-    "artist": "1475.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "ЛЮБИЙ КОХАЙ МЕНЕ-",
-    "artist": "1476.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "МАЛЬВИ",
-    "artist": "1477.\tЛОРАК АНІ"
-  },
-  {
-    "title": "МАЛЬВИ",
-    "artist": "1478.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "МИЛИЙ",
-    "artist": "1479.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "МОЇ БАЖАННЯ (КЛІП)·.kfn",
-    "artist": "1480.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "МРІЙ (КЛИП).kfn",
-    "artist": "1481.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "НАПИШУ ЛИСТА",
-    "artist": "1482.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "НЕСТРИМНА ТЕЧІЯ",
-    "artist": "1483.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "НОВОРІЧНА НІЧ",
-    "artist": "1484.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "ПОЦІЛУЙ (КЛІП)·.kfn",
-    "artist": "1485.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "ПРОБАЧ",
-    "artist": "1486.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "ЧЕКАЮ (-)·.kfn",
-    "artist": "1487.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "Я І ТИ",
-    "artist": "1488.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "Я КОХАЮ",
-    "artist": "1489.\tЛОРАК АНІ"
+    "artist": "ЛОРАК АНІ"
   },
   {
     "title": "НЕЗЛАМНА",
-    "artist": "1490.\tЛЮСЯ КАВА"
+    "artist": "ЛЮСЯ КАВА"
   },
   {
     "title": "ВОЇНИ СВІТЛА (МАСТЕР,КЛІП).kfn",
-    "artist": "1491.\tЛЯПИС ТРУБЕЦКОЙ"
+    "artist": "ЛЯПИС ТРУБЕЦКОЙ"
   },
   {
     "title": "ВОЇНИ СВІТЛА",
-    "artist": "1492.\tЛЯПИС ТРУБЕЦКОЙ"
-  },
-  {
-    "title": "ВОЇНИ СВІТЛА",
-    "artist": "1493.\tЛЯПИС ТРУБЕЦКОЙ"
+    "artist": "ЛЯПИС ТРУБЕЦКОЙ"
   },
   {
     "title": "БУДЬ ЗІ МНОЮ",
-    "artist": "1494.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "БУДЬ ЩАСЛИВИЙ",
-    "artist": "1495.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ВЕСНОЮ ЯБЛУНІ ЗАЦВІТУТЬ",
-    "artist": "1496.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ВИПУСКНИКИ",
-    "artist": "1497.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ВЧИТЕЛЮ",
-    "artist": "1498.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ЗОРЕПАД",
-    "artist": "1499.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ЛЮБИСТОК",
-    "artist": "1500.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "МОЯ ЛЮБОВ",
-    "artist": "1501.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "НАДІЯ В СЕРЦІ",
-    "artist": "1502.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ПІСНЯ ПРО БАБУСЮ",
-    "artist": "1503.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ПРОЩАВАЙ, РІДНА ШКОЛО",
-    "artist": "1504.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ТІЛЬКИ В НАС НА УКРАЇНІ",
-    "artist": "1505.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ТІЛЬКИ ЛЮБОВ",
-    "artist": "1506.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "ЧУЄШ ЧИ НЕ ЧУЄШ",
-    "artist": "1507.\tМАЙ НАТАЛІЯ"
+    "artist": "МАЙ НАТАЛІЯ"
   },
   {
     "title": "AMORE MIO (-).kfn",
-    "artist": "1508.\tМАНДРИ"
+    "artist": "МАНДРИ"
   },
   {
     "title": "КОЛО МЛИНУ, КОЛО БРОДУ (-,+).kfn",
-    "artist": "1509.\tМАНДРИ"
+    "artist": "МАНДРИ"
   },
   {
     "title": "ЛЮБОВ (КЛІП).kfn",
-    "artist": "1510.\tМАНДРИ"
+    "artist": "МАНДРИ"
   },
   {
     "title": "НЕ СПИ (КЛІП).kfn",
-    "artist": "1511.\tМАНДРИ"
+    "artist": "МАНДРИ"
   },
   {
     "title": "ЗАЦІЛУЮ",
-    "artist": "1512.\tМАНОНДІЗ ПОЛЬ"
+    "artist": "МАНОНДІЗ ПОЛЬ"
   },
   {
     "title": "ЛЕЛЕКИ",
-    "artist": "1513.\tМАНОНДІЗ ПОЛЬ"
+    "artist": "МАНОНДІЗ ПОЛЬ"
   },
   {
     "title": "САМА П’Ю САМА НАЛИВАЮ",
-    "artist": "1514.\tМАРИНА І КОМПАНІЯ"
+    "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
     "title": "ТИ МОЄ ДИВО",
-    "artist": "1515.\tМАРИНА І КОМПАНІЯ"
+    "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
     "title": "ТУМАНИ",
-    "artist": "1516.\tМАРИНА І КОМПАНІЯ"
+    "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
     "title": "УРВАЛАСЯ СТРУНА",
-    "artist": "1517.\tМАРИНА І КОМПАНІЯ"
+    "artist": "МАРИНА І КОМПАНІЯ"
   },
   {
     "title": "ДИВНА КВІТКА (+,-).kfn",
-    "artist": "1518.\tМАТВІЄНКО НІНА"
+    "artist": "МАТВІЄНКО НІНА"
   },
   {
     "title": "КВІТКА ДУША (СОРОЧИНСЬКИЙ ЯРМАРОК)",
-    "artist": "1519.\tМАТВІЄНКО НІНА"
+    "artist": "МАТВІЄНКО НІНА"
   },
   {
     "title": "КУЛЬБАБИ",
-    "artist": "1520.\tМАТВІЄНКО ТОНЯ"
-  },
-  {
-    "title": "КУЛЬБАБИ",
-    "artist": "1521.\tМАТВІЄНКО ТОНЯ"
+    "artist": "МАТВІЄНКО ТОНЯ"
   },
   {
     "title": "СІК ЗЕМЛІ.avi",
-    "artist": "1522.\tМАТВІЄНКО ТОНЯ"
+    "artist": "МАТВІЄНКО ТОНЯ"
   },
   {
     "title": "НЕ ПИЙ КОЗАЧЕ",
-    "artist": "1523.\tМАТВІЙЧУК АНАТОЛІЙ"
+    "artist": "МАТВІЙЧУК АНАТОЛІЙ"
   },
   {
     "title": "ПРИСВЯТА БАТЬКАМ",
-    "artist": "1524.\tМАТВІЙЧУК АНАТОЛІЙ"
+    "artist": "МАТВІЙЧУК АНАТОЛІЙ"
   },
   {
     "title": "У НАС СЬОГОДНІ СВЯТО",
-    "artist": "1525.\tМАТВІЙЧУК АНАТОЛІЙ"
+    "artist": "МАТВІЙЧУК АНАТОЛІЙ"
   },
   {
     "title": "ЧЕРЕМХА ЧЕРЕМШИНА",
-    "artist": "1526.\tМАТВІЙЧУК АНАТОЛІЙ"
+    "artist": "МАТВІЙЧУК АНАТОЛІЙ"
   },
   {
     "title": "КАЖУТЬ ВСЕ МИНЕ",
-    "artist": "1527.\tМЕЛАДЗЕ КОНСТАНТИН"
+    "artist": "МЕЛАДЗЕ КОНСТАНТИН"
   },
   {
     "title": "БРАТ",
-    "artist": "1528.\tМИРОНЕНКО СЕРГІЙ"
+    "artist": "МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "ГЕРОЇ",
-    "artist": "1529.\tМИРОНЕНКО СЕРГІЙ"
+    "artist": "МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "ДАВАЙ ДО ПОБАЧЕННЯ",
-    "artist": "1530.\tМИРОНЕНКО СЕРГІЙ"
+    "artist": "МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "НАБЕРИ",
-    "artist": "1531.\tМИРОНЕНКО СЕРГІЙ"
+    "artist": "МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "ПОДОЛАЮ",
-    "artist": "1532.\tМИРОНЕНКО СЕРГІЙ"
+    "artist": "МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "ТІЛЬКИ БИ ТИ ОДНА",
-    "artist": "1533.\tМИРОНЕНКО СЕРГІЙ"
+    "artist": "МИРОНЕНКО СЕРГІЙ"
   },
   {
     "title": "РОЗПАЧ",
-    "artist": "1534.\tМИЯ (МІЯ)"
+    "artist": "МИЯ (МІЯ)"
   },
   {
     "title": "ВІННІ-ПУХ",
-    "artist": "1535.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "ДЖЕРАЛЬДІНА",
-    "artist": "1536.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "ІДІОТИ",
-    "artist": "1537.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "КАПРОНОВІ БАНТИ",
-    "artist": "1538.\tМІРЗОЯН АРСЕН"
-  },
-  {
-    "title": "КАПРОНОВІ БАНТИ",
-    "artist": "1539.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "ЛИСТЯ ЖОВТНЯ",
-    "artist": "1540.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "МОЖЕШ ЯК (-)·.kfn",
-    "artist": "1541.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "НЕ МАГЕЛЛАН",
-    "artist": "1542.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "НЕВЧАСНА",
-    "artist": "1543.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "ПАПЕРОВИЙ СНІГ",
-    "artist": "1544.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "ПОДРУЖКА",
-    "artist": "1545.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "ПОЦІЛУЙ МЕНЕ",
-    "artist": "1546.\tМІРЗОЯН АРСЕН"
+    "artist": "МІРЗОЯН АРСЕН"
   },
   {
     "title": "НЕ ДИВИСЬ НА МЕНЕ.avi",
-    "artist": "1547.\tМІЯ РАМАРІ"
+    "artist": "МІЯ РАМАРІ"
   },
   {
     "title": "ВІДІРВАТИСЬ ВІД ЗЕМЛІ",
-    "artist": "1548.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ВІДПРАВИЛА MESSAGE",
-    "artist": "1549.\tМОГИЛЕВСЬКА НАТАЛІЯ"
-  },
-  {
-    "title": "ВІДПРАВИЛА MESSAGE",
-    "artist": "1550.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ВІЛЬНИЙ ПТАХ",
-    "artist": "1551.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ВІН НЕ СКАЗАВ НІ СЛОВА (VID)·.kfn",
-    "artist": "1552.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ЛЮБИЛА",
-    "artist": "1553.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "МИ БУДЕМ СТОЯТИ",
-    "artist": "1554.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "МІСЯЦЬ",
-    "artist": "1555.\tМОГИЛЕВСЬКА НАТАЛІЯ"
-  },
-  {
-    "title": "МІСЯЦЬ",
-    "artist": "1556.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ПІД КОВДРОЮ",
-    "artist": "1557.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ПОЗИВНИЙ",
-    "artist": "1558.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "ПОКОХАЛА",
-    "artist": "1559.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "Я ВДОМА",
-    "artist": "1560.\tМОГИЛЕВСЬКА НАТАЛІЯ"
+    "artist": "МОГИЛЕВСЬКА НАТАЛІЯ"
   },
   {
     "title": "МЕНІ НЕ СПИТЬСЯ НИНІ ОПІВНОЧІ (+,-).kfn",
-    "artist": "1561.\tМОДА МИХАЙЛО"
+    "artist": "МОДА МИХАЙЛО"
   },
   {
     "title": "РОЗКАЖИ ЦИГАНКО",
-    "artist": "1562.\tМОДА МИХАЙЛО"
+    "artist": "МОДА МИХАЙЛО"
   },
   {
     "title": "ЧЕРЕШЕНЬКА (+.-).kfn",
-    "artist": "1563.\tМОДА МИХАЙЛО"
+    "artist": "МОДА МИХАЙЛО"
   },
   {
     "title": "КРАЙ, МІЙ РІДНИЙ КРАЙ",
-    "artist": "1564.\tМОЗГОВИЙ МИКОЛА"
+    "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
     "title": "МАТЕРИНСЬКА ЛЮБОВ (-).kfn",
-    "artist": "1565.\tМОЗГОВИЙ МИКОЛА"
+    "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
     "title": "МИНАЄ ДЕНЬ (КЛІП).kfn",
-    "artist": "1566.\tМОЗГОВИЙ МИКОЛА"
+    "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
     "title": "МИНАЄ ДЕНЬ (КЛІП)·.kfn",
-    "artist": "1567.\tМОЗГОВИЙ МИКОЛА"
+    "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
     "title": "МИНАЄ ДЕНЬ.kfn",
-    "artist": "1568.\tМОЗГОВИЙ МИКОЛА"
+    "artist": "МОЗГОВИЙ МИКОЛА"
   },
   {
     "title": "ВОСЬМИМ КОЛЬОРОМ",
-    "artist": "1569.\tМОТОРРОЛЛА"
+    "artist": "МОТОРРОЛЛА"
   },
   {
     "title": "НЕ ДЗВОНИЛА, НЕ ЗАХОДИЛА",
-    "artist": "1570.\tМОТОРРОЛЛА"
+    "artist": "МОТОРРОЛЛА"
   },
   {
     "title": "ЦЕЙ СОН",
-    "artist": "1571.\tМУЗИЧЕНЬКИ"
+    "artist": "МУЗИЧЕНЬКИ"
   },
   {
     "title": "ВОВА ЇБАШ ЇХ",
-    "artist": "1572.\tМЮСЛІ UA"
+    "artist": "МЮСЛІ UA"
   },
   {
     "title": "А В УКРАЇНІ.avi",
-    "artist": "1573.\tМ'ЯТА"
+    "artist": "М'ЯТА"
   },
   {
     "title": "ЦЕЙ СОН",
-    "artist": "1574.\tНIКIТЮК ЛЕСЯ, ГІГА СТЕПАН"
+    "artist": "НIКIТЮК ЛЕСЯ, ГІГА СТЕПАН"
   },
   {
     "title": "Я ПОВЕРНУСЬ",
-    "artist": "1575.\tНА ВСІ 100"
+    "artist": "НА ВСІ 100"
   },
   {
     "title": "ВОЛИНЬ МОЯ",
-    "artist": "1576.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ВОЛИНЯНОЧКА",
-    "artist": "1577.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ЗА СВОЮ КРАЇНУ",
-    "artist": "1578.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ЇХАВ ЇХАВ КОЗАК МІСТОМ",
-    "artist": "1579.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "КОХАЮ Я ТЕБЕ",
-    "artist": "1580.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ОБІЙМИ МЕНЕ",
-    "artist": "1581.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ОЖИНИ",
-    "artist": "1582.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ОЙ ВИЙДУ Я",
-    "artist": "1583.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ОЙ ВИЙДУ Я НА ТУ ГОРУ",
-    "artist": "1584.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ОЙ ЧИЄ Ж ТО ЖИТО",
-    "artist": "1585.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ОЛЯ",
-    "artist": "1586.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ПІДЕМО РАЗОМ У КОХАННЯ ЦВІТ",
-    "artist": "1587.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ПОМОЛИСЬ МОЄ СЕРДЕНЬКО",
-    "artist": "1588.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "СПОГАД",
-    "artist": "1589.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ТЕЩА І ЗЯТЬ",
-    "artist": "1590.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ЧОМ ТИ НЕ ПРИЙШОВ",
-    "artist": "1591.\tНАГРАШ BAND"
+    "artist": "НАГРАШ BAND"
   },
   {
     "title": "ВРЕДНА.avi",
-    "artist": "1592.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "ЗА ТЕБЕ ВСЕ ВІДДАМ.avi",
-    "artist": "1593.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "ЗОЛОТАВА ОСІНЬ.avi",
-    "artist": "1594.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "НАЛАМАЮ МАЮ",
-    "artist": "1595.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "НЕ ЗІМКНУТИ ОЧЕЙ",
-    "artist": "1596.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "НОВА ВЕСНА",
-    "artist": "1597.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "ТЕБЕ ОДНУ",
-    "artist": "1598.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "Я НЕ ЗАЛИШУ ТЕБЕ",
-    "artist": "1599.\tНАЙДА ІЛЛЯ"
+    "artist": "НАЙДА ІЛЛЯ"
   },
   {
     "title": "ЗАБУВАЙ.avi",
-    "artist": "1600.\tНЕПЛЯХ ГАННА"
+    "artist": "НЕПЛЯХ ГАННА"
   },
   {
     "title": "РУССКИЙ КОРАБЛЬ",
-    "artist": "1601.\tНІКІТЮК ЛЕСЯ"
+    "artist": "НІКІТЮК ЛЕСЯ"
   },
   {
     "title": "ЦЕЙ СОН",
-    "artist": "1602.\tНІКІТЮК ЛЕСЯ"
+    "artist": "НІКІТЮК ЛЕСЯ"
   },
   {
     "title": "КЛЯНУСЬ.avi",
-    "artist": "1603.\tНІКОЛАС КАРМА & DJ PAVARO"
+    "artist": "НІКОЛАС КАРМА & DJ PAVARO"
   },
   {
     "title": "ЗАГУБИЛА (-,+)·.kfn",
-    "artist": "1604.\tНІТІЧ МІЛА"
+    "artist": "НІТІЧ МІЛА"
   },
   {
     "title": "ЦЕ НЕ ЛЮБОВ (-,МАСТЕР).kfn",
-    "artist": "1605.\tНІТІЧ МІЛА"
+    "artist": "НІТІЧ МІЛА"
   },
   {
     "title": "КИЄВЕ МIЙ·.kfn",
-    "artist": "1606.\tОВСИЕНКО ТАТЬЯНА"
+    "artist": "ОВСИЕНКО ТАТЬЯНА"
   },
   {
     "title": "КИЄВЕ МIЙ",
-    "artist": "1607.\tОВСІЄНКО ТЕТЯНА"
+    "artist": "ОВСІЄНКО ТЕТЯНА"
   },
   {
     "title": "GRAVITY",
-    "artist": "1608.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "БОГИНЯ",
-    "artist": "1609.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ВСЕ НЕВИПАДКОВО",
-    "artist": "1610.\tОГНЕВИЧ ЗЛАТА"
-  },
-  {
-    "title": "ВСЕ НЕВИПАДКОВО",
-    "artist": "1611.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ЗА ЛIТОМ, ЗА ВЕСНОЮ",
-    "artist": "1612.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ЗА ЛІСАМИ ГОРАМИ (-)·.kfn",
-    "artist": "1613.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ЗА ЛІСАМИ ГОРАМИ",
-    "artist": "1614.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ЗОЗУЛЯ",
-    "artist": "1615.\tОГНЕВИЧ ЗЛАТА"
-  },
-  {
-    "title": "ЗОЗУЛЯ",
-    "artist": "1616.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "МОЯ МЕЛОДIЯ (+,-)·.kfn",
-    "artist": "1617.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ПРИСТРАСТЬ (-,+,КЛІП)·.kfn",
-    "artist": "1618.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ПРИСТРАСТЬ (-,КЛІП).kfn",
-    "artist": "1619.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ЧЕКАЙ.avi",
-    "artist": "1620.\tОГНЕВИЧ ЗЛАТА"
+    "artist": "ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "НЕБО",
-    "artist": "1621.\tОДИН В КАНОЕ"
+    "artist": "ОДИН В КАНОЕ"
   },
   {
     "title": "ОДИН В ПОЛI ВОЇН",
-    "artist": "1622.\tОДИН В КАНОЕ"
+    "artist": "ОДИН В КАНОЕ"
   },
   {
     "title": "У МЕНЕ НЕМАЄ ДОМУ",
-    "artist": "1623.\tОДИН В КАНОЕ"
+    "artist": "ОДИН В КАНОЕ"
   },
   {
     "title": "ЧОВЕН",
-    "artist": "1624.\tОДИН В КАНОЕ"
-  },
-  {
-    "title": "ЧОВЕН",
-    "artist": "1625.\tОДИН В КАНОЕ"
+    "artist": "ОДИН В КАНОЕ"
   },
   {
     "title": "А БЕЗ ТЕБЕ.avi",
-    "artist": "1626.\tОДИН ДВА РАЗ"
+    "artist": "ОДИН ДВА РАЗ"
   },
   {
     "title": "ПООБIЦЯЙ МЕНI.avi",
-    "artist": "1627.\tОДИН У КАНОЄ"
+    "artist": "ОДИН У КАНОЄ"
   },
   {
     "title": "18 ХВИЛИН",
-    "artist": "1631.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "911 (КЛІП).kfn",
-    "artist": "1632.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "HА НЕБІ",
-    "artist": "1633.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ISN'T IT CОН",
-    "artist": "1634.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "БЕЗ БОЮ",
-    "artist": "1635.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "БЕЗ МЕЖ",
-    "artist": "1636.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "БЕЗ ТЕБЕ МЕНЕ НЕМА",
-    "artist": "1637.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "БІЛЬШЕ ДЛЯ НАС",
-    "artist": "1638.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "БІЛЬШОГО ВИМАГАЙ",
-    "artist": "1639.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "БОДЕГІТА",
-    "artist": "1640.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "БОДЕГІТА",
-    "artist": "1641.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "В НЕБО ЖЕНЕ",
-    "artist": "1642.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВIДПУСТИ (-,+,КЛІП)·.kfn",
-    "artist": "1643.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВIДПУСТИ",
-    "artist": "1644.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВЕСЕЛІ БРАТЕ ЧАСИ НАСТАЛИ",
-    "artist": "1645.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВИЩЕ НЕБА (-,+,КЛІП).kfn",
-    "artist": "1646.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВІДПОВІДЬ",
-    "artist": "1647.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВІДПУСТИ",
-    "artist": "1648.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВІЛЬНИЙ БО ЖИВИЙ",
-    "artist": "1649.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВСЕ БУДЕ ДОБРЕ",
-    "artist": "1650.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "ВСЕ БУДЕ ДОБРЕ.kfn",
-    "artist": "1651.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВСТАВАЙ (+,-)·.kfn",
-    "artist": "1652.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ВСТАВАЙ",
-    "artist": "1653.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ГІЛЛЯ КАЛИН",
-    "artist": "1654.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ГОЛОС ТВІЙ",
-    "artist": "1655.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДЖУЛЬЄТТА (-,+).kfn",
-    "artist": "1656.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДЖУЛЬЄТТА",
-    "artist": "1657.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДІВЧИНА ІЗ ІНШОГО ЖИТТЯ (-).kfn",
-    "artist": "1658.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДЛЯ ТЕБЕ",
-    "artist": "1659.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "ДЛЯ ТЕБЕ",
-    "artist": "1660.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДРУГ (VID)·.kfn",
-    "artist": "1661.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДРУГ (КЛІП)·.kfn",
-    "artist": "1662.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДРУГ",
-    "artist": "1663.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "ДРУГ",
-    "artist": "1664.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ДЯКУЮ ТОБІ",
-    "artist": "1665.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ЕВЕРЕСТ",
-    "artist": "1666.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ЖИТТЯ ПОЧИНАЄТЬСЯ ЗНОВ",
-    "artist": "1667.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "ЖИТТЯ ПОЧИНАЄТЬСЯ ЗНОВ",
-    "artist": "1668.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "КВІТИ МІННИХ ЗОН",
-    "artist": "1669.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "КВІТКА",
-    "artist": "1670.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "КВІТКА",
-    "artist": "1671.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "КІШКА",
-    "artist": "1672.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "КОКО ШАНЕЛЬ.kfn",
-    "artist": "1673.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "КОЛИ НАВКОЛО НІ ДУШІ",
-    "artist": "1674.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "КОЛИ НАВКОЛО НІ ДУШІ",
-    "artist": "1675.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "КОЛИ НАВКОЛО НІ ДУШІ",
-    "artist": "1676.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "КОЛИ ТОБІ ВАЖКО",
-    "artist": "1677.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "МАЙЖЕ ВЕСНА (+,-,VID).kfn",
-    "artist": "1678.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "МИТЬ",
-    "artist": "1679.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "МИТЬ",
-    "artist": "1680.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "МІСТО МАРІЇ",
-    "artist": "1681.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "МОВЧАТИ",
-    "artist": "1682.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НА ЛIНII ВОГНЮ (-,+,VID)·.kfn",
-    "artist": "1683.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НА ЛIНIЇ ВОГНЮ",
-    "artist": "1684.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НА НЕБІ",
-    "artist": "1685.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "НА НЕБІ",
-    "artist": "1686.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "НА НЕБІ",
-    "artist": "1687.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НАДЯ",
-    "artist": "1688.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕ ЙДИ",
-    "artist": "1689.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "НЕ ЙДИ",
-    "artist": "1690.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕ ПИТАЙ",
-    "artist": "1691.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "НЕ ПИТАЙ",
-    "artist": "1692.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕ ПЛАЧ",
-    "artist": "1693.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕ ТВОЯ ВІЙНА (ГІЛЛЯ КАЛИН ПОХИЛИЛОСЯ) (VID)·.kfn",
-    "artist": "1694.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕ ТВОЯ ВІЙНА (ГІЛЛЯ КАЛИН ПОХИЛИЛОСЯ)",
-    "artist": "1695.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕ ТВОЯ ВІЙНА",
-    "artist": "1696.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕЗАЛЕЖНIСТЬ",
-    "artist": "1697.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НЕЗАЛЕЖНІСТЬ",
-    "artist": "1698.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НІКОЛИ",
-    "artist": "1699.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "НІКОЛИ",
-    "artist": "1700.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "НОЧІ І ДНІ",
-    "artist": "1701.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ОБЕРІГ",
-    "artist": "1702.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ОБІЙМИ",
-    "artist": "1703.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ОБІЙМИ МЕНЕ",
-    "artist": "1704.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ПЕРЕВАЛ",
-    "artist": "1705.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ПОЗИЧ МЕНІ СОНЦЕ",
-    "artist": "1706.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ПОЇЗД ЧУЖА ЛЮБОВ",
-    "artist": "1707.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ПОЯСНИ",
-    "artist": "1708.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "РАНДЕВУ (RENDEZ-VOUS)",
-    "artist": "1709.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "СОНЦЕ",
-    "artist": "1710.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "СОСНИ",
-    "artist": "1711.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "СТІНА",
-    "artist": "1712.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "СТІНА",
-    "artist": "1713.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "СТРІЛЯЙ",
-    "artist": "1714.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "СЬОГОДНІ",
-    "artist": "1715.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "СЬЮЗИ.kfn",
-    "artist": "1716.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ТАКА ЯК ТИ",
-    "artist": "1717.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ТАМ ДЕ НАС НЕМА",
-    "artist": "1718.\tОКЕАН ЕЛЬЗИ"
-  },
-  {
-    "title": "ТАМ ДЕ НАС НЕМА",
-    "artist": "1719.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ТИ СОБI САМА (VID).kfn",
-    "artist": "1720.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ТИ СОБІ САМА",
-    "artist": "1721.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ТОЙ ДЕНЬ (VID).kfn",
-    "artist": "1722.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ТОЙ ДЕНЬ",
-    "artist": "1723.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ХОЛОДНО (PIANO).kfn",
-    "artist": "1724.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ХОЛОДНО",
-    "artist": "1725.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "ЧОВЕН",
-    "artist": "1726.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "Я ЇДУ ДОДОМУ",
-    "artist": "1727.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "Я ТАК ХОЧУ ДО ТЕБЕ (+,-).kfn",
-    "artist": "1728.\tОКЕАН ЕЛЬЗИ"
+    "artist": "ОКЕАН ЕЛЬЗИ"
   },
   {
     "title": "КОЛИ МИ ДВОЄ",
-    "artist": "1729.\tОКЕАН ЕЛЬЗИ & KOLA"
-  },
-  {
-    "title": "КОЛИ МИ ДВОЄ",
-    "artist": "1730.\tОКЕАН ЕЛЬЗИ & KOLA"
+    "artist": "ОКЕАН ЕЛЬЗИ & KOLA"
   },
   {
     "title": "ЦЕ ЗІ МНОЮ (+,-,VID)·.kfn",
-    "artist": "1731.\tОКЕАН ЕЛЬЗИ, БУМБОКС"
+    "artist": "ОКЕАН ЕЛЬЗИ, БУМБОКС"
   },
   {
     "title": "ЦЕ ЗІ МНОЮ",
-    "artist": "1732.\tОКЕАН ЕЛЬЗИ, БУМБОКС"
+    "artist": "ОКЕАН ЕЛЬЗИ, БУМБОКС"
   },
   {
     "title": "МIСТО ВЕСНИ",
-    "artist": "1733.\tОКЕАН ЕЛЬЗИ, ОДИН В КАНОЕ"
+    "artist": "ОКЕАН ЕЛЬЗИ, ОДИН В КАНОЕ"
   },
   {
     "title": "З'ЄДНАЙМОСЯ У ВІРІ УКРАЇНЦІ",
-    "artist": "1734.\tОКІЛКО ВОЛОДИМИР"
+    "artist": "ОКІЛКО ВОЛОДИМИР"
   },
   {
     "title": "ЇДЬ В ГЛИВАХУ (LONG)·.kfn",
-    "artist": "1735.\tОРКЕСТР ГАРНОГО НАСТРОЮ"
+    "artist": "ОРКЕСТР ГАРНОГО НАСТРОЮ"
   },
   {
     "title": "ЇДЬ В ГЛИВАХУ.kfn",
-    "artist": "1736.\tОРКЕСТР ГАРНОГО НАСТРОЮ"
+    "artist": "ОРКЕСТР ГАРНОГО НАСТРОЮ"
   },
   {
     "title": "АФІНИ КИЇВ І СТАМБУЛ",
-    "artist": "1737.\tПАВЛІК ВІКТОР"
-  },
-  {
-    "title": "АФІНИ КИЇВ І СТАМБУЛ",
-    "artist": "1738.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "БIЛI ЧЕРЕМХИ 1",
-    "artist": "1739.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "БIЛI ЧЕРЕМХИ 2",
-    "artist": "1740.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "БIЛА ХМАРА",
-    "artist": "1741.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "БДЖОЛИ (ЗОЛОТІ КРИЛЕЧКА)",
-    "artist": "1742.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ВЕCIЛЛЯ В КАРПАТАХ",
-    "artist": "1743.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ВЕСІЛЛЯ У КАРПАТАХ",
-    "artist": "1744.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ВЕСНА",
-    "artist": "1745.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ВІДЛІТАЄШ (КЛІП)·.kfn",
-    "artist": "1746.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ВІДЛІТАЄШ",
-    "artist": "1747.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ВОДОГРАЙ",
-    "artist": "1748.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ВСЕ МИНУЛО РІДНА",
-    "artist": "1749.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЗНАЮ (-,+,ОР)·.kfn",
-    "artist": "1750.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЗНАЮ",
-    "artist": "1751.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЗОЛОТІ КРИЛЕЧКА (БДЖОЛИ) (-)·.kfn",
-    "artist": "1752.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "КАШТАНОВИЙ ВАЛЬС (-,+,ОР).kfn",
-    "artist": "1753.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "КЛИЧУ ТЕБЕ (-,+,ОР)·.kfn",
-    "artist": "1754.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "КЛИЧУ ТЕБЕ",
-    "artist": "1755.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "КОХАЙТЕ ЖІНКУ (-).kfn",
-    "artist": "1756.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЛЕЙЛА (-,+,ОР)·.kfn",
-    "artist": "1757.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЛЕЙЛА",
-    "artist": "1758.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "МУЗИКА КОХАННЯ",
-    "artist": "1759.\tПАВЛІК ВІКТОР"
-  },
-  {
-    "title": "МУЗИКА КОХАННЯ",
-    "artist": "1760.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "НАРЕЧЕНА (-)·.kfn",
-    "artist": "1761.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "НЕМА З КИМ (+,-).kfn",
-    "artist": "1762.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "НІ ОБІЦЯНОК,НІ ПРОБАЧЕНЬ",
-    "artist": "1763.\tПАВЛІК ВІКТОР"
-  },
-  {
-    "title": "НІ ОБІЦЯНОК,НІ ПРОБАЧЕНЬ",
-    "artist": "1764.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "НОВА РАДІСТЬ СТАЛА",
-    "artist": "1765.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ОЙ ЧИЙ ТО КІНЬ СТОЇТЬ",
-    "artist": "1766.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "СТОЖАРИ",
-    "artist": "1767.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ТАК НЕ БУВАЄ",
-    "artist": "1768.\tПАВЛІК ВІКТОР"
-  },
-  {
-    "title": "ТАК НЕ БУВАЄ",
-    "artist": "1769.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ТЕЩА ДАЙ",
-    "artist": "1770.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ТИ ПОДОБАЄШСЯ МЕНІ (+,-,VID).kfn",
-    "artist": "1771.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ТИ ПОДОБАЄШСЯ МЕНІ",
-    "artist": "1772.\tПАВЛІК ВІКТОР"
-  },
-  {
-    "title": "ТИ ПОДОБАЄШСЯ МЕНІ",
-    "artist": "1773.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЧОРНОБРИВЦІ 1",
-    "artist": "1774.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЧОРНОБРИВЦІ 2",
-    "artist": "1775.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЯНА (+,-).kfn",
-    "artist": "1776.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ЯНА",
-    "artist": "1777.\tПАВЛІК ВІКТОР"
+    "artist": "ПАВЛІК ВІКТОР"
   },
   {
     "title": "ФАЙ-ДУЛІ-ФАЙ (+,-)·.kfn",
-    "artist": "1778.\tПАВЛІК ВІКТОР, МЕЛЬНИКОВИЧ ВАСИЛЬ"
+    "artist": "ПАВЛІК ВІКТОР, МЕЛЬНИКОВИЧ ВАСИЛЬ"
   },
   {
     "title": "ДЕСЬ ПО СВІТУ (DESPACITO).kfn",
-    "artist": "1779.\tПАВЛО І МАРІЙКА"
+    "artist": "ПАВЛО І МАРІЙКА"
   },
   {
     "title": "ВАСЯ OMG",
-    "artist": "1780.\tПАЦИКИ З ФРАНЕКА"
+    "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
     "title": "МАРIЧКА",
-    "artist": "1781.\tПАЦИКИ З ФРАНЕКА"
+    "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
     "title": "МАРІЧКА",
-    "artist": "1782.\tПАЦИКИ З ФРАНЕКА"
+    "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
     "title": "МУЗИКО ГРАЙ (-).kfn",
-    "artist": "1783.\tПАЦИКИ З ФРАНЕКА"
+    "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
     "title": "МУЗИКО ГРАЙ",
-    "artist": "1784.\tПАЦИКИ З ФРАНЕКА"
+    "artist": "ПАЦИКИ З ФРАНЕКА"
   },
   {
     "title": "Я ТАКА ЩЕ МОЛОДА",
-    "artist": "1785.\tПЕКУН ОКСАНА"
+    "artist": "ПЕКУН ОКСАНА"
   },
   {
     "title": "ЛІТО",
-    "artist": "1786.\tПЕКУН ОКСАНА & НОВИЦЬКИЙ МАКСИМ"
+    "artist": "ПЕКУН ОКСАНА & НОВИЦЬКИЙ МАКСИМ"
   },
   {
     "title": "УКРАЇНО",
-    "artist": "1787.\tПЕТРИНЕНКО ТАРАС"
+    "artist": "ПЕТРИНЕНКО ТАРАС"
   },
   {
     "title": "ВАЛТОРНА",
-    "artist": "1788.\tПИВОВАРОВ АРТЕМ"
+    "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
     "title": "ГОВОРИ",
-    "artist": "1789.\tПИВОВАРОВ АРТЁМ"
+    "artist": "ПИВОВАРОВ АРТЁМ"
   },
   {
     "title": "ДЕЖАВЮ",
-    "artist": "1790.\tПИВОВАРОВ АРТЕМ"
+    "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
     "title": "МІРАЖ",
-    "artist": "1791.\tПИВОВАРОВ АРТЕМ"
+    "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
     "title": "ОЙ НА ГОРІ",
-    "artist": "1792.\tПИВОВАРОВ АРТЕМ"
+    "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
     "title": "ОЙ НА ГОРІ",
-    "artist": "1793.\tПИВОВАРОВ АРТЁМ"
+    "artist": "ПИВОВАРОВ АРТЁМ"
   },
   {
     "title": "ТИ ЗНАЄШ ЩО ТИ ЛЮДИНА",
-    "artist": "1794.\tПИВОВАРОВ АРТЕМ"
+    "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
     "title": "ХВИЛИНИ",
-    "artist": "1795.\tПИВОВАРОВ АРТЕМ"
+    "artist": "ПИВОВАРОВ АРТЕМ"
   },
   {
     "title": "ДУМИ",
-    "artist": "1796.\tПИВОВАРОВ АРТЕМ & DOROFEEVA"
-  },
-  {
-    "title": "ДУМИ",
-    "artist": "1797.\tПИВОВАРОВ АРТЕМ & DOROFEEVA"
+    "artist": "ПИВОВАРОВ АРТЕМ & DOROFEEVA"
   },
   {
     "title": "БАРАБАН",
-    "artist": "1798.\tПИВОВАРОВ АРТЕМ & KLAVDIA PETRIVNA"
+    "artist": "ПИВОВАРОВ АРТЕМ & KLAVDIA PETRIVNA"
   },
   {
     "title": "О ПАННО",
-    "artist": "1799.\tПИВОВАРОВ АРТЕМ & THE ВУСА"
+    "artist": "ПИВОВАРОВ АРТЕМ & THE ВУСА"
   },
   {
     "title": "ОЙ НА ГОРІ",
-    "artist": "1800.\tПИВОВАРОВ АРТЕМ АРТЕМ"
+    "artist": "ПИВОВАРОВ АРТЕМ АРТЕМ"
   },
   {
     "title": "ОЧI",
-    "artist": "1801.\tПИВОВАРОВ АРТЕМ, QUEST PISTOLS"
+    "artist": "ПИВОВАРОВ АРТЕМ, QUEST PISTOLS"
   },
   {
     "title": "ТАМ У ТОПОЛI",
-    "artist": "1802.\tПИВОВАРОВ АРТЕМ, КАМЕНСЬКИХ НАСТЯ"
+    "artist": "ПИВОВАРОВ АРТЕМ, КАМЕНСЬКИХ НАСТЯ"
   },
   {
     "title": "ДО ВЕСНИ",
-    "artist": "1803.\tПИВОВАРОВ АРТЕМ, ОГНЕВИЧ ЗЛАТА"
+    "artist": "ПИВОВАРОВ АРТЕМ, ОГНЕВИЧ ЗЛАТА"
   },
   {
     "title": "ВИГАДАВ.avi",
-    "artist": "1804.\tПІСКУН СЕРГІЙ"
+    "artist": "ПІСКУН СЕРГІЙ"
   },
   {
     "title": "ОДНУ ТЕБЕ",
-    "artist": "1805.\tПІСКУН СЕРГІЙ"
+    "artist": "ПІСКУН СЕРГІЙ"
   },
   {
     "title": "СОЛОДКІ НЕБЕСА.avi",
-    "artist": "1806.\tПІСКУН СЕРГІЙ"
+    "artist": "ПІСКУН СЕРГІЙ"
   },
   {
     "title": "СТЕЖКА ДО БАТЬКІВ",
-    "artist": "1807.\tПІСКУН СЕРГІЙ"
+    "artist": "ПІСКУН СЕРГІЙ"
   },
   {
     "title": "ТИ САМЕ ТА",
-    "artist": "1808.\tПІСКУН СЕРГІЙ"
+    "artist": "ПІСКУН СЕРГІЙ"
   },
   {
     "title": "ТОБОЙ ЖИВУ",
-    "artist": "1809.\tПІСКУН СЕРГІЙ"
+    "artist": "ПІСКУН СЕРГІЙ"
   },
   {
     "title": "АХ ЛЕНТА ЗА ЛЕНТОЮ",
-    "artist": "1810.\tПЛАЧ ЄРЕМІЇ"
+    "artist": "ПЛАЧ ЄРЕМІЇ"
   },
   {
     "title": "ВОНА",
-    "artist": "1811.\tПЛАЧ ЄРЕМІЇ"
+    "artist": "ПЛАЧ ЄРЕМІЇ"
   },
   {
     "title": "КОЛИ ДО ГУБ ТВОЇХ (-).kfn",
-    "artist": "1812.\tПЛАЧ ЄРЕМІЇ"
+    "artist": "ПЛАЧ ЄРЕМІЇ"
   },
   {
     "title": "Я ПІДУ В ДАЛЕКІ ГОРИ.kfn",
-    "artist": "1813.\tПЛАЧ ЄРЕМІЇ"
+    "artist": "ПЛАЧ ЄРЕМІЇ"
   },
   {
     "title": "АХ ЛЕНТА ЗА ЛЕНТОЮ",
-    "artist": "1814.\tПЛАЧ ЄРЕМІЇ (ТАРАС ЧУБАЙ)"
+    "artist": "ПЛАЧ ЄРЕМІЇ (ТАРАС ЧУБАЙ)"
   },
   {
     "title": "А МОЯ ЛЮБОВ (-)·.kfn",
-    "artist": "1815.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ВЕРБА (-)·.kfn",
-    "artist": "1816.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЗЛАГОДА",
-    "artist": "1817.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЦВІТЕ ТЕРЕН (-).kfn",
-    "artist": "1818.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЧАРІВНА СКРИПКА (КЛИП)·.kfn",
-    "artist": "1819.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЧАРІВНА СКРИПКА (СІЛА ПТАХА)",
-    "artist": "1820.\tПОВАЛІЙ ТАЇСІЯ"
-  },
-  {
-    "title": "ЧАРІВНА СКРИПКА (СІЛА ПТАХА)",
-    "artist": "1821.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЧЕРВОНА РУТА",
-    "artist": "1822.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЧЕРЕМШИНА",
-    "artist": "1823.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЧОРНОБРИВЦІ",
-    "artist": "1824.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ЧОРТОПОЛОХ (FV).kfn",
-    "artist": "1825.\tПОВАЛІЙ ТАЇСІЯ"
+    "artist": "ПОВАЛІЙ ТАЇСІЯ"
   },
   {
     "title": "ВСЕ БУДЕ ДОБРЕ ОЛЯ",
-    "artist": "1826.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ВСЕ БУДЕ ДОБРЕ, ОЛЯ",
-    "artist": "1827.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ДЯКУЮ",
-    "artist": "1828.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "КОЛИСКОВА МЕЛОДІЯ УКРАЇНИ",
-    "artist": "1829.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "КОРОЛЕВА НОЧІ",
-    "artist": "1830.\tПОЛЯКОВА ОЛЯ"
-  },
-  {
-    "title": "КОРОЛЕВА НОЧІ",
-    "artist": "1831.\tПОЛЯКОВА ОЛЯ"
-  },
-  {
-    "title": "КОРОЛЕВА НОЧІ",
-    "artist": "1832.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "МАМА КАЗАЛА",
-    "artist": "1833.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ТАНЦЮЮ ЯК В ОСТАННІЙ РАЗ",
-    "artist": "1834.\tПОЛЯКОВА ОЛЯ"
-  },
-  {
-    "title": "ТАНЦЮЮ ЯК В ОСТАННІЙ РАЗ",
-    "artist": "1835.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ТАНЦЮЮ, ЯК В ОСТАННІЙ РАЗ",
-    "artist": "1836.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "У ТВОЇХ ОБІЙМАХ",
-    "artist": "1837.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ШЛЬОПКИ",
-    "artist": "1838.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ЩОБ НЕ ПЛАКАТИ Я СМІЮСЬ",
-    "artist": "1839.\tПОЛЯКОВА ОЛЯ"
+    "artist": "ПОЛЯКОВА ОЛЯ"
   },
   {
     "title": "ЧАРIВНI ОЧI",
-    "artist": "1840.\tПОЛЯКОВА ОЛЯ, ДЖОХАДЗЕ АНРI"
+    "artist": "ПОЛЯКОВА ОЛЯ, ДЖОХАДЗЕ АНРI"
   },
   {
     "title": "ЩАСЛИВI ЛЮДИ (OST ЗIРКИ ЗА ОБМIНОМ)",
-    "artist": "1841.\tПОЛЯКОВА ОЛЯ, ДЗІДЗЬО"
+    "artist": "ПОЛЯКОВА ОЛЯ, ДЗІДЗЬО"
   },
   {
     "title": "ШЛЯХ ДО ПЕРЕМОГИ",
-    "artist": "1842.\tПОЛЯКОВА ОЛЯ, ТРІНЧЕР АННА"
+    "artist": "ПОЛЯКОВА ОЛЯ, ТРІНЧЕР АННА"
   },
   {
     "title": "ШЛЯХ ДО ПЕРЕМОГИ",
-    "artist": "1843.\tПОЛЯКОВА ОЛЯ, ТРІНЧЕР АННА, POSITIFF"
+    "artist": "ПОЛЯКОВА ОЛЯ, ТРІНЧЕР АННА, POSITIFF"
   },
   {
     "title": "ЧЕРІ ЧЕРІ ЛЕДІ.avi",
-    "artist": "1844.\tПОМАДА"
+    "artist": "ПОМАДА"
   },
   {
     "title": "МИЛІША·.avi",
-    "artist": "1845.\tПОНОМАРЬОВ & ДЗІДЗЬО & ALEKSEEV"
+    "artist": "ПОНОМАРЬОВ & ДЗІДЗЬО & ALEKSEEV"
   },
   {
     "title": "HASTA LA VISTA",
-    "artist": "1846.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "А ТИ ПРОСТО КОХАЙ (-)·.kfn",
-    "artist": "1847.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "А Я ПIДУ",
-    "artist": "1848.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ВАРТО ЧИ НІ.kfn",
-    "artist": "1849.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ВІН ЧЕКАЄ НА НЕЇ (ОРИГ,КЛІП).kfn",
-    "artist": "1850.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ВІН ЧЕКАЄ НЕЇ",
-    "artist": "1851.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ВОГОНЬ",
-    "artist": "1852.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ГОЛОСИ",
-    "artist": "1853.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ГРIМ",
-    "artist": "1854.\tПОНОМАРЬОВ ОЛЕКСАНДР"
-  },
-  {
-    "title": "ГРIМ",
-    "artist": "1855.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ДВА СЕРЦЯ (VID).kfn",
-    "artist": "1856.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "З РАНКУ ДО НОЧІ",
-    "artist": "1857.\tПОНОМАРЬОВ ОЛЕКСАНДР"
-  },
-  {
-    "title": "З РАНКУ ДО НОЧІ",
-    "artist": "1858.\tПОНОМАРЬОВ ОЛЕКСАНДР"
-  },
-  {
-    "title": "З РАНКУ ДО НОЧІ",
-    "artist": "1859.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ЗАКОЛИШУ",
-    "artist": "1860.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ЗАСПІВАЙМО ПІСНЮ ЗА УКРАЇНУ (VID).kfn",
-    "artist": "1861.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ЗІРОНЬКА",
-    "artist": "1862.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "КОХАТИ (VOLARE)",
-    "artist": "1863.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "КРИЛА",
-    "artist": "1864.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ЛЮБИШ ТИ МЕНЕ",
-    "artist": "1865.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "МИНАЄ ДЕНЬ",
-    "artist": "1866.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "НIЖНИМИ ВУСТАМИ",
-    "artist": "1867.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "НАЙКРАЩА",
-    "artist": "1868.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "НІКОЛИ (КЛИП).kfn",
-    "artist": "1869.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "НІЧЕНЬКОЮ ТЕМНОЮ (КЛИП)·.kfn",
-    "artist": "1870.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ПЕРША I ОСТАННЯ ЛЮБОВ",
-    "artist": "1871.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "САМ СОБI КРАIНА",
-    "artist": "1872.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "СЕРДЕНЬКО МОЄ",
-    "artist": "1873.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ТИ ДОЧЕКАЙСЯ МЕНЕ (VID).kfn",
-    "artist": "1874.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ЧОМУСЬ ТАК ГIРКО ПЛАКАЛА ВОНА",
-    "artist": "1875.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "Я ЗАБЛУКАВ (-).kfn",
-    "artist": "1876.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "Я ЗАБЛУКАВ",
-    "artist": "1877.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "Я ЛЮБЛЮ ТІЛЬКИ ТЕБЕ (ВАРТО ЧИ НІ)",
-    "artist": "1878.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "Я НЕ ТАКИЙ·.kfn",
-    "artist": "1879.\tПОНОМАРЬОВ ОЛЕКСАНДР"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР"
   },
   {
     "title": "ЧОМУ",
-    "artist": "1880.\tПОНОМАРЬОВ ОЛЕКСАНДР, DZIDZIO, ALEKSEEV, ПИВОВАРОВ АРТЕМ"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР, DZIDZIO, ALEKSEEV, ПИВОВАРОВ АРТЕМ"
   },
   {
     "title": "ЧОМУ",
-    "artist": "1881.\tПОНОМАРЬОВ ОЛЕКСАНДР, DZIDZIO, ПИВОВАРОВ, ALEKSEEV"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР, DZIDZIO, ПИВОВАРОВ, ALEKSEEV"
   },
   {
     "title": "ПАЗЛЫ (ПАЗЛИ)",
-    "artist": "1882.\tПОНОМАРЬОВ ОЛЕКСАНДР, ДЗІДЗЬО"
+    "artist": "ПОНОМАРЬОВ ОЛЕКСАНДР, ДЗІДЗЬО"
   },
   {
     "title": "УКРАЇНА ПЕРЕМОЖЕ",
-    "artist": "1883.\tПОНОМАРЬОВ, ДЗІДЗЬО, КОШОВИЙ, ЧОРНИЙ"
+    "artist": "ПОНОМАРЬОВ, ДЗІДЗЬО, КОШОВИЙ, ЧОРНИЙ"
   },
   {
     "title": "БАТЬКIВЩИНА",
-    "artist": "1884.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "БОРЩ",
-    "artist": "1885.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ВАРЕНИЧКИ МОЇ",
-    "artist": "1886.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ДОРОГI МОЇ БАТЬКИ",
-    "artist": "1887.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ЗДРАСТУЙ РIДНЕ СЕЛО",
-    "artist": "1888.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "КРОПИВА (-,+)·.kfn",
-    "artist": "1889.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ЛЮБОВ МОЯ",
-    "artist": "1890.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "МУЗИКА РІДНОГО ДОМУ.kfn",
-    "artist": "1891.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "ПРОЩАННЯ",
-    "artist": "1892.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "РОСТЕ ЧЕРЕШНЯ (-,+,КЛІП).kfn",
-    "artist": "1893.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "СНІГ КРУЖЛЯЄ.kfn",
-    "artist": "1894.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "УКРАIНА (-)·.kfn",
-    "artist": "1895.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "Я УКРАIНЕЦЬ (-,+)·.kfn",
-    "artist": "1896.\tПОПЛАВСЬКИЙ МИХАЙЛО"
+    "artist": "ПОПЛАВСЬКИЙ МИХАЙЛО"
   },
   {
     "title": "СКАЖИ МЕНІ",
-    "artist": "1897.\tПОПОВИЧ ІВАН"
+    "artist": "ПОПОВИЧ ІВАН"
   },
   {
     "title": "ФАЙНА",
-    "artist": "1898.\tПОПОВИЧ ІВАН"
+    "artist": "ПОПОВИЧ ІВАН"
   },
   {
     "title": "ДОЧЕКАЙСЬ",
-    "artist": "1899.\tПОТАП"
+    "artist": "ПОТАП"
   },
   {
     "title": "НАЙКРАЩИЙ ДЕНЬ (+,-,КЛІП).kfn",
-    "artist": "1900.\tПОТАП, ВИННИК ОЛЕГ"
+    "artist": "ПОТАП, ВИННИК ОЛЕГ"
   },
   {
     "title": "НА ЩАСТЯ (OST СКАЖЕНЕ ВЕСIЛЛЯ 3)·.kfn",
-    "artist": "1901.\tПОТАП, ВИННИК ОЛЕГ, POSITIFF"
+    "artist": "ПОТАП, ВИННИК ОЛЕГ, POSITIFF"
   },
   {
     "title": "ЗОЛОТІ ВОРОТА (+,-,КЛІП).kfn",
-    "artist": "1902.\tПРИХОДЬКО АНАСТАСІЯ"
+    "artist": "ПРИХОДЬКО АНАСТАСІЯ"
   },
   {
     "title": "МАМО",
-    "artist": "1903.\tПРИХОДЬКО АНАСТАСІЯ"
+    "artist": "ПРИХОДЬКО АНАСТАСІЯ"
   },
   {
     "title": "ВИТРИ СЛЬОЗИ",
-    "artist": "1904.\tПРОКОПОВ ДМИТРО"
+    "artist": "ПРОКОПОВ ДМИТРО"
   },
   {
     "title": "ПАДАЛИ",
-    "artist": "1905.\tПРОЦЬ & ДМИТРО КОМАР"
+    "artist": "ПРОЦЬ & ДМИТРО КОМАР"
   },
   {
     "title": "ПОДЗВОНИ",
-    "artist": "1906.\tПРОЦЬ & ДМИТРО КОМАР"
+    "artist": "ПРОЦЬ & ДМИТРО КОМАР"
   },
   {
     "title": "КАЗАНТІП.avi",
-    "artist": "1907.\tРАЙЧУ"
+    "artist": "РАЙЧУ"
   },
   {
     "title": "КВІТКА",
-    "artist": "1908.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
     "title": "ЛЕЛЯ",
-    "artist": "1909.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
     "title": "ПЛАЧУ І СМІЮСЯ",
-    "artist": "1910.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
     "title": "СИЛА",
-    "artist": "1911.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
-  },
-  {
-    "title": "СИЛА",
-    "artist": "1912.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
     "title": "ТЕМНА ВОДА",
-    "artist": "1913.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
-  },
-  {
-    "title": "ТЕМНА ВОДА",
-    "artist": "1914.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
-  },
-  {
-    "title": "ТЕМНА ВОДА",
-    "artist": "1915.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
-  },
-  {
-    "title": "ТЕМНА ВОДА",
-    "artist": "1916.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
     "title": "ФАНТАСТИЧНА ЖІНКА",
-    "artist": "1917.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
-  },
-  {
-    "title": "ФАНТАСТИЧНА ЖІНКА",
-    "artist": "1918.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA)"
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA)"
   },
   {
     "title": "МОЯ ЗЕМЛЯ",
-    "artist": "1919.\tРЕШЕТНЯК ТЕТЯНА (TAYANNA) & ДЖАМАЛА"
+    "artist": "РЕШЕТНЯК ТЕТЯНА (TAYANNA) & ДЖАМАЛА"
   },
   {
     "title": "ЖИВИ",
-    "artist": "1920.\tРОЗНЕН ЮЛІЯ"
+    "artist": "РОЗНЕН ЮЛІЯ"
   },
   {
     "title": "ЛЕЛЕКИ",
-    "artist": "1921.\tРОЗНЕН ЮЛІЯ"
+    "artist": "РОЗНЕН ЮЛІЯ"
   },
   {
     "title": "РОЗКАЖИ",
-    "artist": "1922.\tРОЗНЕН ЮЛІЯ"
+    "artist": "РОЗНЕН ЮЛІЯ"
   },
   {
     "title": "ПРОЩАЙ",
-    "artist": "1923.\tРОТАРУ СОФIЯ"
+    "artist": "РОТАРУ СОФIЯ"
   },
   {
     "title": "ОДНА КАЛИНА",
-    "artist": "1924.\tРОТАРУ СОФІЯ"
-  },
-  {
-    "title": "ОДНА КАЛИНА",
-    "artist": "1925.\tРОТАРУ СОФІЯ"
-  },
-  {
-    "title": "ОДНА КАЛИНА",
-    "artist": "1926.\tРОТАРУ СОФІЯ"
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
     "title": "ТЕЧЕ ВОДА 2.kfn",
-    "artist": "1927.\tРОТАРУ СОФІЯ"
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
     "title": "ЧЕРВОНА РУТА (DJ TONYTIM REBOOT)·.kfn",
-    "artist": "1928.\tРОТАРУ СОФІЯ"
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
     "title": "ЧЕРВОНА РУТА (ЧОЛОВІЧА ТОНАЛЬНІСТЬ).kfn",
-    "artist": "1929.\tРОТАРУ СОФІЯ"
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
     "title": "ЧЕРВОНА РУТА",
-    "artist": "1930.\tРОТАРУ СОФІЯ"
-  },
-  {
-    "title": "ЧЕРВОНА РУТА",
-    "artist": "1931.\tРОТАРУ СОФІЯ"
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
     "title": "ЧЕРВОНА РУТА 2",
-    "artist": "1932.\tРОТАРУ СОФІЯ"
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
     "title": "ЧЕРВОНА РУТА 3",
-    "artist": "1933.\tРОТАРУ СОФІЯ"
+    "artist": "РОТАРУ СОФІЯ"
   },
   {
     "title": "СЛАВА УКРАЇНІ",
-    "artist": "1934.\tРУДЕНКО ЯРОСЛАВА"
+    "artist": "РУДЕНКО ЯРОСЛАВА"
   },
   {
     "title": "АРКАН (-).kfn",
-    "artist": "1935.\tРУСЛАНА"
+    "artist": "РУСЛАНА"
   },
   {
     "title": "В РИТМІ СЕРЦЯ (-).kfn",
-    "artist": "1936.\tРУСЛАНА"
+    "artist": "РУСЛАНА"
   },
   {
     "title": "ДИКІ ТАНЦІ",
-    "artist": "1937.\tРУСЛАНА (RUSLANA)"
+    "artist": "РУСЛАНА (RUSLANA)"
   },
   {
     "title": "ДЖЕРЕЛО",
-    "artist": "1938.\tСАНДУЛЕСА ЛІЛІЯ"
+    "artist": "САНДУЛЕСА ЛІЛІЯ"
   },
   {
     "title": "ЛЮБИЙ",
-    "artist": "1939.\tСАНДУЛЕСА ЛІЛІЯ"
+    "artist": "САНДУЛЕСА ЛІЛІЯ"
   },
   {
     "title": "НЕДОЦIЛОВАНА ВЕСНА",
-    "artist": "1940.\tСАНДУЛЕСА ЛІЛІЯ"
+    "artist": "САНДУЛЕСА ЛІЛІЯ"
   },
   {
     "title": "ОЗВУЧ МОЮ ЛЮБОВ ГIТАРО",
-    "artist": "1941.\tСАНДУЛЕСА ЛІЛІЯ"
+    "artist": "САНДУЛЕСА ЛІЛІЯ"
   },
   {
     "title": "ПАМ'ЯТАЙ",
-    "artist": "1942.\tСАНДУЛЕСА ЛІЛІЯ"
+    "artist": "САНДУЛЕСА ЛІЛІЯ"
   },
   {
     "title": "В ОСТАННІЙ РАЗ",
-    "artist": "1943.\tСВIТЯЗЬ"
+    "artist": "СВIТЯЗЬ"
   },
   {
     "title": "ДЯКУЮ ТОБІ",
-    "artist": "1944.\tСВIТЯЗЬ"
+    "artist": "СВIТЯЗЬ"
   },
   {
     "title": "ЗГАДАЙ",
-    "artist": "1945.\tСВIТЯЗЬ"
+    "artist": "СВIТЯЗЬ"
   },
   {
     "title": "НАЛИВАЙ",
-    "artist": "1946.\tСВIТЯЗЬ"
+    "artist": "СВIТЯЗЬ"
   },
   {
     "title": "НІ Я НЕ ТУ КОХАВ",
-    "artist": "1947.\tСВIТЯЗЬ"
+    "artist": "СВIТЯЗЬ"
   },
   {
     "title": "ТИ МIЙ МАЯК",
-    "artist": "1948.\tСВIТЯЗЬ"
+    "artist": "СВIТЯЗЬ"
   },
   {
     "title": "А МОЖЕ ТО НЕ ЛЮБОВ",
-    "artist": "1949.\tСВІТОЗАРИ"
+    "artist": "СВІТОЗАРИ"
   },
   {
     "title": "ВОРОЖКА",
-    "artist": "1950.\tСВІТОЗАРИ"
+    "artist": "СВІТОЗАРИ"
   },
   {
     "title": "НІ Я НЕ ТУ КОХАВ",
-    "artist": "1951.\tСВІТЯЗЬ"
+    "artist": "СВІТЯЗЬ"
   },
   {
     "title": "ЧЕРВОНА РУТА",
-    "artist": "1952.\tСЕДОКОВА АННА"
+    "artist": "СЕДОКОВА АННА"
   },
   {
     "title": "ГОП-ГОП",
-    "artist": "1953.\tСЕРДЮЧКА ВЕРКА"
+    "artist": "СЕРДЮЧКА ВЕРКА"
   },
   {
     "title": "Є ПРОПОЗИЦІЯ",
-    "artist": "1954.\tСЕРДЮЧКА ВЕРКА"
+    "artist": "СЕРДЮЧКА ВЕРКА"
   },
   {
     "title": "Є ПРОПОЗИЦІЯ",
-    "artist": "1955.\tСЕРДЮЧКА ВЄРКА"
+    "artist": "СЕРДЮЧКА ВЄРКА"
   },
   {
     "title": "КИЦЬКА ЛЮБА",
-    "artist": "1956.\tСЕРДЮЧКА ВЄРКА"
+    "artist": "СЕРДЮЧКА ВЄРКА"
   },
   {
     "title": "BEST ДРУГ {E,OR,192}·.kfn",
-    "artist": "1957.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "GO GO",
-    "artist": "1958.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "БЕРЕГ РІКИ.avi",
-    "artist": "1959.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "ДО КІНЦЯ",
-    "artist": "1960.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "ЗАБЕРИ",
-    "artist": "1961.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "КОХАНА",
-    "artist": "1962.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "ЛЕГКОВАЖНА",
-    "artist": "1963.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "МЕЛОДІЯ СЕРЦЯ",
-    "artist": "1964.\tСКАЙ"
-  },
-  {
-    "title": "МЕЛОДІЯ СЕРЦЯ",
-    "artist": "1965.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "НЕ ВІЙНИ А МИРУ",
-    "artist": "1966.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "НЕ ЗАБУВАЙ",
-    "artist": "1967.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "ПОДАРУЙ СВІТЛО",
-    "artist": "1968.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "СТРУНА (+,-)·.kfn",
-    "artist": "1969.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "ТЕБЕ ЦЕ МОЖЕ ВБИТИ",
-    "artist": "1970.\tСКАЙ"
+    "artist": "СКАЙ"
   },
   {
     "title": "БІЛЕ ПЛАТТЯ, БІЛА ФАТА",
-    "artist": "1971.\tСКОРПІОН РОМАН"
-  },
-  {
-    "title": "БІЛЕ ПЛАТТЯ, БІЛА ФАТА",
-    "artist": "1972.\tСКОРПІОН РОМАН"
-  },
-  {
-    "title": "БІЛЕ ПЛАТТЯ, БІЛА ФАТА",
-    "artist": "1973.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "БІЛІ ФІАЛКИ",
-    "artist": "1974.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "З МІЛЬЙОНІВ ОДНА",
-    "artist": "1975.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "ЗАКОХАВСЯ",
-    "artist": "1976.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "МОЯ",
-    "artist": "1977.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "ОБІЙМУ",
-    "artist": "1978.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "ПОЦІЛУЮ",
-    "artist": "1979.\tСКОРПІОН РОМАН"
-  },
-  {
-    "title": "ПОЦІЛУЮ",
-    "artist": "1980.\tСКОРПІОН РОМАН"
-  },
-  {
-    "title": "ПОЦІЛУЮ",
-    "artist": "1981.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "ТАК СИЛЬНО·.avi",
-    "artist": "1982.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "ТИ МОЄ НЕБО, ТИ МІЙ ОКЕАН",
-    "artist": "1983.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "ЩАСЛИВІ ЗАКОХАНІ (+,-,FV)·.kfn",
-    "artist": "1984.\tСКОРПІОН РОМАН"
+    "artist": "СКОРПІОН РОМАН"
   },
   {
     "title": "Я НІКОМУ ТЕБЕ НЕ ВІДДАМ",
-    "artist": "1985.\tСКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
-  },
-  {
-    "title": "Я НІКОМУ ТЕБЕ НЕ ВІДДАМ",
-    "artist": "1986.\tСКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
-  },
-  {
-    "title": "Я НІКОМУ ТЕБЕ НЕ ВІДДАМ",
-    "artist": "1987.\tСКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
+    "artist": "СКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
   },
   {
     "title": "Я НІКОМУ ТЕБЕ НЕ ВІДДАМ 2",
-    "artist": "1988.\tСКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
+    "artist": "СКОРПІОН РОМАН, МАТВІЄНКО ТОНЯ"
   },
   {
     "title": "МIСЦЯ ЩАСЛИВИХ ЛЮДЕЙ",
-    "artist": "1989.\tСКРЯБIН"
+    "artist": "СКРЯБIН"
   },
   {
     "title": "ВИПУСКНИЙ",
-    "artist": "1990.\tСКРЯБІН"
-  },
-  {
-    "title": "ВИПУСКНИЙ",
-    "artist": "1991.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ГЛАМУР",
-    "artist": "1992.\tСКРЯБІН"
-  },
-  {
-    "title": "ГЛАМУР",
-    "artist": "1993.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ГОВОРИЛИ І КУРИЛИ",
-    "artist": "1994.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ГОДИННИК (МАСТЕР).kfn",
-    "artist": "1995.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ДЕЛЬФІНИ (КЛІП)·.kfn",
-    "artist": "1996.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ДЕЛЬФІНИ",
-    "artist": "1997.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ДЖАЛАМБАЙ",
-    "artist": "1998.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "КВІНТИ",
-    "artist": "1999.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "КИНУЛИ (КЛІП).kfn",
-    "artist": "2000.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "КИНУЛИ",
-    "artist": "2001.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "КОЛЬОРОВА",
-    "artist": "2002.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "КОЛЬОРОВЕ",
-    "artist": "2003.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "КОХАНА МУМІТРОЛЬ (+,-).kfn",
-    "artist": "2004.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ЛИСТ ДО ДРУГА (-)·.kfn",
-    "artist": "2005.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ЛИСТ ДО ПРЕЗИДЕНТІВ УКРАЇНИ (VID).kfn",
-    "artist": "2006.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ЛЮБИТИ ПЛАТИТИ (+,-).kfn",
-    "artist": "2007.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ЛЮДИ ЯК КОРАБЛІ (КЛІП).kfn",
-    "artist": "2008.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "МIСЦЯ ЩАСЛИВИХ ЛЮДЕЙ",
-    "artist": "2009.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "МАМ",
-    "artist": "2010.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "МАРШРУТКА (+,-,КЛІП).kfn",
-    "artist": "2011.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ПОРШ ПАНАМЕРА (КЛІП).kfn",
-    "artist": "2012.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "САМ СОБІ КРАЇНА (НЕ СТИДАЙСЯ, ТО ТВОЯ ЗЕМЛЯ) (VID)·.kfn",
-    "artist": "2013.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "СПИ СОБІ САМА (ОРИГ,VID).kfn",
-    "artist": "2014.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "СТАРІ ФОТОГРАФІЇ",
-    "artist": "2015.\tСКРЯБІН"
-  },
-  {
-    "title": "СТАРІ ФОТОГРАФІЇ",
-    "artist": "2016.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ТАНЕЦЬ ПІНГВІНА (+,-,КЛІП) .kfn",
-    "artist": "2017.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ХЛОПЦІ-ОЛІГАРХИ",
-    "artist": "2018.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ШМАТА",
-    "artist": "2019.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "ШУКАВ СВІЙ ДІМ (-,+,МАСТЕР).kfn",
-    "artist": "2020.\tСКРЯБІН"
+    "artist": "СКРЯБІН"
   },
   {
     "title": "МОВЧАТИ",
-    "artist": "2021.\tСКРЯБІН, БІЛИК ІРИНА"
+    "artist": "СКРЯБІН, БІЛИК ІРИНА"
   },
   {
     "title": "ВТІКАЛА",
-    "artist": "2022.\tСОЛОВIЙ ХРИСТИНА"
+    "artist": "СОЛОВIЙ ХРИСТИНА"
   },
   {
     "title": "ГУБИ В ВИНI",
-    "artist": "2023.\tСОЛОВIЙ ХРИСТИНА"
+    "artist": "СОЛОВIЙ ХРИСТИНА"
   },
   {
     "title": "УКРАЇНСЬКА ЛЮТЬ",
-    "artist": "2024.\tСОЛОВIЙ ХРИСТИНА"
+    "artist": "СОЛОВIЙ ХРИСТИНА"
   },
   {
     "title": "В ТЕМНУ НІЧКУ",
-    "artist": "2025.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ВТІКАЛА",
-    "artist": "2026.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ГУБИ В ВИНI",
-    "artist": "2027.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "КОАЛА",
-    "artist": "2028.\tСОЛОВІЙ ХРИСТИНА"
-  },
-  {
-    "title": "КОАЛА",
-    "artist": "2029.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "КРАЩЕ МОВЧИ",
-    "artist": "2030.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ЛІСОВА ПІСНЯ",
-    "artist": "2031.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ЛЮБИЙ ДРУГ",
-    "artist": "2032.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ОКЕАН",
-    "artist": "2033.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ПОД ОБЛАЧКОМ (МАСТЕР,КЛИІП).kfn",
-    "artist": "2034.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ПОКИ ЛЮБИШ",
-    "artist": "2035.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "СИНЯ ПІСНЯ",
-    "artist": "2036.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ТЕЧЕ ВОДА КАЛАМУТНА (FV).kfn",
-    "artist": "2037.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ТИХА ВОДА",
-    "artist": "2038.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ТРИМАЙ",
-    "artist": "2039.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "УКРАЇНСЬКА ЛЮТЬ",
-    "artist": "2040.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ХВИЛЯ",
-    "artist": "2041.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ХОЛОДНО",
-    "artist": "2042.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ХТО ЯК НЕ ТИ",
-    "artist": "2043.\tСОЛОВІЙ ХРИСТИНА"
+    "artist": "СОЛОВІЙ ХРИСТИНА"
   },
   {
     "title": "ГАМЕРИЦЬКИЙ КРАЙ",
-    "artist": "2044.\tСОЛОВІЙ ХРИСТИНА & ВАКАРЧУК"
+    "artist": "СОЛОВІЙ ХРИСТИНА & ВАКАРЧУК"
   },
   {
     "title": "ТАК ГРІЄ",
-    "artist": "2045.\tСТРИКАЛО ВАЛЕНТИН"
+    "artist": "СТРИКАЛО ВАЛЕНТИН"
   },
   {
     "title": "ПАРОВА МАШИНА",
-    "artist": "2046.\tСУДЧЕ ВАЛЕРIЙ"
+    "artist": "СУДЧЕ ВАЛЕРIЙ"
   },
   {
     "title": "ОЙ У ВИШНЕВОМУ САДУ.kfn",
-    "artist": "2047.\tСУСІДИ"
+    "artist": "СУСІДИ"
   },
   {
     "title": "АМЕЛІ",
-    "artist": "2048.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "БРАТЕ МІЙ ВСТАВАЙ",
-    "artist": "2049.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "ВСЕ ДЛЯ НАС",
-    "artist": "2050.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "ЛЕТИ",
-    "artist": "2051.\tТАБАКОВ ПАВЛО"
-  },
-  {
-    "title": "ЛЕТИ",
-    "artist": "2052.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "ЛЮБОВ ЖИВА",
-    "artist": "2053.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "МОЯ НА ВСЕ ЖИТТЯ",
-    "artist": "2054.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "СЕРЦЕБИТТЯ",
-    "artist": "2055.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "ТИ МОЯ.(-.+,КЛИП)·.kfn",
-    "artist": "2056.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "ТИ ТАНЦЮЄШ ОДНА",
-    "artist": "2057.\tТАБАКОВ ПАВЛО"
+    "artist": "ТАБАКОВ ПАВЛО"
   },
   {
     "title": "ВІДПУСТИ (+,-).kfn",
-    "artist": "2058.\tТАЛІНА"
+    "artist": "ТАЛІНА"
   },
   {
     "title": "Я ТВОЄЮ СТАЛА (+,-,КЛІП).kfn",
-    "artist": "2059.\tТАЛІНА"
+    "artist": "ТАЛІНА"
   },
   {
     "title": "МОЯ УКРАЇНА",
-    "artist": "2060.\tТАМЕРЛАН, АЛЬОНА & ANDI VAX"
+    "artist": "ТАМЕРЛАН, АЛЬОНА & ANDI VAX"
   },
   {
     "title": "100% ПЛАГІАТ (ПРОКРУТИТЬ ЦЮ ПIСНЮ ПО РАДИО)",
-    "artist": "2061.\tТАРТАК"
+    "artist": "ТАРТАК"
   },
   {
     "title": "БОЖЕВІЛЬНІ ТАНЦІ",
-    "artist": "2062.\tТАРТАК"
+    "artist": "ТАРТАК"
   },
   {
     "title": "МIЙ ЛИЦАРСЬКИЙ ХРЕСТ",
-    "artist": "2063.\tТАРТАК"
+    "artist": "ТАРТАК"
   },
   {
     "title": "Я НЕ ЗНАЮ",
-    "artist": "2064.\tТАРТАК"
+    "artist": "ТАРТАК"
   },
   {
     "title": "ТИ ПОДУМАЙ",
-    "artist": "2065.\tТАРТАК, ПОПОВА ДІАНА"
+    "artist": "ТАРТАК, ПОПОВА ДІАНА"
   },
   {
     "title": "НІ Я НЕ ТУ КОХАВ",
-    "artist": "2066.\tТАРТАК, СВІТЯЗЬ"
-  },
-  {
-    "title": "НІ Я НЕ ТУ КОХАВ",
-    "artist": "2067.\tТАРТАК, СВІТЯЗЬ"
+    "artist": "ТАРТАК, СВІТЯЗЬ"
   },
   {
     "title": "НІ, Я НЕ ТУ КОХАВ",
-    "artist": "2068.\tТАРТАК, СВІТЯЗЬ"
+    "artist": "ТАРТАК, СВІТЯЗЬ"
   },
   {
     "title": "АТАС",
-    "artist": "2069.\tТВОРЧЕ ОБ'ЄДНАННЯ ПО ЦИМБАЛАМ"
+    "artist": "ТВОРЧЕ ОБ'ЄДНАННЯ ПО ЦИМБАЛАМ"
   },
   {
     "title": "КАТЮША НА БАНДЕРІВСЬКІЙ ЛАД",
-    "artist": "2070.\tТВОРЧЕ ОБ'ЄДНАННЯ ПО ЦИМБАЛАМ"
+    "artist": "ТВОРЧЕ ОБ'ЄДНАННЯ ПО ЦИМБАЛАМ"
   },
   {
     "title": "СМУГЛЯНКА МОСКАЛЯНКА",
-    "artist": "2071.\tТВОРЧЕ ОБ'ЄДНАННЯ ПО ЦИМБАЛАМ"
+    "artist": "ТВОРЧЕ ОБ'ЄДНАННЯ ПО ЦИМБАЛАМ"
   },
   {
     "title": "ВОЛОНТЕРКА",
-    "artist": "2072.\tТЕТЯНА VLASNA (ВЛАСНА)"
+    "artist": "ТЕТЯНА VLASNA (ВЛАСНА)"
   },
   {
     "title": "П'ЯНКА ЛЮБОВ",
-    "artist": "2073.\tТЕТЯНА VLASNA (ВЛАСНА)"
+    "artist": "ТЕТЯНА VLASNA (ВЛАСНА)"
   },
   {
     "title": "ТАТАНЦІ",
-    "artist": "2074.\tТИМОФІЙЧУК МАРИНА"
+    "artist": "ТИМОФІЙЧУК МАРИНА"
   },
   {
     "title": "ГОТЕЛЬ",
-    "artist": "2075.\tТИХОНЧИК БОГДАН"
+    "artist": "ТИХОНЧИК БОГДАН"
   },
   {
     "title": "ДИМ КАЛЬЯНУ",
-    "artist": "2076.\tТИХОНЧИК БОГДАН"
+    "artist": "ТИХОНЧИК БОГДАН"
   },
   {
     "title": "ЧУЖА КОХАНА",
-    "artist": "2077.\tТИХОНЧИК БОГДАН"
+    "artist": "ТИХОНЧИК БОГДАН"
   },
   {
     "title": "Я ДО ТЕБЕ ПРИЙДУ",
-    "artist": "2078.\tТИХОНЧИК БОГДАН"
+    "artist": "ТИХОНЧИК БОГДАН"
   },
   {
     "title": "АЛКОГОЛІЗМ (+,-).kfn",
-    "artist": "2079.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "АЛЬОНА",
-    "artist": "2080.\tТІК"
-  },
-  {
-    "title": "АЛЬОНА",
-    "artist": "2081.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "АПРЕЛЬ",
-    "artist": "2082.\tТІК"
-  },
-  {
-    "title": "АПРЕЛЬ",
-    "artist": "2083.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "БIЛА ХМАРА,ЧОРНА ХМАРА",
-    "artist": "2084.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "БАБИ (-).kfn",
-    "artist": "2085.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "БАБИ",
-    "artist": "2086.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "БЕЗ АНСАМБЛЯ",
-    "artist": "2087.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "БЕЗ ТЕБЕ",
-    "artist": "2088.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "БІЛІ ТРОЯНДИ",
-    "artist": "2089.\tТІК"
-  },
-  {
-    "title": "БІЛІ ТРОЯНДИ",
-    "artist": "2090.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ВЕСЕЛА ПІСНЯ",
-    "artist": "2091.\tТІК"
-  },
-  {
-    "title": "ВЕСЕЛА ПІСНЯ",
-    "artist": "2092.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ВЕСНЯНКА (VID).kfn",
-    "artist": "2093.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ВЕСНЯНКА",
-    "artist": "2094.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ВЧИТЕЛЬКА",
-    "artist": "2095.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ГОСТІ (+,-,VID).kfn",
-    "artist": "2096.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ГОСТІ.kfn",
-    "artist": "2097.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ГУЛЯЙ, НАРОД",
-    "artist": "2098.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ДОНЕЧКА",
-    "artist": "2099.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЕМОЧКА",
-    "artist": "2100.\tТІК"
-  },
-  {
-    "title": "ЕМОЧКА",
-    "artist": "2101.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЕНДОРФІНИ",
-    "artist": "2102.\tТІК"
-  },
-  {
-    "title": "ЕНДОРФІНИ",
-    "artist": "2103.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЕРЕНБI",
-    "artist": "2104.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЖУРАВЛІ",
-    "artist": "2105.\tТІК"
-  },
-  {
-    "title": "ЖУРАВЛІ",
-    "artist": "2106.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЗАГРЕБЕЛЬНИЙ",
-    "artist": "2107.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЗАПАХ ВІЙНИ",
-    "artist": "2108.\tТІК"
-  },
-  {
-    "title": "ЗАПАХ ВІЙНИ",
-    "artist": "2109.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЗЛИВА",
-    "artist": "2110.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЗНОВУ ОДИН СТОЮ (КУРЮ) (-).kfn",
-    "artist": "2111.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЗНОВУ ОДИН СТОЮ (КУРЮ) (+,-,VID)·.kfn",
-    "artist": "2112.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "КАЦАПИ",
-    "artist": "2113.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЛИСТОПАД (-).kfn",
-    "artist": "2114.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЛИСТОПАД",
-    "artist": "2115.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ОЛЕНІ (-,+,КЛИП)·.kfn",
-    "artist": "2116.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "РОБОТ (КЛІП)·.kfn",
-    "artist": "2117.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "СВЄТА (+.-,КЛІП).kfn",
-    "artist": "2118.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "СІРОЖА З РУЖИНА",
-    "artist": "2119.\tТІК"
-  },
-  {
-    "title": "СІРОЖА З РУЖИНА",
-    "artist": "2120.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "СІРОЖЕНЕ ПІРОЖИНЕ",
-    "artist": "2121.\tТІК"
-  },
-  {
-    "title": "СІРОЖЕНЕ ПІРОЖИНЕ",
-    "artist": "2122.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "СОСЮРА",
-    "artist": "2123.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЧОЛОВІЧЕ ЩАСТЯ",
-    "artist": "2124.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ЩЕ НЕ ВМЕРЛА УКРАЇНА",
-    "artist": "2125.\tТІК"
+    "artist": "ТІК"
   },
   {
     "title": "ВОДА",
-    "artist": "2126.\tТНМК"
+    "artist": "ТНМК"
   },
   {
     "title": "ГРАНУЛИ",
-    "artist": "2127.\tТНМК"
+    "artist": "ТНМК"
   },
   {
     "title": "ЗАБУВ",
-    "artist": "2128.\tТНМК"
+    "artist": "ТНМК"
   },
   {
     "title": "ФАЙНЕ МІСТО ТЕРНОПІЛЬ (VID)·.kfn",
-    "artist": "2129.\tТНМК"
+    "artist": "ТНМК"
   },
   {
     "title": "БАР ЗА БАРОМ",
-    "artist": "2130.\tТРIНЧЕР АННА"
+    "artist": "ТРIНЧЕР АННА"
   },
   {
     "title": "КОЛОСКИ",
-    "artist": "2131.\tТРIНЧЕР АННА"
-  },
-  {
-    "title": "КОЛОСКИ",
-    "artist": "2132.\tТРIНЧЕР АННА"
+    "artist": "ТРIНЧЕР АННА"
   },
   {
     "title": "ЗАЙ",
-    "artist": "2133.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "КРОПИВА",
-    "artist": "2134.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "ЛИШЕ ТЕБЕ",
-    "artist": "2135.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "ЛИШЕ ТЕБЕ",
-    "artist": "2136.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "НЕ ЗАЛИШАЙ",
-    "artist": "2137.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "НЕ ЗАЛИШАЙ",
-    "artist": "2138.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "НЕ ЗАЛИШАЙ",
-    "artist": "2139.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "НЕБО ЗНАЄ",
-    "artist": "2140.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "ОЧІ",
-    "artist": "2141.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "ПОЧНИ З СЕБЕ",
-    "artist": "2142.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "ПОЧНИ З СЕБЕ",
-    "artist": "2143.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "ПОЧНИ З СЕБЕ",
-    "artist": "2144.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "ПОЧНИ З СЕБЕ",
-    "artist": "2145.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "ПОЧНИ З СЕБЕ",
-    "artist": "2146.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "ТИ РОБИВ МЕНІ КАВУ",
-    "artist": "2147.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "ТРЕШ",
-    "artist": "2148.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "ШКОЛА",
-    "artist": "2149.\tТРІНЧЕР АННА"
-  },
-  {
-    "title": "ШКОЛА",
-    "artist": "2150.\tТРІНЧЕР АННА"
+    "artist": "ТРІНЧЕР АННА"
   },
   {
     "title": "ТИ РОБИВ МЕНІ КАВУ",
-    "artist": "2151.\tТРІНЧЕР АННА & MBREEZE"
+    "artist": "ТРІНЧЕР АННА & MBREEZE"
   },
   {
     "title": "ЯКИЙ ТИ КОЗАК",
-    "artist": "2152.\tТРІНЧЕР АННА & POSITIFF"
+    "artist": "ТРІНЧЕР АННА & POSITIFF"
   },
   {
     "title": "ДИЧКА МОЛОДИЧКА",
-    "artist": "2153.\tУКРАЇНСЬКА ШВЕЙЦАРІЯ"
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
     "title": "КУЩ КАЛИНИ",
-    "artist": "2154.\tУКРАЇНСЬКА ШВЕЙЦАРІЯ"
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
     "title": "ЛЕТЯТЬ КОНІ НА ВКРАЇНУ",
-    "artist": "2155.\tУКРАЇНСЬКА ШВЕЙЦАРІЯ"
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
     "title": "НА ІВАНА НА КУПАЛА",
-    "artist": "2156.\tУКРАЇНСЬКА ШВЕЙЦАРІЯ"
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
     "title": "УКРАЇНА",
-    "artist": "2157.\tУКРАЇНСЬКА ШВЕЙЦАРІЯ"
+    "artist": "УКРАЇНСЬКА ШВЕЙЦАРІЯ"
   },
   {
     "title": "А Я ЧОРНЯВА",
-    "artist": "2158.\tУКРАЇНСЬКІ"
-  },
-  {
-    "title": "А Я ЧОРНЯВА",
-    "artist": "2159.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "БУЛА СОБI МАРУСЯ ПОЛЮБИЛА ПЕТРУСЯ",
-    "artist": "2160.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "В САДУ ГУЛЯЛА (VID).kfn",
-    "artist": "2161.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ВАРЕНИЧКИ (+,-).kfn",
-    "artist": "2162.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ГЕЙ НАЛИВАЙТЕ ПОВНIЇ ЧАРИ",
-    "artist": "2163.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ГЕЙ, НАЛИВАЙТЕ",
-    "artist": "2164.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ГЕЙ, НАЛИВАЙТЕ ПОВНІЇ ЧАРИ 1.kfn",
-    "artist": "2165.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ГЕЙ, НАЛИВАЙТЕ ПОВНІЇ ЧАРИ 2.kfn",
-    "artist": "2166.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ГОРIЛА СОСНА ПАЛАЛА",
-    "artist": "2167.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ДВА ДУБКИ (-)·.kfn",
-    "artist": "2168.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ДВА ДУБКИ",
-    "artist": "2169.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЗЕЛЕНЕЄ ЖИТО ЗЕЛЕНЕ",
-    "artist": "2170.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ІВАНКО (ОЙ. ЧОРНАЯ СИ, ЧОРНА)·.kfn",
-    "artist": "2171.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЇХАЛИ КОЗАКИ.kfn",
-    "artist": "2172.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "МІСЯЦЬ НА НЕБІ (-).kfn",
-    "artist": "2173.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "НАЛИВАЙМО, БРАТТЯ (-).kfn",
-    "artist": "2174.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "НЕ ТА РУЖА",
-    "artist": "2175.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ (-).kfn",
-    "artist": "2176.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
-    "artist": "2177.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "НІЧ ЯКА МІСЯЧНА (FULL VERSION).kfn",
-    "artist": "2178.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "НІЧ ЯКА МІСЯЧНА (ВАЛЬС).kfn",
-    "artist": "2179.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ОЙ НЕ СПИТЬСЯ НЕ ЛЕЖИТЬСЯ",
-    "artist": "2180.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ОЙ ПIД ВIШНЕЮ",
-    "artist": "2181.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ОЙ ТИ, ГАЛЮ",
-    "artist": "2182.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ОЙ У ВИШНЕВОМУ САДОЧКУ ТАМ СОЛОВЕЙКО ЩЕБЕТАВ (-).kfn",
-    "artist": "2183.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ОЙ У ВИШНЕВОМУ САДУ (МЕДЛЕННАЯ,VID).kfn",
-    "artist": "2184.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ОЙ У ПОЛI ТРИ КРИНИЧЕНЬКИ",
-    "artist": "2185.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ОЙ, ЧИЙ ТО КІНЬ СТОЇТЬ (БЫСТРАЯ).kfn",
-    "artist": "2186.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ПІСНЯ ПРО РУШНИК (РІДНА МАТИ МОЯ).kfn",
-    "artist": "2187.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "РІДНА МАТИ МОЯ",
-    "artist": "2188.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "РОЗПРЯГАЙТЕ ХЛОПЦІ КОНЕЙ.kfn",
-    "artist": "2189.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ТИ Ж МЕНЕ ПІДМАНУЛА (-)·.kfn",
-    "artist": "2190.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ТИ Ж МЕНЕ ПІДМАНУЛА",
-    "artist": "2191.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЦВIТЕ ТЕРЕН",
-    "artist": "2192.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЦВІТЕ ТЕРЕН (-).kfn",
-    "artist": "2193.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЧЕРЕМШИНА (ЗНОВ ЗОЗУЛІ ЧУТИ ГОЛОС В ЛІСІ).kfn",
-    "artist": "2194.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЧЕРЕМШИНА (МЕЛОДІЯ).kfn",
-    "artist": "2195.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЧОБОТИ З БУГАЯ (-).kfn",
-    "artist": "2196.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЧОРНА ГОРА",
-    "artist": "2197.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ЧОРНІЇ БРОВИ КАРІЇ ОЧІ.kfn",
-    "artist": "2198.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "ШУБА_ШУБА ДА, А Я ГАЛЯ МОЛОДА·.kfn",
-    "artist": "2199.\tУКРАЇНСЬКІ"
+    "artist": "УКРАЇНСЬКІ"
   },
   {
     "title": "БАТЬКИ МОЇ",
-    "artist": "2200.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ЖИТТЯМ ЗАПЛАЧУ",
-    "artist": "2201.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ЗАМЕРЗЛА ВИШНЯ",
-    "artist": "2202.\tФЕДИШИН IРИНА"
-  },
-  {
-    "title": "ЗАМЕРЗЛА ВИШНЯ",
-    "artist": "2203.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ЗІРОНЬКА",
-    "artist": "2204.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "МАМИНА СОРОЧКА",
-    "artist": "2205.\tФЕДИШИН IРИНА"
-  },
-  {
-    "title": "МАМИНА СОРОЧКА",
-    "artist": "2206.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
-    "artist": "2207.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ПИТАЙ",
-    "artist": "2208.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "РОДИНА",
-    "artist": "2209.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ТИ МІЙ",
-    "artist": "2210.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ХОЧУ Я ЛІТАТИ",
-    "artist": "2211.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ЦЕ НЕ ГРА",
-    "artist": "2212.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ЧОРНІ ОЧКА",
-    "artist": "2213.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "ЧУЖІ УСТА",
-    "artist": "2214.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "Я ПАДАЮ З НЕБА",
-    "artist": "2215.\tФЕДИШИН IРИНА"
+    "artist": "ФЕДИШИН IРИНА"
   },
   {
     "title": "БАТЬКИ МОЇ",
-    "artist": "2216.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "БАТЬКИ МОЇ",
-    "artist": "2217.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "БІЛІ ТРОЯНДИ",
-    "artist": "2218.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "БІЛІ ТРОЯНДИ",
-    "artist": "2219.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ГІТАРА",
-    "artist": "2220.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ДА РИ НА (ЗА ГОРОЮ ВЕРБА)",
-    "artist": "2221.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ДАРИНА (ЗА ГОРОЮ ВЕРБА)",
-    "artist": "2222.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ДОЛОНЬКИ",
-    "artist": "2223.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "ДОЛОНЬКИ",
-    "artist": "2224.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ДУША",
-    "artist": "2225.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ДЯКУЮ ТОБІ",
-    "artist": "2226.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ЖИТТЯМ ЗАПЛАЧУ",
-    "artist": "2227.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ЗІРОНЬКА",
-    "artist": "2228.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "КАЛИНА",
-    "artist": "2229.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "КАЛИНА",
-    "artist": "2230.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "КАЛИНА",
-    "artist": "2231.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "КОЛЯДА",
-    "artist": "2232.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "МАРІЯ",
-    "artist": "2233.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "МАРІЯ",
-    "artist": "2234.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ (+,-).kfn",
-    "artist": "2235.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "НЕСЕ ГАЛЯ ВОДУ",
-    "artist": "2236.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ПАРОЛЬ",
-    "artist": "2237.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ПЛАКУЧА ГІТАРА",
-    "artist": "2238.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ПРОШУ В НЕБА",
-    "artist": "2239.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "РОДИНА",
-    "artist": "2240.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "РОЗСТРІЛЯНА ВЕСНА",
-    "artist": "2241.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "РОЗСТРІЛЯНА ВЕСНА",
-    "artist": "2242.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "РОЗСТРІЛЯНА ВЕСНА.kfn",
-    "artist": "2243.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "РОМАН",
-    "artist": "2244.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "СНІЖИНКА",
-    "artist": "2245.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ТАМ ДЕ ТИ",
-    "artist": "2246.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ТВІЙ АНГЕЛ",
-    "artist": "2247.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "ТВІЙ АНГЕЛ",
-    "artist": "2248.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ТВОЯ",
-    "artist": "2249.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ТИ ТІЛЬКИ МІЙ",
-    "artist": "2250.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "ТИ ТІЛЬКИ МІЙ",
-    "artist": "2251.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "УКРАЇНА (ЦЕ МОЯ ЗЕМЛЯ)",
-    "artist": "2252.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ХОЧУ НА МАЛЬДІВИ",
-    "artist": "2253.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ЦЕ НЕ ГРА",
-    "artist": "2254.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ЧУЖІ УСТА",
-    "artist": "2255.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "Я ТЕБЕ ЛЮБЛЮ",
-    "artist": "2256.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ЯК Я ТЕБЕ ЛЮБЛЮ",
-    "artist": "2257.\tФЕДИШИН ІРИНА"
-  },
-  {
-    "title": "ЯК Я ТЕБЕ ЛЮБЛЮ",
-    "artist": "2258.\tФЕДИШИН ІРИНА"
+    "artist": "ФЕДИШИН ІРИНА"
   },
   {
     "title": "ТИША",
-    "artist": "2259.\tФІОЛЕТ"
+    "artist": "ФІОЛЕТ"
   },
   {
     "title": "ОСЬ ЯКА ПАНЯНОЧКА",
-    "artist": "2260.\tФРIСТАЙЛ"
+    "artist": "ФРIСТАЙЛ"
   },
   {
     "title": "ВАХТЕРАМ (UA)",
-    "artist": "2261.\tФРОЛОВА ЄВГЕНІЯ (FROLOVA)"
+    "artist": "ФРОЛОВА ЄВГЕНІЯ (FROLOVA)"
   },
   {
     "title": "ЧЕРЕМШИНА.avi",
-    "artist": "2262.\tФУДЖИ"
+    "artist": "ФУДЖИ"
   },
   {
     "title": "ВЕРБА",
-    "artist": "2263.\tХАНОК ЕДУАРД"
+    "artist": "ХАНОК ЕДУАРД"
   },
   {
     "title": "ХЕЙ-ХАЙ (ХВИЛЮ ТРИМАЙ).kfn",
-    "artist": "2264.\tХВИЛЮ ТРИМАЙ"
+    "artist": "ХВИЛЮ ТРИМАЙ"
   },
   {
     "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА",
-    "artist": "2265.\tХЛИВНЮК АНДРІЙ"
-  },
-  {
-    "title": "ОЙ У ЛУЗІ ЧЕРВОНА КАЛИНА",
-    "artist": "2266.\tХЛИВНЮК АНДРІЙ"
+    "artist": "ХЛИВНЮК АНДРІЙ"
   },
   {
     "title": "З ДНЕМ НАРОДЖЕННЯ",
-    "artist": "2267.\tХОМА МИХАЙЛО"
-  },
-  {
-    "title": "З ДНЕМ НАРОДЖЕННЯ",
-    "artist": "2268.\tХОМА МИХАЙЛО"
+    "artist": "ХОМА МИХАЙЛО"
   },
   {
     "title": "ТУМАН",
-    "artist": "2269.\tХОМА МИХАЙЛО"
+    "artist": "ХОМА МИХАЙЛО"
   },
   {
     "title": "ДЕ ТИ МОЯ МИЛА (-).kfn",
-    "artist": "2270.\tХУРСЕНКО ВЯЧЕСЛАВ"
+    "artist": "ХУРСЕНКО ВЯЧЕСЛАВ"
   },
   {
     "title": "СОКОЛЯТА (-,+).kfn",
-    "artist": "2271.\tХУРСЕНКО ВЯЧЕСЛАВ"
+    "artist": "ХУРСЕНКО ВЯЧЕСЛАВ"
   },
   {
     "title": "ЧЕКАЮ І БАЖАЮ (-).kfn",
-    "artist": "2272.\tХУРСЕНКО ВЯЧЕСЛАВ"
+    "artist": "ХУРСЕНКО ВЯЧЕСЛАВ"
   },
   {
     "title": "БIЛИЙ КАМIНЬ",
-    "artist": "2273.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "БАБИ, ЯК БАБИ (КОРОЛЕВА)",
-    "artist": "2274.\tЦВІТ КУЛЬБАБИ"
-  },
-  {
-    "title": "БАБИ, ЯК БАБИ (КОРОЛЕВА)",
-    "artist": "2275.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "ЗДУРИЛА",
-    "artist": "2276.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "ЙДУ НА ВІЙНУ",
-    "artist": "2277.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "КОЗАК",
-    "artist": "2278.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "КОРОЛЄВА",
-    "artist": "2279.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "ОЛЕНА",
-    "artist": "2280.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "ПО БАРАБАНУ",
-    "artist": "2281.\tЦВІТ КУЛЬБАБИ"
-  },
-  {
-    "title": "ПО БАРАБАНУ",
-    "artist": "2282.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "СІНО",
-    "artist": "2283.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "ХУЛІГАНКА",
-    "artist": "2284.\tЦВІТ КУЛЬБАБИ"
+    "artist": "ЦВІТ КУЛЬБАБИ"
   },
   {
     "title": "PROSECCO (ПРОСЕККО)",
-    "artist": "2285.\tЦИБУЛЬСЬКА ОЛЯ"
+    "artist": "ЦИБУЛЬСЬКА ОЛЯ"
   },
   {
     "title": "ВИКЛИКАЙ ПОЛІЦІЮ",
-    "artist": "2286.\tЦИБУЛЬСЬКА ОЛЯ"
+    "artist": "ЦИБУЛЬСЬКА ОЛЯ"
   },
   {
     "title": "ЧЕКАЙ",
-    "artist": "2287.\tЧАЙКОВСЬКА МАРIЯ, КАТУШКIН ГУША"
+    "artist": "ЧАЙКОВСЬКА МАРIЯ, КАТУШКIН ГУША"
   },
   {
     "title": "КРАСОТА",
-    "artist": "2288.\tЧАЙКОВСЬКА МАРІЯ"
+    "artist": "ЧАЙКОВСЬКА МАРІЯ"
   },
   {
     "title": "КРИЛА",
-    "artist": "2289.\tЧАЙКОВСЬКА МАРІЯ"
+    "artist": "ЧАЙКОВСЬКА МАРІЯ"
   },
   {
     "title": "MAМА",
-    "artist": "2290.\tЧЕМЕРОВ САША"
+    "artist": "ЧЕМЕРОВ САША"
   },
   {
     "title": "КОХАННЯ ДО СМЕРТІ",
-    "artist": "2291.\tЧЕМЕРОВ САША"
+    "artist": "ЧЕМЕРОВ САША"
   },
   {
     "title": "КРАЩИЙ З КРАЩИХ",
-    "artist": "2292.\tЧЕМЕРОВ САША"
+    "artist": "ЧЕМЕРОВ САША"
   },
   {
     "title": "МІСТО",
-    "artist": "2293.\tЧЕМЕРОВ САША"
+    "artist": "ЧЕМЕРОВ САША"
   },
   {
     "title": "СЛЬОЗИ",
-    "artist": "2294.\tЧЕМЕРОВ САША"
+    "artist": "ЧЕМЕРОВ САША"
   },
   {
     "title": "ЛЮБИЛА",
-    "artist": "2295.\tЧЕМЕРОВ САША & БУМБОКС"
+    "artist": "ЧЕМЕРОВ САША & БУМБОКС"
   },
   {
     "title": "А НА СЕРЦІ КАМІНЬ (+,-).kfn",
-    "artist": "2296.\tШАБЛЯ LIFE"
+    "artist": "ШАБЛЯ LIFE"
   },
   {
     "title": "А НА СЕРЦІ КАМІНЬ",
-    "artist": "2297.\tШАБЛЯ LIFE"
+    "artist": "ШАБЛЯ LIFE"
   },
   {
     "title": "БРАТТЯ УКРАЇНЦІ (+,-).kfn",
-    "artist": "2298.\tШАБЛЯ LIFE"
+    "artist": "ШАБЛЯ LIFE"
   },
   {
     "title": "КЛЯТА ВІЙНА (+,-).kfn",
-    "artist": "2299.\tШАБЛЯ LIFE"
+    "artist": "ШАБЛЯ LIFE"
   },
   {
     "title": "ЛІРИЧНА (+,-).kfn",
-    "artist": "2300.\tШАБЛЯ LIFE"
+    "artist": "ШАБЛЯ LIFE"
   },
   {
     "title": "СИНКУ МІЙ СИНКУ (+,-).kfn",
-    "artist": "2301.\tШАБЛЯ LIFE"
+    "artist": "ШАБЛЯ LIFE"
   },
   {
     "title": "БУДУ ЛЮБИТИ ТЕБЕ",
-    "artist": "2302.\tШАНИС ОЛЬГА"
+    "artist": "ШАНИС ОЛЬГА"
   },
   {
     "title": "ВИШИВАНКА",
-    "artist": "2303.\tШЕВЧУК ЯРОСЛАВ"
+    "artist": "ШЕВЧУК ЯРОСЛАВ"
   },
   {
     "title": "СИНУ АНГЕЛ МIЙ",
-    "artist": "2304.\tШЕСТАК НАДІЯ"
+    "artist": "ШЕСТАК НАДІЯ"
   },
   {
     "title": "БАЛАДА ПРО МАЛЬВИ",
-    "artist": "2305.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "ДИТИНСТВО",
-    "artist": "2306.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "ІДУ ДО ВАС",
-    "artist": "2307.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "КАЛИНОВІ ОСТРОВИ",
-    "artist": "2308.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "НЕ КАЖИ МЕНІ",
-    "artist": "2309.\tШИНКАРУК ІРИНА"
-  },
-  {
-    "title": "НЕ КАЖИ МЕНІ",
-    "artist": "2310.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "НИНІ Я САМА",
-    "artist": "2311.\tШИНКАРУК ІРИНА"
-  },
-  {
-    "title": "НИНІ Я САМА",
-    "artist": "2312.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "ПАВУТИННЯ ДОЩУ",
-    "artist": "2313.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "ЧЕРЕМХОВА ВІХОЛА",
-    "artist": "2314.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "ЧОРНІ, ЧОРНІ ОЧІ",
-    "artist": "2315.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "ШОВКОВИЙ ВІТЕР",
-    "artist": "2316.\tШИНКАРУК ІРИНА"
+    "artist": "ШИНКАРУК ІРИНА"
   },
   {
     "title": "ЗАЧАРУЙ",
-    "artist": "2317.\tШОСТЕ ЧУТТЯ"
+    "artist": "ШОСТЕ ЧУТТЯ"
   },
   {
     "title": "ТУМАН",
-    "artist": "2318.\tШУГАР"
+    "artist": "ШУГАР"
   },
   {
     "title": "ТЬОТЯ",
-    "artist": "2319.\tШУГАР"
+    "artist": "ШУГАР"
   },
   {
     "title": "РОМАШКИ",
-    "artist": "2320.\tШУГАР & TORIЯ"
+    "artist": "ШУГАР & TORIЯ"
   },
   {
     "title": "БІЛА ХАТА",
-    "artist": "2321.\tЯНЧЕНКО МИКОЛА"
+    "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "ДIТЕЙ ДО МАТЕРI НЕМА",
-    "artist": "2322.\tЯНЧЕНКО МИКОЛА"
+    "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "ЛИШЕ У НАС НА УКРАЇНІ",
-    "artist": "2323.\tЯНЧЕНКО МИКОЛА"
+    "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "МАМИНА ВИШНЯ",
-    "artist": "2324.\tЯНЧЕНКО МИКОЛА"
+    "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "НА КОНЯ",
-    "artist": "2325.\tЯНЧЕНКО МИКОЛА"
+    "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "НАЛИВАЙ КУМА",
-    "artist": "2326.\tЯНЧЕНКО МИКОЛА"
+    "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "ЯК КОЛИСЬ ДАВАЛИ ЖАРУ",
-    "artist": "2327.\tЯНЧЕНКО МИКОЛА"
+    "artist": "ЯНЧЕНКО МИКОЛА"
   },
   {
     "title": "ОЙ,ЧОГО Ж ТИ МАМО",
-    "artist": "2328.\tЯНЧЕНКО МИКОЛА, ДЕНИСЮК Т."
+    "artist": "ЯНЧЕНКО МИКОЛА, ДЕНИСЮК Т."
   },
   {
     "title": "МИ ПЕРЕМОЖИМО",
-    "artist": "2329.\tЯРЕМЕНКО ОЛЕКСАНДР"
+    "artist": "ЯРЕМЕНКО ОЛЕКСАНДР"
   },
   {
     "title": "МАМИНІ ОЧІ",
-    "artist": "2330.\tЯРЕМОВА СОФІЯ"
+    "artist": "ЯРЕМОВА СОФІЯ"
   },
   {
     "title": "РОДИНА",
-    "artist": "2331.\tЯРЕМЧУК МАРIЯ"
+    "artist": "ЯРЕМЧУК МАРIЯ"
   },
   {
     "title": "В ЧИСТІМ ПОЛІ (-,МАСТЕР).kfn",
-    "artist": "2332.\tЯРЕМЧУК МАРІЯ"
+    "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
     "title": "В ЧИСТІМ ПОЛІ.kfn",
-    "artist": "2333.\tЯРЕМЧУК МАРІЯ"
+    "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
     "title": "ВЕСНА",
-    "artist": "2334.\tЯРЕМЧУК МАРІЯ"
+    "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
     "title": "ДО ТЕБЕ",
-    "artist": "2335.\tЯРЕМЧУК МАРІЯ"
+    "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
     "title": "ТЕБЕ Я ЗНАЙДУ",
-    "artist": "2336.\tЯРЕМЧУК МАРІЯ"
+    "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
     "title": "ТЕЧЕ ВОДА",
-    "artist": "2337.\tЯРЕМЧУК МАРІЯ"
+    "artist": "ЯРЕМЧУК МАРІЯ"
   },
   {
     "title": "ВСІ СЛОВА",
-    "artist": "2338.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "ДВА КОЛЬОРИ",
-    "artist": "2339.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "ЗЕЛЕНИЙ ГАЙ",
-    "artist": "2340.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "НАША ДОЛЯ",
-    "artist": "2341.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "НЕ БУВАЮТЬ ДОЩІ ВИПАДКОВІ",
-    "artist": "2342.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "ОСІНЬ",
-    "artist": "2343.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "ПОДАРУЮ СВІТУ",
-    "artist": "2344.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "СТОЖАРИ",
-    "artist": "2345.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "ТАМ ДЕ ТИ",
-    "artist": "2346.\tЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
+    "artist": "ЯРЕМЧУК НАЗАРIЙ & ДМИТРО"
   },
   {
     "title": "БАТЬКО І МАТИ",
-    "artist": "2347.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "БІЛІ ЛІЛЕЇ",
-    "artist": "2348.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "ГАЙ ЗЕЛЕНИЙ ГАЙ",
-    "artist": "2349.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "ГАЙ, ЗЕЛЕНИЙ ГАЙ",
-    "artist": "2350.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "ГЕЙ ВИ КОЗАЧЕНЬКИ",
-    "artist": "2351.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "ДВА КОЛЬОРИ (VID).kfn",
-    "artist": "2352.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "РОДИНА",
-    "artist": "2353.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "СМЕРЕКОВА ХАТА",
-    "artist": "2354.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "СТОЖАРИ",
-    "artist": "2355.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "ЧОРНА КАВА",
-    "artist": "2356.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "Я ПІДУ В ДАЛЕКІ ГОРИ",
-    "artist": "2357.\tЯРЕМЧУК НАЗАРІЙ"
+    "artist": "ЯРЕМЧУК НАЗАРІЙ"
   },
   {
     "title": "ВОНА",
-    "artist": "2358.\tЯРМАК"
+    "artist": "ЯРМАК"
   },
   {
     "title": "ТВОЇ СНИ",
-    "artist": "2359.\tЯРМАК"
+    "artist": "ЯРМАК"
   },
   {
     "title": "ДИКЕ ПОЛЕ",
-    "artist": "2360.\tЯРМАК & ALISA"
+    "artist": "ЯРМАК & ALISA"
   }
 ];
+
 export default data;
